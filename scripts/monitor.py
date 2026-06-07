@@ -128,10 +128,65 @@ def parse_feed(response: requests.Response) -> list[FeedEntry]:
 
 # -- html extraction --------------------------------------------------------
 
-def extract_html(response: requests.Response, url: str) -> str:
-    """Extract main content via trafilatura. HTML path - not exercised until html sources added."""
-    import trafilatura
+def _strip_support_boilerplate(md: str) -> str:
+    """Remove YouTube embed block and feedback footer from support.google.com pages."""
+    lines = md.splitlines()
+    out = []
+    skip_to_blank = False
+    for line in lines:
+        if "youtube.com" in line or "youtu.be" in line:
+            skip_to_blank = True
+            continue
+        if "subtitles in your language" in line.lower() or "youtube captions" in line.lower():
+            skip_to_blank = True
+            continue
+        if "was this helpful" in line.lower():
+            break  # drop feedback footer and everything after
+        if skip_to_blank:
+            if line.strip() == "":
+                skip_to_blank = False
+            continue
+        out.append(line)
+    return "\n".join(out)
 
+
+def _extract_article_html2text(response: requests.Response) -> str:
+    """
+    Extract main content from pages with a single <article> tag using html2text.
+    Use for pages where trafilatura produces garbage (complex table-heavy layouts).
+    """
+    from bs4 import BeautifulSoup
+    import html2text as h2t
+
+    soup = BeautifulSoup(response.text, "lxml")
+    article = soup.find("article")
+    if not article:
+        raise ValueError("no <article> tag found - cannot use article_html2text extractor")
+
+    for tag in article.find_all(["script", "style", "nav", "button", "form"]):
+        tag.decompose()
+
+    h = h2t.HTML2Text()
+    h.ignore_links = False
+    h.ignore_images = True
+    h.body_width = 0
+
+    md = h.handle(str(article))
+    md = _strip_support_boilerplate(md)
+    return normalize_markdown(md)
+
+
+def extract_html(response: requests.Response, url: str, hint: str | None = None) -> str:
+    """Extract main content from an HTML page and return normalized markdown.
+
+    hint='article_html2text': use BeautifulSoup <article> + html2text instead of
+    trafilatura. Use for pages where trafilatura produces garbage (e.g. complex
+    table-heavy support.google.com pages).
+    """
+    if hint == "article_html2text":
+        return _extract_article_html2text(response)
+
+    import trafilatura
     extracted = trafilatura.extract(
         response.text,
         url=url,
@@ -391,7 +446,7 @@ def run(dry_run: bool) -> None:
                 result, fresh_data = detect_feed_changes(name, entries, snapshot)
                 pending_saves.append((name, stype, fresh_data))
             elif stype == "html":
-                md = extract_html(resp, url)
+                md = extract_html(resp, url, hint=src.get("hint"))
                 print(f"   Extracted {len(md):,} chars")
                 result, fresh_data = detect_html_changes(name, md, snapshot)
                 pending_saves.append((name, stype, fresh_data))

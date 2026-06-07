@@ -18,3 +18,8 @@ sources:
   - name: merchant_api
     type: html
     url: https://developers.google.com/merchant/api/latest-updates
+
+  - name: merchant_product_spec
+    type: html
+    url: https://support.google.com/merchants/answer/7052112?hl=en
+    hint: article_html2text
