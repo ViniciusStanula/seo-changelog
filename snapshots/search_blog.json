@@ -1,0 +1,65 @@
+{
+  "fetched_at": "2026-06-07T22:19:13.112872+00:00",
+  "entries": [
+    {
+      "id": "2026-06-03-Introducing-Search-Generative-AI-performance-reports-in-Search-Console",
+      "title": "Introducing Search Generative AI performance reports in Search Console",
+      "link": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+      "published": "Wed, 03 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-05-15-A-new-resource-for-optimizing-for-generative-AI-in-Google-Search",
+      "title": "A new resource for optimizing for generative AI in Google Search",
+      "link": "https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing",
+      "published": "Fri, 15 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-04-13-Introducing-a-new-spam-policy-for-\"back-button-hijacking\"",
+      "title": "Introducing a new spam policy for \"back button hijacking\"",
+      "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "published": "Mon, 13 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-04-02-Search-Central-Live-is-Coming-to-Shanghai-in-2026!",
+      "title": "Search Central Live is Coming to Shanghai in 2026!",
+      "link": "https://developers.google.com/search/blog/2026/04/scl-shanghai-2026",
+      "published": "Thu, 02 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-03-31-New-Location-for-the-Google-Crawlers'-IP-Range-Files",
+      "title": "New Location for the Google Crawlers' IP Range Files",
+      "link": "https://developers.google.com/search/blog/2026/03/crawler-ip-ranges",
+      "published": "Tue, 31 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-03-31-Inside-Googlebot:-demystifying-crawling,-fetching,-and-the-bytes-we-process",
+      "title": "Inside Googlebot: demystifying crawling, fetching, and the bytes we process",
+      "link": "https://developers.google.com/search/blog/2026/03/crawler-blog-post",
+      "published": "Tue, 31 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-03-20-Search-Central-Live-Asia-Pacific-2026:-Get-Ready-for-Sydney-and-more!",
+      "title": "Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!",
+      "link": "https://developers.google.com/search/blog/2026/03/scl-apac-2026",
+      "published": "Fri, 20 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-03-11-Search-Central-Live-is-coming-to-Canada!",
+      "title": "Search Central Live is coming to Canada!",
+      "link": "https://developers.google.com/search/blog/2026/03/scl-canada-2026",
+      "published": "Wed, 11 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-02-05-Google's-February-2026-Discover-Core-Update",
+      "title": "Google's February 2026 Discover Core Update",
+      "link": "https://developers.google.com/search/blog/2026/02/discover-core-update",
+      "published": "Thu, 05 Feb 2026 00:00:00 +0000"
+    },
+    {
+      "id": "2026-01-26-Search-Central-Live-is-coming-back-to-South-America",
+      "title": "Search Central Live is coming back to South America",
+      "link": "https://developers.google.com/search/blog/2026/01/search-central-live-brasil-argentina",
+      "published": "Mon, 26 Jan 2026 00:00:00 +0000"
+    }
+  ]
+}

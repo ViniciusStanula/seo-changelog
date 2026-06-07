@@ -1,0 +1,65 @@
+{
+  "fetched_at": "2026-06-07T22:19:19.971628+00:00",
+  "entries": [
+    {
+      "id": "https://developer.chrome.com/blog/seamless-pwa-origin-migration?hl=en",
+      "title": "Seamless PWA origin migration: Change domains without losing users",
+      "link": "https://developer.chrome.com/blog/seamless-pwa-origin-migration",
+      "published": "Wed, 03 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/chrome-150-beta?hl=en",
+      "title": "Chrome 150 beta",
+      "link": "https://developer.chrome.com/blog/chrome-150-beta",
+      "published": "Wed, 03 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/new-in-devtools-149?hl=en",
+      "title": "What's new in DevTools (Chrome 149)",
+      "link": "https://developer.chrome.com/blog/new-in-devtools-149",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/new-in-chrome-149?hl=en",
+      "title": "New in Chrome 149",
+      "link": "https://developer.chrome.com/blog/new-in-chrome-149",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/build-new-features-using-built-in-ai-in-chrome-io2026?hl=en",
+      "title": "Build new features using built-in AI in Chrome",
+      "link": "https://developer.chrome.com/blog/build-new-features-using-built-in-ai-in-chrome-io2026",
+      "published": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/extensions-io-2026?hl=en",
+      "title": "What's new in web extensions: I﻿/﻿O 2026 recap",
+      "link": "https://developer.chrome.com/blog/extensions-io-2026",
+      "published": "Fri, 22 May 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/new-in-chrome-io26?hl=en",
+      "title": "New in Chrome at Google I﻿/﻿O 2026",
+      "link": "https://developer.chrome.com/blog/new-in-chrome-io26",
+      "published": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/io26-web-identity?hl=en",
+      "title": "Modernize authentication with passkeys, digital credentials, and more",
+      "link": "https://developer.chrome.com/blog/io26-web-identity",
+      "published": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/chrome-at-io26?hl=en",
+      "title": "15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome",
+      "link": "https://developer.chrome.com/blog/chrome-at-io26",
+      "published": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/declarative-partial-updates?hl=en",
+      "title": "Declarative partial updates",
+      "link": "https://developer.chrome.com/blog/declarative-partial-updates",
+      "published": "Tue, 19 May 2026 07:00:00 GMT"
+    }
+  ]
+}

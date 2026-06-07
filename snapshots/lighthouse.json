@@ -1,0 +1,65 @@
+{
+  "fetched_at": "2026-06-07T22:19:17.865787+00:00",
+  "entries": [
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v13.3.0",
+      "title": "v13.3.0",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.3.0",
+      "published": "2026-05-07T20:38:00Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v13.2.0",
+      "title": "v13.2.0",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.2.0",
+      "published": "2026-05-01T19:03:39Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v13.1.0",
+      "title": "v13.1.0",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.1.0",
+      "published": "2026-04-07T16:48:23Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v13.0.3",
+      "title": "v13.0.3",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.0.3",
+      "published": "2026-02-11T19:26:16Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v13.0.2",
+      "title": "v13.0.2",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.0.2",
+      "published": "2026-02-13T16:39:52Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v13.0.1",
+      "title": "v13.0.1",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.0.1",
+      "published": "2025-10-22T18:40:01Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v13.0.0",
+      "title": "v13.0.0",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.0.0",
+      "published": "2025-10-21T18:12:13Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v12.8.2",
+      "title": "v12.8.2",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v12.8.2",
+      "published": "2025-08-28T21:34:21Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v12.8.1",
+      "title": "v12.8.1",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v12.8.1",
+      "published": "2025-08-01T21:27:59Z"
+    },
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v12.8.0",
+      "title": "v12.8.0",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v12.8.0",
+      "published": "2025-07-11T22:02:52Z"
+    }
+  ]
+}

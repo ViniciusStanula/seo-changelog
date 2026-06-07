@@ -1,0 +1,20 @@
+sources:
+  - name: search_blog
+    type: feed
+    url: https://developers.google.com/search/blog/feed.xml
+
+  - name: search_docs
+    type: feed
+    url: https://developers.google.com/search/updates/search_docs_updates.rss
+
+  - name: lighthouse
+    type: feed
+    url: https://github.com/GoogleChrome/lighthouse/releases.atom
+
+  - name: chrome_blog
+    type: feed
+    url: https://developer.chrome.com/static/blog/feed.xml
+
+  - name: merchant_api
+    type: html
+    url: https://developers.google.com/merchant/api/latest-updates
