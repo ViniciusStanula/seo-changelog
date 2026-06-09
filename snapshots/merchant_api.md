@@ -84,7 +84,7 @@ What's new:
 
 What's changed:
 
-- Ability to create standalone accounts for storebuilders and CSSs. Previously merchant accounts were created under a single Multi-Client Account (MCA).
+- Ability to create standalone accounts for storebuilders and CSSs. Previously merchant accounts were created under a single advanced account.
 - Click potential rankings in the - `productView`table under the Reports sub-API. Now, ranking of products based on- `clickPotential`is normalized to values between 1 and 1000. Products with low- `clickPotentialRank`still have the highest- `click potential`among the merchant's products that fulfill the search query conditions.
 
 What's coming:
