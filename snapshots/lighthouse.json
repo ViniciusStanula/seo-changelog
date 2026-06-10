@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-09T19:59:23.244895+00:00",
+  "fetched_at": "2026-06-10T10:03:06.533125+00:00",
   "entries": [
+    {
+      "id": "tag:github.com,2008:Repository/53370988/v13.4.0",
+      "title": "v13.4.0",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.4.0",
+      "published": "2026-06-09T20:09:26Z"
+    },
     {
       "id": "tag:github.com,2008:Repository/53370988/v13.3.0",
       "title": "v13.3.0",
@@ -54,12 +60,6 @@
       "title": "v12.8.1",
       "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v12.8.1",
       "published": "2025-08-01T21:27:59Z"
-    },
-    {
-      "id": "tag:github.com,2008:Repository/53370988/v12.8.0",
-      "title": "v12.8.0",
-      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v12.8.0",
-      "published": "2025-07-11T22:02:52Z"
     }
   ]
 }
