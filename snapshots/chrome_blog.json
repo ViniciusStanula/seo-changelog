@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-10T20:18:05.505966+00:00",
+  "fetched_at": "2026-06-11T10:27:46.870405+00:00",
   "entries": [
+    {
+      "id": "https://developer.chrome.com/blog/ai-webmcp-origin-trial?hl=en",
+      "title": "Join the WebMCP origin trial",
+      "link": "https://developer.chrome.com/blog/ai-webmcp-origin-trial",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
     {
       "id": "https://developer.chrome.com/blog/seamless-pwa-origin-migration?hl=en",
       "title": "Seamless PWA origin migration: Change domains without losing users",
@@ -53,12 +59,6 @@
       "id": "https://developer.chrome.com/blog/chrome-at-io26?hl=en",
       "title": "15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome",
       "link": "https://developer.chrome.com/blog/chrome-at-io26",
-      "published": "Tue, 19 May 2026 07:00:00 GMT"
-    },
-    {
-      "id": "https://developer.chrome.com/blog/declarative-partial-updates?hl=en",
-      "title": "Declarative partial updates",
-      "link": "https://developer.chrome.com/blog/declarative-partial-updates",
       "published": "Tue, 19 May 2026 07:00:00 GMT"
     }
   ]

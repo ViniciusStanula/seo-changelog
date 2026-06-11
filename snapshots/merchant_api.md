@@ -1,8 +1,32 @@
 Get the latest announcements on new features, bug fixes, and release updates.
 
+## May 2026
+
+## May 2026
+
+What's new:
+
+- A new Merchant API MCP service (alpha version) with authorized access to your Merchant Center data and insights with a focus on read-only is now available as a new agentic tool for Merchant API.
+- New conversational attributes are now available under - `ProductAttributes`in the Products sub-API.- These attributes include:
+- A full set of attributes specifically for vehicle ads has been added in the Products sub-API.
+- Notifications on product status changes for Universal Commerce Protocol (UCP) checkout are now available in the Notifications API through the reporting context value - `FREE_LISTINGS_UCP_CHECKOUT`.
+- Merchant API Agent Skills is the new agentic tool within the Code Assist Toolkit. The new - `mapi-developer-assistant`skill, built on the open Agent Skills standard, provides intelligent and contextual assistance. It brings domain-specific expertise, automated workflows, and enhanced efficiency within AI tools like Antigravity CLI and IDEs to accelerate your integration.
+- A new YouTube sub-API v1alpha version is available for managing YouTube Affiliate Program contracts.
+- Added support to manage YouTube Shopping Affiliate and product reviews programs in the Accounts sub-API.
+- A new data source is available for product promotions at the advanced account level.
+
+What's changed:
+
+- The Merchant API v1beta version discontinued. All API calls must now be directed to the `v1`or`v1alpha`versions. For migration steps, see Migrate from v1beta to v1.
+- More frequent attribute-level updates to `price`and`availability`are now available through the`patch`method in the Products sub-API. This feature enables higher data freshness by allowing you to update these specific attributes with lower latency. Currently, this is only available to allowlisted merchants. To learn more or request access, contact your Google representative.
+
+What's coming:
+
+- Analytics for agentic performance with UCP in the Reports API.
+
 ## January 2026
 
-### January 2026
+## January 2026
 
 What's new:
 
