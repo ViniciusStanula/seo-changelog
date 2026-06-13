@@ -15,6 +15,10 @@ sources:
     type: feed
     url: https://developer.chrome.com/static/blog/feed.xml
 
+  - name: cloud_blog
+    type: feed
+    url: https://cloudblog.withgoogle.com/rss/
+
   - name: merchant_api
     type: html
     url: https://developers.google.com/merchant/api/latest-updates
