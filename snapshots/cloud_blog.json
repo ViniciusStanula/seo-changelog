@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-13T19:12:55.754680+00:00",
+  "fetched_at": "2026-06-14T09:36:56.353678+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -62,9 +62,9 @@
       "published": "Tue, 09 Jun 2026 17:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/detecting-and-containing-powered-threats-with-google-security-operations-agents/",
-      "title": "Detecting and containing AI-powered threats with Google Security Operations agents",
-      "link": "https://cloud.google.com/blog/products/identity-security/detecting-and-containing-powered-threats-with-google-security-operations-agents/",
+      "id": "https://cloud.google.com/blog/products/storage-data-transfer/analyze-cloud-storage-estates-with-storage-insights-datasets/",
+      "title": "Storage Insights datasets: Enabling org-wide operational discovery with activity insights",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/analyze-cloud-storage-estates-with-storage-insights-datasets/",
       "published": "Tue, 09 Jun 2026 16:00:00 +0000"
     },
     {
@@ -74,15 +74,15 @@
       "published": "Tue, 09 Jun 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/",
-      "title": "Report: GKE Inference Gateway delivers up to 92% faster AI responses",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/",
+      "id": "https://cloud.google.com/blog/products/identity-security/detecting-and-containing-powered-threats-with-google-security-operations-agents/",
+      "title": "Detecting and containing AI-powered threats with Google Security Operations agents",
+      "link": "https://cloud.google.com/blog/products/identity-security/detecting-and-containing-powered-threats-with-google-security-operations-agents/",
       "published": "Tue, 09 Jun 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/storage-data-transfer/analyze-cloud-storage-estates-with-storage-insights-datasets/",
-      "title": "Storage Insights datasets: Enabling org-wide operational discovery with activity insights",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/analyze-cloud-storage-estates-with-storage-insights-datasets/",
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/",
+      "title": "Report: GKE Inference Gateway delivers up to 92% faster AI responses",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/",
       "published": "Tue, 09 Jun 2026 16:00:00 +0000"
     },
     {
