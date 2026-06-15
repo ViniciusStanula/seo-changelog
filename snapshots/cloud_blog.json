@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-06-15T12:17:35.596857+00:00",
+  "fetched_at": "2026-06-15T20:48:30.389411+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/",
+      "title": "What’s new in data agents: Supercharging your AI workflows",
+      "link": "https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/",
+      "published": "Mon, 15 Jun 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-the-4-lessons-that-guided-ai-threat-defense/",
+      "title": "Cloud CISO Perspectives: The 4 lessons that guided AI Threat Defense",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-the-4-lessons-that-guided-ai-threat-defense/",
+      "published": "Mon, 15 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action/",
+      "title": "Architecting a trusted agentic platform with graph technologies: A Yahoo case study",
+      "link": "https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action/",
+      "published": "Mon, 15 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
+      "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
+      "published": "Mon, 15 Jun 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same/",
+      "title": "How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same/",
+      "published": "Mon, 15 Jun 2026 09:29:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
@@ -90,36 +120,6 @@
       "title": "Modernizing Healthcare: How Alcidion achieved greater stability and performance with AlloyDB",
       "link": "https://cloud.google.com/blog/products/databases/modernizing-healthcare-how-alcidion-achieved-greater-stability-and-performance/",
       "published": "Mon, 08 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/",
-      "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/",
-      "published": "Fri, 05 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/enhancements-to-managed-service-for-apache-spark-clusters/",
-      "title": "What's new for Managed Service for Apache Spark clusters",
-      "link": "https://cloud.google.com/blog/products/data-analytics/enhancements-to-managed-service-for-apache-spark-clusters/",
-      "published": "Thu, 04 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Thu, 04 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-ai-agents-a-step-by-step-guide-to-deploying-adk-on-gke-autopilot/",
-      "title": "Scaling AI Agents: A Step-by-Step Guide to Deploying ADK on GKE Autopilot",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-ai-agents-a-step-by-step-guide-to-deploying-adk-on-gke-autopilot/",
-      "published": "Thu, 04 Jun 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/serverless-managed-service-for-apache-spark-runtime-3-0-features/",
-      "title": "What’s new in serverless Managed Service for Apache Spark",
-      "link": "https://cloud.google.com/blog/products/data-analytics/serverless-managed-service-for-apache-spark-runtime-3-0-features/",
-      "published": "Wed, 03 Jun 2026 16:00:00 +0000"
     }
   ]
 }
