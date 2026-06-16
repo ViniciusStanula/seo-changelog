@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-16T11:12:41.235527+00:00",
+  "fetched_at": "2026-06-16T20:41:57.448875+00:00",
   "entries": [
+    {
+      "id": "2026-06-15-Clarifying-guidance-on-llms.txt-files",
+      "title": "Clarifying guidance on llms.txt files",
+      "link": "https://developers.google.com/search/updates#june-2026",
+      "published": "Mon, 15 Jun 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-06-15-Removing-documentation-for-the-FAQ-rich-result-feature",
       "title": "Removing documentation for the FAQ rich result feature",

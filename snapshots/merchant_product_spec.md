@@ -1176,16 +1176,16 @@ This attribute uses the following sub-attributes:
 * **Location group name`[location_group_name]` (Optional)**
 * **Service`[service]` (Optional)**
 * Service class or shipping speed
-* **Price`[price]` (Optional)**
+* [Price](https://support.google.com/merchants/answer/12471842)**`[price]` (Optional)**
 * Fixed shipping cost, including VAT if required
-* **Minimum handling time` [min_handling_time] ` **and**maximum handling time`[max_handling_time]` (Optional)**
+* [Minimum handling time](https://support.google.com/merchants/answer/12472338)**`[min_handling_time]` **and****[maximum handling time](https://support.google.com/merchants/answer/12472338)**`[max_handling_time]` (Optional)**
 * To specify handling time
 * **Minimum transit time` [min_transit_time]`** and **maximum transit time`[max_transit_time]`** (Optional)
 * To specify transit time
-* **Shipping transit business days`[shipping_transit_business_days`(Optional)**
-* **Shipping handling business days`[shipping_handling_business_days]`(Optional)**
-* **Loyalty program label`[loyalty_program_label]`(Optional)**
-* **Loyalty program tier label`[loyalty_tier_label]`(Optional)**
+* [Shipping transit business days](https://support.google.com/merchants/answer/16072858)**`[shipping_transit_business_days]`(Optional)**
+* [Shipping handling business days](https://support.google.com/merchants/answer/16072859)**`[shipping_handling_business_days]`(Optional)**
+* [Loyalty program label](https://support.google.com/merchants/answer/12922446)**`[loyalty_program_label]`(Optional)**
+* [Loyalty program tier label](https://support.google.com/merchants/answer/12922446)**`[loyalty_tier_label]`(Optional)**
 
 **Schema.org property:**`Yes `(Learn more about [Merchant listing (Product, Offer) structured data](https://developers.google.com/search/docs/appearance/structured-data/merchant-listing) on Google Search Central) |
 

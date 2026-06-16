@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-06-16T11:12:48.670801+00:00",
+  "fetched_at": "2026-06-16T20:42:06.397185+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
+      "title": "Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment",
+      "link": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
+      "published": "Tue, 16 Jun 2026 17:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
+      "title": "Introducing Brazos: Bringing liquid cooling to air-cooled data centers",
+      "link": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
+      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
+      "title": "How Atlas scales hundreds of merchant databases with Cloud SQL Enterprise Plus edition",
+      "link": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
+      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates/",
+      "title": "Introducing new Explores and Merge Queries in Looker",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates/",
+      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/",
+      "title": "How Siemens \"slices the elephant,\" advancing agentic workflows for industrial software development",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows/",
+      "published": "Tue, 16 Jun 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/",
+      "title": "How customer collaboration is shaping the future of GenAI security with Model Armor",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/",
+      "published": "Tue, 16 Jun 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud/",
       "title": "What’s new in data agents: Supercharging your AI workflows",
@@ -84,42 +120,6 @@
       "title": "Claude Fable 5: Available on Google Cloud",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/cloud-fable-5-on-google-cloud/",
       "published": "Tue, 09 Jun 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/gemini-for-government-your-blueprint-for-mission-impact/",
-      "title": "Gemini for Government: Your blueprint for mission impact",
-      "link": "https://cloud.google.com/blog/topics/public-sector/gemini-for-government-your-blueprint-for-mission-impact/",
-      "published": "Tue, 09 Jun 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/storage-data-transfer/analyze-cloud-storage-estates-with-storage-insights-datasets/",
-      "title": "Storage Insights datasets: Enabling org-wide operational discovery with activity insights",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/analyze-cloud-storage-estates-with-storage-insights-datasets/",
-      "published": "Tue, 09 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-measure-the-business-value-of-generative-ai/",
-      "title": "How to unlock true ROI in software development – a deep dive into the latest DORA research",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-measure-the-business-value-of-generative-ai/",
-      "published": "Tue, 09 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/detecting-and-containing-powered-threats-with-google-security-operations-agents/",
-      "title": "Detecting and containing AI-powered threats with Google Security Operations agents",
-      "link": "https://cloud.google.com/blog/products/identity-security/detecting-and-containing-powered-threats-with-google-security-operations-agents/",
-      "published": "Tue, 09 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/",
-      "title": "Report: GKE Inference Gateway delivers up to 92% faster AI responses",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/",
-      "published": "Tue, 09 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/modernizing-healthcare-how-alcidion-achieved-greater-stability-and-performance/",
-      "title": "Modernizing Healthcare: How Alcidion achieved greater stability and performance with AlloyDB",
-      "link": "https://cloud.google.com/blog/products/databases/modernizing-healthcare-how-alcidion-achieved-greater-stability-and-performance/",
-      "published": "Mon, 08 Jun 2026 16:00:00 +0000"
     }
   ]
 }
