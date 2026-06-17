@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-06-16T20:42:06.397185+00:00",
+  "fetched_at": "2026-06-17T10:59:07.627514+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
+      "title": "How growing UK midsize businesses are building in the AI era",
+      "link": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
+      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
+      "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
+      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
       "title": "Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment",
@@ -8,15 +20,15 @@
       "published": "Tue, 16 Jun 2026 17:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
-      "title": "Introducing Brazos: Bringing liquid cooling to air-cooled data centers",
-      "link": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
-      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
       "title": "How Atlas scales hundreds of merchant databases with Cloud SQL Enterprise Plus edition",
       "link": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
+      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
+      "title": "Introducing Brazos: Bringing liquid cooling to air-cooled data centers",
+      "link": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
       "published": "Tue, 16 Jun 2026 16:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "Deep dive: How Lightning Engine delivers 4.9x faster Apache Spark performance",
       "link": "https://cloud.google.com/blog/products/data-analytics/lighting-engine-for-apache-spark-performance-deep-dive/",
       "published": "Wed, 10 Jun 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/choosing-your-surface-antigravity-20-antigravity-cli-antigravity-ide-or-antigravity-sdk/",
-      "title": "Choosing your surface: Antigravity 2.0, Antigravity CLI, Antigravity IDE, or Antigravity SDK",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/choosing-your-surface-antigravity-20-antigravity-cli-antigravity-ide-or-antigravity-sdk/",
-      "published": "Wed, 10 Jun 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/cloud-fable-5-on-google-cloud/",
-      "title": "Claude Fable 5: Available on Google Cloud",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/cloud-fable-5-on-google-cloud/",
-      "published": "Tue, 09 Jun 2026 18:00:00 +0000"
     }
   ]
 }
