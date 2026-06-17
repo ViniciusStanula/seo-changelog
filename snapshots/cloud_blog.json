@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-17T10:59:07.627514+00:00",
+  "fetched_at": "2026-06-17T20:04:03.872577+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
+      "title": "Cloud Network Insights: end-to-end observability for the Cross-Cloud Network",
+      "link": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
+      "published": "Wed, 17 Jun 2026 19:30:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
       "title": "How growing UK midsize businesses are building in the AI era",
@@ -14,16 +20,16 @@
       "published": "Wed, 17 Jun 2026 08:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/",
+      "title": "Build and Deploy a Remote MCP Server to GKE in 30 Minutes",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/",
+      "published": "Wed, 17 Jun 2026 00:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
       "title": "Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment",
       "link": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
       "published": "Tue, 16 Jun 2026 17:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
-      "title": "How Atlas scales hundreds of merchant databases with Cloud SQL Enterprise Plus edition",
-      "link": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
-      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
@@ -35,6 +41,12 @@
       "id": "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates/",
       "title": "Introducing new Explores and Merge Queries in Looker",
       "link": "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates/",
+      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
+      "title": "How Atlas scales hundreds of merchant databases with Cloud SQL Enterprise Plus edition",
+      "link": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
       "published": "Tue, 16 Jun 2026 16:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
       "published": "Thu, 11 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/10-indispensable-prompts-our-team-refuses-to-build-without/",
-      "title": "10 Indispensable Prompts Our Team Refuses to Build Without",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/10-indispensable-prompts-our-team-refuses-to-build-without/",
-      "published": "Thu, 11 Jun 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/lighting-engine-for-apache-spark-performance-deep-dive/",
-      "title": "Deep dive: How Lightning Engine delivers 4.9x faster Apache Spark performance",
-      "link": "https://cloud.google.com/blog/products/data-analytics/lighting-engine-for-apache-spark-performance-deep-dive/",
-      "published": "Wed, 10 Jun 2026 17:00:00 +0000"
     }
   ]
 }
