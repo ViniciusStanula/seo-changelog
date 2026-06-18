@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-18T10:22:37.754296+00:00",
+  "fetched_at": "2026-06-18T20:14:29.923871+00:00",
   "entries": [
+    {
+      "id": "2026-06-17-Site-move-guidance-now-includes-information-on-domain-variants",
+      "title": "Site move guidance now includes information on domain variants",
+      "link": "https://developers.google.com/search/updates#june-2026",
+      "published": "Wed, 17 Jun 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-06-15-Clarifying-guidance-on-llms.txt-files",
       "title": "Clarifying guidance on llms.txt files",

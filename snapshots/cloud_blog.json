@@ -1,10 +1,22 @@
 {
-  "fetched_at": "2026-06-18T10:22:44.502073+00:00",
+  "fetched_at": "2026-06-18T20:14:36.959059+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
+      "title": "Scaling Ray Serve LLM on GKE: Performance without losing the developer experience",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
+      "published": "Thu, 18 Jun 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
       "title": "Choice, compliance, and collaboration: Europe’s path to open digital sovereignty",
       "link": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
+      "published": "Thu, 18 Jun 2026 07:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
+      "title": "Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
       "published": "Thu, 18 Jun 2026 07:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "Introducing the Open Knowledge Format",
       "link": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/",
       "published": "Fri, 12 Jun 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/",
-      "title": "Powering the next era of Confidential AI",
-      "link": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/",
-      "published": "Thu, 11 Jun 2026 19:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/",
-      "title": "Transform dashboards into interactive data experiences with Looker agents",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/",
-      "published": "Thu, 11 Jun 2026 16:00:00 +0000"
     }
   ]
 }
