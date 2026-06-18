@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-17T20:04:03.872577+00:00",
+  "fetched_at": "2026-06-18T10:22:44.502073+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
+      "title": "Choice, compliance, and collaboration: Europe’s path to open digital sovereignty",
+      "link": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
+      "published": "Thu, 18 Jun 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
       "title": "Cloud Network Insights: end-to-end observability for the Cross-Cloud Network",
@@ -114,12 +120,6 @@
       "title": "Transform dashboards into interactive data experiences with Looker agents",
       "link": "https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/",
       "published": "Thu, 11 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
-      "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
-      "published": "Thu, 11 Jun 2026 14:00:00 +0000"
     }
   ]
 }
