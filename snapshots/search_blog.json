@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-18T20:14:28.241101+00:00",
+  "fetched_at": "2026-06-19T10:28:02.482702+00:00",
   "entries": [
+    {
+      "id": "2026-06-18-Help-Us-Pick-the-Next-Stop-in-Europe-for-Search-Central-Live-Deep-Dive-2026!",
+      "title": "Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!",
+      "link": "https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026",
+      "published": "Thu, 18 Jun 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-06-03-Introducing-Search-Generative-AI-performance-reports-in-Search-Console",
       "title": "Introducing Search Generative AI performance reports in Search Console",
@@ -54,12 +60,6 @@
       "title": "Google's February 2026 Discover Core Update",
       "link": "https://developers.google.com/search/blog/2026/02/discover-core-update",
       "published": "Thu, 05 Feb 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-01-26-Search-Central-Live-is-coming-back-to-South-America",
-      "title": "Search Central Live is coming back to South America",
-      "link": "https://developers.google.com/search/blog/2026/01/search-central-live-brasil-argentina",
-      "published": "Mon, 26 Jan 2026 00:00:00 +0000"
     }
   ]
 }

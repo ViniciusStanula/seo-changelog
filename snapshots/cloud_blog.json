@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T20:14:36.959059+00:00",
+  "fetched_at": "2026-06-19T10:28:11.066821+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
@@ -8,15 +8,21 @@
       "published": "Thu, 18 Jun 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
-      "title": "Choice, compliance, and collaboration: Europe’s path to open digital sovereignty",
-      "link": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
-      "published": "Thu, 18 Jun 2026 07:00:00 +0000"
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-the-next-generation-of-global-innovation-how-google-supports-top-startups-around-the-world/",
+      "title": "Scaling the Next Generation of Global Innovation: How Google Supports Top Startups Around the World",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-the-next-generation-of-global-innovation-how-google-supports-top-startups-around-the-world/",
+      "published": "Thu, 18 Jun 2026 12:51:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
       "title": "Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
+      "published": "Thu, 18 Jun 2026 07:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
+      "title": "Choice, compliance, and collaboration: Europe’s path to open digital sovereignty",
+      "link": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
       "published": "Thu, 18 Jun 2026 07:00:00 +0000"
     },
     {
@@ -26,15 +32,15 @@
       "published": "Wed, 17 Jun 2026 19:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
-      "title": "How growing UK midsize businesses are building in the AI era",
-      "link": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
-      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
       "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
+      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
+      "title": "How growing UK midsize businesses are building in the AI era",
+      "link": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
       "published": "Wed, 17 Jun 2026 08:00:00 +0000"
     },
     {
@@ -114,12 +120,6 @@
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 12 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/",
-      "title": "Introducing the Open Knowledge Format",
-      "link": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/",
-      "published": "Fri, 12 Jun 2026 13:00:00 +0000"
     }
   ]
 }
