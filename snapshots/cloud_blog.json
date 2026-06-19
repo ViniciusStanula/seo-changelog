@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-19T10:28:11.066821+00:00",
+  "fetched_at": "2026-06-19T19:29:18.950268+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 19 Jun 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
       "title": "Scaling Ray Serve LLM on GKE: Performance without losing the developer experience",
@@ -32,15 +38,15 @@
       "published": "Wed, 17 Jun 2026 19:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
-      "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
-      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
       "title": "How growing UK midsize businesses are building in the AI era",
       "link": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
+      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
+      "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
       "published": "Wed, 17 Jun 2026 08:00:00 +0000"
     },
     {
@@ -114,12 +120,6 @@
       "title": "How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same/",
       "published": "Mon, 15 Jun 2026 09:29:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 12 Jun 2026 16:00:00 +0000"
     }
   ]
 }
