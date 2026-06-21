@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T09:52:03.504518+00:00",
+  "fetched_at": "2026-06-21T19:19:36.868852+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -38,15 +38,15 @@
       "published": "Wed, 17 Jun 2026 19:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
-      "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
-      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
       "title": "How growing UK midsize businesses are building in the AI era",
       "link": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
+      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
+      "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
       "published": "Wed, 17 Jun 2026 08:00:00 +0000"
     },
     {
