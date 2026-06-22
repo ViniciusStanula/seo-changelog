@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-06-22T11:57:31.554023+00:00",
+  "fetched_at": "2026-06-22T20:36:23.808346+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
+      "title": "Boost BigQuery with Python: Managed Python UDFs now generally available",
+      "link": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
+      "published": "Mon, 22 Jun 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
+      "title": "The Starter Tier for Google AI Studio explained",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
+      "published": "Mon, 22 Jun 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
@@ -108,18 +120,6 @@
       "title": "Architecting a trusted agentic platform with graph technologies: A Yahoo case study",
       "link": "https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action/",
       "published": "Mon, 15 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
-      "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
-      "published": "Mon, 15 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same/",
-      "title": "How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same/",
-      "published": "Mon, 15 Jun 2026 09:29:00 +0000"
     }
   ]
 }
