@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-06-23T19:52:15.413543+00:00",
+  "fetched_at": "2026-06-24T09:32:15.926226+00:00",
   "entries": [
+    {
+      "id": "https://developer.chrome.com/blog/agent-ready-toolkit?hl=en",
+      "title": "A developer toolkit to make your website agent-ready",
+      "link": "https://developer.chrome.com/blog/agent-ready-toolkit",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/devtools-for-agents-3p-tools?hl=en",
+      "title": "Unlock runtime insights: Introducing third-party developer tools for Chrome DevTools for agents",
+      "link": "https://developer.chrome.com/blog/devtools-for-agents-3p-tools",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://developer.chrome.com/blog/new-in-webgpu-149-150?hl=en",
+      "title": "What's New in WebGPU (Chrome 149-150)",
+      "link": "https://developer.chrome.com/blog/new-in-webgpu-149-150",
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
     {
       "id": "https://developer.chrome.com/blog/ai-webmcp-origin-trial?hl=en",
       "title": "Join the WebMCP origin trial",
@@ -42,24 +60,6 @@
       "title": "What's new in web extensions: I﻿/﻿O 2026 recap",
       "link": "https://developer.chrome.com/blog/extensions-io-2026",
       "published": "Fri, 22 May 2026 07:00:00 GMT"
-    },
-    {
-      "id": "https://developer.chrome.com/blog/new-in-chrome-io26?hl=en",
-      "title": "New in Chrome at Google I﻿/﻿O 2026",
-      "link": "https://developer.chrome.com/blog/new-in-chrome-io26",
-      "published": "Thu, 21 May 2026 07:00:00 GMT"
-    },
-    {
-      "id": "https://developer.chrome.com/blog/io26-web-identity?hl=en",
-      "title": "Modernize authentication with passkeys, digital credentials, and more",
-      "link": "https://developer.chrome.com/blog/io26-web-identity",
-      "published": "Thu, 21 May 2026 07:00:00 GMT"
-    },
-    {
-      "id": "https://developer.chrome.com/blog/chrome-at-io26?hl=en",
-      "title": "15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome",
-      "link": "https://developer.chrome.com/blog/chrome-at-io26",
-      "published": "Tue, 19 May 2026 07:00:00 GMT"
     }
   ]
 }
