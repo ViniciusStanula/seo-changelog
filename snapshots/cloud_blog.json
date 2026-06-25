@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-06-25T09:24:07.824781+00:00",
+  "fetched_at": "2026-06-25T19:48:38.601685+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
+      "title": "STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
+      "published": "Thu, 25 Jun 2026 14:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/storage-data-transfer/backup-and-dr-service-adds-cross-region-backups/",
       "title": "Enhanced data resilience with cross-region backups in Backup and DR Service",
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates/",
       "title": "Introducing new Explores and Merge Queries in Looker",
       "link": "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates/",
-      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
-      "title": "How Atlas scales hundreds of merchant databases with Cloud SQL Enterprise Plus edition",
-      "link": "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/",
       "published": "Tue, 16 Jun 2026 16:00:00 +0000"
     }
   ]
