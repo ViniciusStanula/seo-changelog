@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-06-26T09:29:24.146027+00:00",
+  "fetched_at": "2026-06-26T19:30:03.429520+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
+      "title": "Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls",
+      "link": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
+      "published": "Fri, 26 Jun 2026 18:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-cloud-monitoring-observability-analytics/",
+      "title": "From query to action: Introducing SQL alerting in Cloud Monitoring Observability Analytics",
+      "link": "https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-cloud-monitoring-observability-analytics/",
+      "published": "Fri, 26 Jun 2026 16:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 26 Jun 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
       "title": "STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus",
@@ -48,12 +66,6 @@
       "title": "The Starter Tier for Google AI Studio explained",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
       "published": "Mon, 22 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 19 Jun 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
@@ -108,18 +120,6 @@
       "title": "Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment",
       "link": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
       "published": "Tue, 16 Jun 2026 17:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
-      "title": "Introducing Brazos: Bringing liquid cooling to air-cooled data centers",
-      "link": "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers/",
-      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates/",
-      "title": "Introducing new Explores and Merge Queries in Looker",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates/",
-      "published": "Tue, 16 Jun 2026 16:00:00 +0000"
     }
   ]
 }
