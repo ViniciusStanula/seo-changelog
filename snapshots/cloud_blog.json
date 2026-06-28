@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T19:07:22.441430+00:00",
+  "fetched_at": "2026-06-28T08:53:50.497957+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
@@ -38,15 +38,15 @@
       "published": "Wed, 24 Jun 2026 11:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/",
-      "title": "Verifiable, private AI: Google Cloud expands Confidential Computing frontiers",
-      "link": "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/",
-      "published": "Tue, 23 Jun 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
       "title": "Log Analytics is now Observability Analytics: Query logs and traces with SQL",
       "link": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
+      "published": "Tue, 23 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/",
+      "title": "Verifiable, private AI: Google Cloud expands Confidential Computing frontiers",
+      "link": "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/",
       "published": "Tue, 23 Jun 2026 16:00:00 +0000"
     },
     {
