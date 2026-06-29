@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-06-29T11:02:09.626223+00:00",
+  "fetched_at": "2026-06-29T19:46:42.730824+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
+      "title": "Scaling Network Analysis for Fraud Prevention with BigQuery Graph",
+      "link": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
+      "published": "Mon, 29 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
+      "title": "Synthesize the big picture and analyze trends with BigQuery's AI.AGG function",
+      "link": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
+      "published": "Mon, 29 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
+      "title": "Cloud CISO Perspectives: How Google Cloud Security uses AI internally",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
+      "published": "Mon, 29 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/",
+      "title": "The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/",
+      "published": "Mon, 29 Jun 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure/",
+      "title": "Turner Industries’ Blueprint for a Secure, Cloud-First Infrastructure",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure/",
+      "published": "Mon, 29 Jun 2026 09:16:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
       "title": "Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls",
@@ -90,36 +120,6 @@
       "title": "Choice, compliance, and collaboration: Europe’s path to open digital sovereignty",
       "link": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
       "published": "Thu, 18 Jun 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
-      "title": "Cloud Network Insights: end-to-end observability for the Cross-Cloud Network",
-      "link": "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/",
-      "published": "Wed, 17 Jun 2026 19:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
-      "title": "How growing UK midsize businesses are building in the AI era",
-      "link": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
-      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
-      "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
-      "published": "Wed, 17 Jun 2026 08:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/",
-      "title": "Build and Deploy a Remote MCP Server to GKE in 30 Minutes",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/",
-      "published": "Wed, 17 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
-      "title": "Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment",
-      "link": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment/",
-      "published": "Tue, 16 Jun 2026 17:30:00 +0000"
     }
   ]
 }
