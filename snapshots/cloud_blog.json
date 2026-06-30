@@ -1,10 +1,16 @@
 {
-  "fetched_at": "2026-06-29T19:46:42.730824+00:00",
+  "fetched_at": "2026-06-30T09:38:05.479433+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
-      "title": "Scaling Network Analysis for Fraud Prevention with BigQuery Graph",
-      "link": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
+      "id": "https://cloud.google.com/blog/products/databases/the-power-of-multi-model-spanner-for-the-agentic-era/",
+      "title": "Supercharging the agentic era with Spanner’s multi-model architecture",
+      "link": "https://cloud.google.com/blog/products/databases/the-power-of-multi-model-spanner-for-the-agentic-era/",
+      "published": "Mon, 29 Jun 2026 23:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
+      "title": "Cloud CISO Perspectives: How Google Cloud Security uses AI internally",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
       "published": "Mon, 29 Jun 2026 16:00:00 +0000"
     },
     {
@@ -14,9 +20,9 @@
       "published": "Mon, 29 Jun 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
-      "title": "Cloud CISO Perspectives: How Google Cloud Security uses AI internally",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
+      "id": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
+      "title": "Scaling Network Analysis for Fraud Prevention with BigQuery Graph",
+      "link": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
       "published": "Mon, 29 Jun 2026 16:00:00 +0000"
     },
     {
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
       "title": "Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
-      "published": "Thu, 18 Jun 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
-      "title": "Choice, compliance, and collaboration: Europe’s path to open digital sovereignty",
-      "link": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
       "published": "Thu, 18 Jun 2026 07:00:00 +0000"
     }
   ]
