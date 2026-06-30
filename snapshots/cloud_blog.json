@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-06-30T09:38:05.479433+00:00",
+  "fetched_at": "2026-06-30T19:44:58.780897+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
+      "title": "Conversational analytics in BigQuery brings trusted agentic reasoning to everyone",
+      "link": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
+      "published": "Tue, 30 Jun 2026 18:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
+      "title": "Modernizing financial services with deployment freedom and transformational AI with AlloyDB Omni",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/",
+      "title": "How Schrödinger sped up molecular discovery by 4x with Alphaevolve",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
+      "title": "Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/",
+      "title": "Bringing speed and strong cost performance to the market with Gemini Omni Flash and Nano Banana 2 Lite",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/management-tools/cloud-monitoring-adds-long-lookback-alert-policies-for-promql/",
+      "title": "Anomaly detection using dynamic thresholds and two-year-long alerts in Cloud Monitoring",
+      "link": "https://cloud.google.com/blog/products/management-tools/cloud-monitoring-adds-long-lookback-alert-policies-for-promql/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "title": "What Google Cloud announced in AI this month",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/databases/the-power-of-multi-model-spanner-for-the-agentic-era/",
       "title": "Supercharging the agentic era with Spanner’s multi-model architecture",
@@ -78,48 +120,6 @@
       "title": "Log Analytics is now Observability Analytics: Query logs and traces with SQL",
       "link": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
       "published": "Tue, 23 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/",
-      "title": "Verifiable, private AI: Google Cloud expands Confidential Computing frontiers",
-      "link": "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing/",
-      "published": "Tue, 23 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma/",
-      "title": "Open models, global networks: How AT&T and GSMA are accelerating telecom innovation with Gemma",
-      "link": "https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma/",
-      "published": "Tue, 23 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
-      "title": "Boost BigQuery with Python: Managed Python UDFs now generally available",
-      "link": "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/",
-      "published": "Mon, 22 Jun 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
-      "title": "The Starter Tier for Google AI Studio explained",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/",
-      "published": "Mon, 22 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
-      "title": "Scaling Ray Serve LLM on GKE: Performance without losing the developer experience",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/",
-      "published": "Thu, 18 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-the-next-generation-of-global-innovation-how-google-supports-top-startups-around-the-world/",
-      "title": "Scaling the Next Generation of Global Innovation: How Google Supports Top Startups Around the World",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-the-next-generation-of-global-innovation-how-google-supports-top-startups-around-the-world/",
-      "published": "Thu, 18 Jun 2026 12:51:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
-      "title": "Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20/",
-      "published": "Thu, 18 Jun 2026 07:00:00 +0000"
     }
   ]
 }
