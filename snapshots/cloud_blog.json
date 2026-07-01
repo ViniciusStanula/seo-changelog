@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-07-01T09:49:32.264568+00:00",
+  "fetched_at": "2026-07-01T19:42:38.964742+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
+      "title": "AlloyDB AI Functions - now with revolutionary performance boosts and cost savings",
+      "link": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
+      "published": "Wed, 01 Jul 2026 18:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
+      "title": "New IDC study: The business value of Mandiant Consulting",
+      "link": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
+      "title": "Get started with the Claude apps gateway for Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/",
+      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms for third year in a row",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
+      "title": "Google Cloud confirmed to offer a safer choice for EU public sector organizations with Dutch DPIA approval",
+      "link": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-llm-inference-multi-node-kv-cache-offloading-with-gke-managed-lustre/",
+      "title": "Scaling LLM Inference: Multi-Node KV Cache Offloading with GKE & Managed Lustre",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-llm-inference-multi-node-kv-cache-offloading-with-gke-managed-lustre/",
+      "published": "Wed, 01 Jul 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
       "title": "Conversational analytics in BigQuery brings trusted agentic reasoning to everyone",
@@ -78,48 +120,6 @@
       "title": "Turner Industries’ Blueprint for a Secure, Cloud-First Infrastructure",
       "link": "https://cloud.google.com/blog/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure/",
       "published": "Mon, 29 Jun 2026 09:16:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
-      "title": "Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls",
-      "link": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
-      "published": "Fri, 26 Jun 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-cloud-monitoring-observability-analytics/",
-      "title": "From query to action: Introducing SQL alerting in Cloud Monitoring Observability Analytics",
-      "link": "https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-cloud-monitoring-observability-analytics/",
-      "published": "Fri, 26 Jun 2026 16:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 26 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
-      "title": "STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
-      "published": "Thu, 25 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/storage-data-transfer/backup-and-dr-service-adds-cross-region-backups/",
-      "title": "Enhanced data resilience with cross-region backups in Backup and DR Service",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/backup-and-dr-service-adds-cross-region-backups/",
-      "published": "Wed, 24 Jun 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/",
-      "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/",
-      "published": "Wed, 24 Jun 2026 11:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
-      "title": "Log Analytics is now Observability Analytics: Query logs and traces with SQL",
-      "link": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
-      "published": "Tue, 23 Jun 2026 16:00:00 +0000"
     }
   ]
 }
