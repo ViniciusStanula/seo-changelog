@@ -1,11 +1,17 @@
 {
-  "fetched_at": "2026-06-30T19:44:58.780897+00:00",
+  "fetched_at": "2026-07-01T09:49:32.264568+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
       "title": "Conversational analytics in BigQuery brings trusted agentic reasoning to everyone",
       "link": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
       "published": "Tue, 30 Jun 2026 18:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "title": "What Google Cloud announced in AI this month",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
@@ -35,12 +41,6 @@
       "id": "https://cloud.google.com/blog/products/management-tools/cloud-monitoring-adds-long-lookback-alert-policies-for-promql/",
       "title": "Anomaly detection using dynamic thresholds and two-year-long alerts in Cloud Monitoring",
       "link": "https://cloud.google.com/blog/products/management-tools/cloud-monitoring-adds-long-lookback-alert-policies-for-promql/",
-      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
       "published": "Tue, 30 Jun 2026 16:00:00 +0000"
     },
     {
