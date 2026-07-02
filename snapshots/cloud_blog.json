@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-01T19:42:38.964742+00:00",
+  "fetched_at": "2026-07-02T08:58:07.174615+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/",
+      "title": "SOCRadar powers rapid threat detection with AlloyDB and Gemini Enterprise",
+      "link": "https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/",
+      "published": "Wed, 01 Jul 2026 19:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
       "title": "AlloyDB AI Functions - now with revolutionary performance boosts and cost savings",
@@ -8,9 +14,9 @@
       "published": "Wed, 01 Jul 2026 18:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
-      "title": "New IDC study: The business value of Mandiant Consulting",
-      "link": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     },
     {
@@ -26,9 +32,9 @@
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "id": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
+      "title": "New IDC study: The business value of Mandiant Consulting",
+      "link": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     },
     {
@@ -36,6 +42,12 @@
       "title": "Google Cloud confirmed to offer a safer choice for EU public sector organizations with Dutch DPIA approval",
       "link": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/beyond-static-prompts-with-google-adk/",
+      "title": "Beyond Static Prompts: Building Scale-Proof, Polymorphic Multi-Agent Systems with Google's ADK",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/beyond-static-prompts-with-google-adk/",
+      "published": "Wed, 01 Jul 2026 14:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-llm-inference-multi-node-kv-cache-offloading-with-gke-managed-lustre/",
@@ -48,12 +60,6 @@
       "title": "Conversational analytics in BigQuery brings trusted agentic reasoning to everyone",
       "link": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
       "published": "Tue, 30 Jun 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
@@ -71,6 +77,12 @@
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
       "title": "Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "title": "What Google Cloud announced in AI this month",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
       "published": "Tue, 30 Jun 2026 16:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "Scaling Network Analysis for Fraud Prevention with BigQuery Graph",
       "link": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
       "published": "Mon, 29 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/",
-      "title": "The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/",
-      "published": "Mon, 29 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure/",
-      "title": "Turner Industries’ Blueprint for a Secure, Cloud-First Infrastructure",
-      "link": "https://cloud.google.com/blog/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure/",
-      "published": "Mon, 29 Jun 2026 09:16:00 +0000"
     }
   ]
 }
