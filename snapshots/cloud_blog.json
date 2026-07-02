@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-02T08:58:07.174615+00:00",
+  "fetched_at": "2026-07-02T19:13:27.211598+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
+      "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
+      "published": "Thu, 02 Jul 2026 14:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/",
       "title": "SOCRadar powers rapid threat detection with AlloyDB and Gemini Enterprise",
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
       "title": "Synthesize the big picture and analyze trends with BigQuery's AI.AGG function",
       "link": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
-      "published": "Mon, 29 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
-      "title": "Scaling Network Analysis for Fraud Prevention with BigQuery Graph",
-      "link": "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph/",
       "published": "Mon, 29 Jun 2026 16:00:00 +0000"
     }
   ]
