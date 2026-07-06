@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-06T10:24:20.958006+00:00",
+  "fetched_at": "2026-07-06T19:45:11.645488+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
+      "title": "Shift into high gear with agents: Securing the software-defined vehicle",
+      "link": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
+      "published": "Mon, 06 Jul 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
       "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
@@ -18,12 +24,6 @@
       "title": "AlloyDB AI Functions - now with revolutionary performance boosts and cost savings",
       "link": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
       "published": "Wed, 01 Jul 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
@@ -47,6 +47,12 @@
       "id": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
       "title": "Google Cloud confirmed to offer a safer choice for EU public sector organizations with Dutch DPIA approval",
       "link": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     },
     {
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
       "title": "Cloud CISO Perspectives: How Google Cloud Security uses AI internally",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally/",
-      "published": "Mon, 29 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
-      "title": "Synthesize the big picture and analyze trends with BigQuery's AI.AGG function",
-      "link": "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/",
       "published": "Mon, 29 Jun 2026 16:00:00 +0000"
     }
   ]

@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-06T10:24:12.775989+00:00",
+  "fetched_at": "2026-07-06T19:45:02.377814+00:00",
   "entries": [
+    {
+      "id": "2026-07-06-Search-Central-Deep-Dive-Europe-2026:-Apparently-we're-going-to-Barcelona",
+      "title": "Search Central Deep Dive Europe 2026: Apparently we're going to Barcelona",
+      "link": "https://developers.google.com/search/blog/2026/07/search-central-live-deep-dive-europe-2026",
+      "published": "Mon, 06 Jul 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-06-18-Help-Us-Pick-the-Next-Stop-in-Europe-for-Search-Central-Live-Deep-Dive-2026!",
       "title": "Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!",
@@ -54,12 +60,6 @@
       "title": "Search Central Live is coming to Canada!",
       "link": "https://developers.google.com/search/blog/2026/03/scl-canada-2026",
       "published": "Wed, 11 Mar 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-02-05-Google's-February-2026-Discover-Core-Update",
-      "title": "Google's February 2026 Discover Core Update",
-      "link": "https://developers.google.com/search/blog/2026/02/discover-core-update",
-      "published": "Thu, 05 Feb 2026 00:00:00 +0000"
     }
   ]
 }
