@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06T19:45:11.645488+00:00",
+  "fetched_at": "2026-07-07T09:42:51.447220+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
@@ -74,6 +74,12 @@
       "published": "Tue, 30 Jun 2026 18:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "title": "What Google Cloud announced in AI this month",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
       "title": "Modernizing financial services with deployment freedom and transformational AI with AlloyDB Omni",
       "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
@@ -89,12 +95,6 @@
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
       "title": "Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server/",
-      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
       "published": "Tue, 30 Jun 2026 16:00:00 +0000"
     },
     {
