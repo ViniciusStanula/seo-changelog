@@ -35,7 +35,7 @@ In addition to this product data specification, your product data must also meet
 
 * [**Shopping ads policies**](https://support.google.com/merchants/answer/6149970)
 * [**Landing page requirements**](https://support.google.com/merchants/answer/4752265)
-* **Shipping rate data requirements**
+* [**Shipping rate data requirements**](https://support.google.com/merchants/answer/12570809)
 * [**Checkout requirements and best practices**](https://support.google.com/merchants/answer/9158778)
 * [**Currency and language requirements**](https://support.google.com/merchants/answer/160637)
 
@@ -1164,7 +1164,7 @@ These attributes can be used together with the account shipping settings and ret
 Attribute and format | Minimum requirements at a glance
 ---|---
 [Shipping `[shipping]`](https://support.google.com/merchants/answer/12471847) Your product's shipping cost, shipping speeds, and the locations your product ships to **It depends** **Shipping costs are required** for Shopping ads and free listings for the following countries: Australia, Austria, Belgium, Canada, Czechia, France, Germany, India, Ireland, Israel, Italy, New Zealand, Japan, the Netherlands, Poland, Romania, South Korea, Spain, Switzerland, the UK, and the US You may also be required to provide shipping costs based on local laws or regulations. **Optional** (to specify additional countries your product ships to or destinations where shipping costs are not required) **Supported prices**
-0–1000 USD ([check for other currencies](https://support.google.com/merchants/answer/6324484)) **Example**
+0–1000 USD ([check for other currencies](https://support.google.com/merchants/answer/6324484#format)) **Example**
 `US:CA:Overnight:16.00 USD:1:1:2:3` **Syntax**
 This attribute uses the following sub-attributes:
 

@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-07T09:42:42.805035+00:00",
+  "fetched_at": "2026-07-07T19:44:32.412646+00:00",
   "entries": [
+    {
+      "id": "2026-07-07-See-how-content-from-social-and-video-platforms-performs-on-Google-Search",
+      "title": "See how content from social and video platforms performs on Google Search",
+      "link": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
+      "published": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-07-06-Search-Central-Deep-Dive-Europe-2026:-Apparently-we're-going-to-Barcelona",
       "title": "Search Central Deep Dive Europe 2026: Apparently we're going to Barcelona",
@@ -54,12 +60,6 @@
       "title": "Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!",
       "link": "https://developers.google.com/search/blog/2026/03/scl-apac-2026",
       "published": "Fri, 20 Mar 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-03-11-Search-Central-Live-is-coming-to-Canada!",
-      "title": "Search Central Live is coming to Canada!",
-      "link": "https://developers.google.com/search/blog/2026/03/scl-canada-2026",
-      "published": "Wed, 11 Mar 2026 00:00:00 +0000"
     }
   ]
 }
