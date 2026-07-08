@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-07-08T08:30:08.216808+00:00",
+  "fetched_at": "2026-07-08T19:12:11.549422+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+      "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
+      "published": "Wed, 08 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/",
+      "title": "New ways to keep Google Cloud certifications current and boost your career",
+      "link": "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/",
+      "published": "Wed, 08 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms/",
+      "title": "Gemini Enterprise for Education named a Commander in Tambellini StarChart™: 2026 AI Agents for Administrative Efficiency—Agent Platforms",
+      "link": "https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms/",
+      "published": "Wed, 08 Jul 2026 15:14:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/",
+      "title": "Meet the 33 cybersecurity startups joining the Gemini Startup Forum",
+      "link": "https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/",
+      "published": "Wed, 08 Jul 2026 13:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
+      "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
+      "published": "Tue, 07 Jul 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
       "title": "A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace",
@@ -17,12 +47,6 @@
       "id": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
       "title": "Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM",
       "link": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
-      "published": "Tue, 07 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
-      "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
       "published": "Tue, 07 Jul 2026 16:00:00 +0000"
     },
     {
@@ -96,30 +120,6 @@
       "title": "New IDC study: The business value of Mandiant Consulting",
       "link": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/beyond-static-prompts-with-google-adk/",
-      "title": "Beyond Static Prompts: Building Scale-Proof, Polymorphic Multi-Agent Systems with Google's ADK",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/beyond-static-prompts-with-google-adk/",
-      "published": "Wed, 01 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-llm-inference-multi-node-kv-cache-offloading-with-gke-managed-lustre/",
-      "title": "Scaling LLM Inference: Multi-Node KV Cache Offloading with GKE & Managed Lustre",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/scaling-llm-inference-multi-node-kv-cache-offloading-with-gke-managed-lustre/",
-      "published": "Wed, 01 Jul 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
-      "title": "Conversational analytics in BigQuery brings trusted agentic reasoning to everyone",
-      "link": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
-      "published": "Tue, 30 Jun 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
-      "title": "Modernizing financial services with deployment freedom and transformational AI with AlloyDB Omni",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance/",
-      "published": "Tue, 30 Jun 2026 16:00:00 +0000"
     }
   ]
 }
