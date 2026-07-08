@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T19:44:40.967177+00:00",
+  "fetched_at": "2026-07-08T08:30:08.216808+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
@@ -80,12 +80,6 @@
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
-      "title": "New IDC study: The business value of Mandiant Consulting",
-      "link": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
       "title": "Google Cloud confirmed to offer a safer choice for EU public sector organizations with Dutch DPIA approval",
       "link": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
@@ -95,6 +89,12 @@
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
+      "title": "New IDC study: The business value of Mandiant Consulting",
+      "link": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     },
     {
