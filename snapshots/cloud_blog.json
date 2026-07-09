@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-07-09T09:40:56.067346+00:00",
+  "fetched_at": "2026-07-09T19:26:13.635243+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
+      "title": "Safely run AI-generated code in Cloud Run sandboxes",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
+      "published": "Thu, 09 Jul 2026 16:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
+      "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
+      "published": "Thu, 09 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/autopilot-clusters-with-gke-managed-dranet-gpus-and-tpus/",
+      "title": "Autopilot Clusters with GKE managed DRANET: GPUs and TPUs",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/autopilot-clusters-with-gke-managed-dranet-gpus-and-tpus/",
+      "published": "Thu, 09 Jul 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
       "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
@@ -101,24 +119,6 @@
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
       "title": "Get started with the Claude apps gateway for Google Cloud",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/",
-      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms for third year in a row",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
-      "title": "Google Cloud confirmed to offer a safer choice for EU public sector organizations with Dutch DPIA approval",
-      "link": "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval/",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     }
   ]

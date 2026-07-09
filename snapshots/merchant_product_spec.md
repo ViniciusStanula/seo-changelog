@@ -63,6 +63,17 @@ For all attributes that don't use supported values, but rather allow for free fo
 
 The product information you submit using these attributes is the foundation for creating successful ads and free listings for your products. Make sure everything you submit is of the quality you'd show to a customer.
 
+**Label assets that are AI edited or created**
+
+AI regulations in the European Union, India, and New York require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
+
+Add labels directly to your creatives or use the AI label setting, which will launch gradually throughout July in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center, and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
+
+**Notes**
+
+* These labels will not be in violation of [Google policies prohibiting text overlays](https://support.google.com/adspolicy/answer/10347108) and watermarks.
+* Use of the AI label setting in Google’s advertising products doesn't guarantee your compliance with specific regulations. Seek legal guidance and take measures as needed to [ensure your ads and assets follow all local legal obligations and policies](https://support.google.com/adspolicy/answer/6023676)
+
 **Attribute and format** |  **Minimum requirements at a glance**
 ---|---
 [ID `[id]`](https://support.google.com/merchants/answer/6324405) Your product’s unique identifier **Required** **Example**
