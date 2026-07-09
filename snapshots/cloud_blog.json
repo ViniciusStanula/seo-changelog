@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-08T19:12:11.549422+00:00",
+  "fetched_at": "2026-07-09T09:40:56.067346+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
+      "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
+      "link": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
+      "published": "Wed, 08 Jul 2026 20:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
       "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
@@ -26,12 +32,6 @@
       "published": "Wed, 08 Jul 2026 13:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
-      "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
-      "published": "Tue, 07 Jul 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
       "title": "A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
@@ -47,6 +47,12 @@
       "id": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
       "title": "Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM",
       "link": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
+      "published": "Tue, 07 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
+      "title": "20 questions for the Agentic Enterprise (and how Agent Platform can help)",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/20-questions-for-the-agentic-enterprise/",
       "published": "Tue, 07 Jul 2026 16:00:00 +0000"
     },
     {
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
-      "title": "New IDC study: The business value of Mandiant Consulting",
-      "link": "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/",
       "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     }
   ]
