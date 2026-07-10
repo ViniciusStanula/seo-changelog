@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-10T09:36:56.354234+00:00",
+  "fetched_at": "2026-07-10T19:18:21.972246+00:00",
   "entries": [
+    {
+      "id": "2026-07-10-Updated-the-canonicalization-troubleshooting-guide",
+      "title": "Updated the canonicalization troubleshooting guide",
+      "link": "https://developers.google.com/search/updates#july-2026",
+      "published": "Fri, 10 Jul 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-07-07-Added-category-to-merchant-listing-structured-data",
       "title": "Added category to merchant listing structured data",

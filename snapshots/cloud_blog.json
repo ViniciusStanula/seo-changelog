@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-07-10T09:37:03.496097+00:00",
+  "fetched_at": "2026-07-10T19:18:28.621518+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
+      "title": "Contributing to U.K. financial sector resilience as a critical third party",
+      "link": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
+      "published": "Fri, 10 Jul 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
+      "title": "Frontier and Center: Who evaluates the evaluations?",
+      "link": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
+      "published": "Fri, 10 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 10 Jul 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
       "title": "Safely run AI-generated code in Cloud Run sandboxes",
@@ -102,24 +120,6 @@
       "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
       "published": "Thu, 02 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/",
-      "title": "SOCRadar powers rapid threat detection with AlloyDB and Gemini Enterprise",
-      "link": "https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/",
-      "published": "Wed, 01 Jul 2026 19:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
-      "title": "AlloyDB AI Functions - now with revolutionary performance boosts and cost savings",
-      "link": "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/",
-      "published": "Wed, 01 Jul 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
-      "title": "Get started with the Claude apps gateway for Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/",
-      "published": "Wed, 01 Jul 2026 16:00:00 +0000"
     }
   ]
 }
