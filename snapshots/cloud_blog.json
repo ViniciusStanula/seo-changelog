@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-07-13T09:29:00.001703+00:00",
+  "fetched_at": "2026-07-13T19:15:22.733821+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
+      "title": "Key findings from the 2026 Public Sector M-Trends report and beyond",
+      "link": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
+      "published": "Mon, 13 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
+      "title": "Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs",
+      "link": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
+      "published": "Mon, 13 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
+      "title": "Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV",
+      "link": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
+      "published": "Mon, 13 Jul 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
       "title": "Contributing to U.K. financial sector resilience as a critical third party",
@@ -98,28 +116,10 @@
       "published": "Tue, 07 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-labs-accelerate-ai-with-cloud-run/",
-      "published": "Tue, 07 Jul 2026 14:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
       "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
       "published": "Tue, 07 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
-      "title": "Shift into high gear with agents: Securing the software-defined vehicle",
-      "link": "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/",
-      "published": "Mon, 06 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
-      "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
-      "published": "Thu, 02 Jul 2026 14:00:00 +0000"
     }
   ]
 }
