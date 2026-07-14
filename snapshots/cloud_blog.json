@@ -1,10 +1,16 @@
 {
-  "fetched_at": "2026-07-14T08:06:37.742563+00:00",
+  "fetched_at": "2026-07-14T19:06:46.420013+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
-      "title": "Key findings from the 2026 Public Sector M-Trends report and beyond",
-      "link": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
+      "title": "Claude at scale on Google Cloud: Frontier AI, built for enterprise production",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
+      "published": "Tue, 14 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
+      "title": "Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV",
+      "link": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
       "published": "Mon, 13 Jul 2026 16:00:00 +0000"
     },
     {
@@ -14,9 +20,9 @@
       "published": "Mon, 13 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
-      "title": "Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV",
-      "link": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
+      "id": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
+      "title": "Key findings from the 2026 Public Sector M-Trends report and beyond",
+      "link": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
       "published": "Mon, 13 Jul 2026 16:00:00 +0000"
     },
     {
@@ -114,12 +120,6 @@
       "title": "Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM",
       "link": "https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/",
       "published": "Tue, 07 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
-      "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
-      "published": "Tue, 07 Jul 2026 14:00:00 +0000"
     }
   ]
 }
