@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-15T08:11:40.051464+00:00",
+  "fetched_at": "2026-07-15T18:58:50.350884+00:00",
   "entries": [
+    {
+      "id": "2026-07-14-Updated-the-package-tracking-documentation",
+      "title": "Updated the package tracking documentation",
+      "link": "https://developers.google.com/search/updates#july-2026",
+      "published": "Tue, 14 Jul 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-07-10-Updated-the-canonicalization-troubleshooting-guide",
       "title": "Updated the canonicalization troubleshooting guide",
