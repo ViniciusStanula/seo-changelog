@@ -1,10 +1,46 @@
 {
-  "fetched_at": "2026-07-16T08:15:12.090540+00:00",
+  "fetched_at": "2026-07-16T18:59:45.794848+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
-      "title": "IDC: Why the right networking approach is foundational to agentic AI",
-      "link": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
+      "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
+      "title": "Three lessons in accelerating foundation model upgrades",
+      "link": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bridge-sql-and-python-with-bigquery/",
+      "title": "Bridging the gap between SQL and Python with BigQuery and the %%bqsql magic",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bridge-sql-and-python-with-bigquery/",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
+      "title": "What 10 autonomous film crews taught us about agent teamwork",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
+      "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
+      "published": "Thu, 16 Jul 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/",
+      "title": "Securing AI at Enterprise Scale: The Google Kubernetes Engine Blueprint",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/",
+      "published": "Thu, 16 Jul 2026 11:28:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
+      "title": "How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI",
+      "link": "https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
       "published": "Wed, 15 Jul 2026 16:00:00 +0000"
     },
     {
@@ -14,9 +50,9 @@
       "published": "Wed, 15 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
-      "title": "How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI",
-      "link": "https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
+      "id": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
+      "title": "IDC: Why the right networking approach is foundational to agentic AI",
+      "link": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
       "published": "Wed, 15 Jul 2026 16:00:00 +0000"
     },
     {
@@ -84,42 +120,6 @@
       "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
       "published": "Thu, 09 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/autopilot-clusters-with-gke-managed-dranet-gpus-and-tpus/",
-      "title": "Autopilot Clusters with GKE managed DRANET: GPUs and TPUs",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/autopilot-clusters-with-gke-managed-dranet-gpus-and-tpus/",
-      "published": "Thu, 09 Jul 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
-      "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
-      "link": "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/",
-      "published": "Wed, 08 Jul 2026 20:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
-      "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra/",
-      "published": "Wed, 08 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/",
-      "title": "New ways to keep Google Cloud certifications current and boost your career",
-      "link": "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/",
-      "published": "Wed, 08 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms/",
-      "title": "Gemini Enterprise for Education named a Commander in Tambellini StarChart™: 2026 AI Agents for Administrative Efficiency—Agent Platforms",
-      "link": "https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms/",
-      "published": "Wed, 08 Jul 2026 15:14:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/",
-      "title": "Meet the 33 cybersecurity startups joining the Gemini Startup Forum",
-      "link": "https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum/",
-      "published": "Wed, 08 Jul 2026 13:30:00 +0000"
     }
   ]
 }
