@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-07-16T18:59:45.794848+00:00",
+  "fetched_at": "2026-07-17T08:10:56.810369+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+      "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+      "published": "Thu, 16 Jul 2026 19:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
       "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
-      "title": "Three lessons in accelerating foundation model upgrades",
-      "link": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
       "published": "Thu, 16 Jul 2026 16:00:00 +0000"
     },
     {
@@ -23,6 +23,12 @@
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
       "title": "What 10 autonomous film crews taught us about agent teamwork",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
+      "published": "Thu, 16 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
+      "title": "Three lessons in accelerating foundation model upgrades",
+      "link": "https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/",
       "published": "Thu, 16 Jul 2026 16:00:00 +0000"
     },
     {
@@ -114,12 +120,6 @@
       "title": "Safely run AI-generated code in Cloud Run sandboxes",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
       "published": "Thu, 09 Jul 2026 16:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
-      "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
-      "published": "Thu, 09 Jul 2026 16:00:00 +0000"
     }
   ]
 }
