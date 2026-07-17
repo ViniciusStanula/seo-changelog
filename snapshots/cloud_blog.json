@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-07-17T08:10:56.810369+00:00",
+  "fetched_at": "2026-07-17T18:56:52.778197+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+      "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+      "published": "Fri, 17 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
+      "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
+      "published": "Fri, 17 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 17 Jul 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
       "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
@@ -102,24 +120,6 @@
       "title": "Contributing to U.K. financial sector resilience as a critical third party",
       "link": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
       "published": "Fri, 10 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 10 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
-      "title": "Frontier and Center: Who evaluates the evaluations?",
-      "link": "https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/",
-      "published": "Fri, 10 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
-      "title": "Safely run AI-generated code in Cloud Run sandboxes",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/",
-      "published": "Thu, 09 Jul 2026 16:30:00 +0000"
     }
   ]
 }
