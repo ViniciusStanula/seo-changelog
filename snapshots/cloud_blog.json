@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-17T18:56:52.778197+00:00",
+  "fetched_at": "2026-07-18T07:51:48.665042+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
-      "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 17 Jul 2026 16:00:00 +0000"
     },
     {
@@ -14,10 +14,16 @@
       "published": "Fri, 17 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+      "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
       "published": "Fri, 17 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
+      "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
+      "published": "Fri, 17 Jul 2026 09:14:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
@@ -114,12 +120,6 @@
       "title": "Key findings from the 2026 Public Sector M-Trends report and beyond",
       "link": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
       "published": "Mon, 13 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
-      "title": "Contributing to U.K. financial sector resilience as a critical third party",
-      "link": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
-      "published": "Fri, 10 Jul 2026 17:00:00 +0000"
     }
   ]
 }
