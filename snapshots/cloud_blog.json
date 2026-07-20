@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-07-20T09:15:14.127053+00:00",
+  "fetched_at": "2026-07-20T19:28:24.340876+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+      "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
+      "link": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+      "published": "Mon, 20 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/",
+      "title": "Making highly available, multi-region Cloud Run services just got easier",
+      "link": "https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/",
+      "published": "Mon, 20 Jul 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
@@ -107,18 +119,6 @@
       "id": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
       "title": "Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs",
       "link": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
-      "published": "Mon, 13 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
-      "title": "Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV",
-      "link": "https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/",
-      "published": "Mon, 13 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
-      "title": "Key findings from the 2026 Public Sector M-Trends report and beyond",
-      "link": "https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/",
       "published": "Mon, 13 Jul 2026 16:00:00 +0000"
     }
   ]
