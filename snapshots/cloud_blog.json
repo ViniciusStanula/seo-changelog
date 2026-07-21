@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-07-21T08:30:30.834770+00:00",
+  "fetched_at": "2026-07-21T19:07:02.180092+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/",
+      "title": "Supercharging pgvector: 4x faster HNSW vector search with AlloyDB",
+      "link": "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/",
+      "published": "Tue, 21 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
+      "title": "Now in preview: Find and fix software vulnerabilities with CodeMender",
+      "link": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
+      "published": "Tue, 21 Jul 2026 15:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/",
+      "title": "Generosity Under Conditions: Hardening Google Cloud Access Management",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/",
+      "published": "Tue, 21 Jul 2026 11:19:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
       "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
@@ -102,24 +120,6 @@
       "title": "The Risk of Exposed Cloud Functions and How to Harden",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
       "published": "Wed, 15 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape/",
-      "title": "Google named a Leader in the 2026 IDC MarketScape for Worldwide Foundation Model Software",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape/",
-      "published": "Tue, 14 Jul 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
-      "title": "Claude at scale on Google Cloud: Frontier AI, built for enterprise production",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/",
-      "published": "Tue, 14 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
-      "title": "Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs",
-      "link": "https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/",
-      "published": "Mon, 13 Jul 2026 16:00:00 +0000"
     }
   ]
 }
