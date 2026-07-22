@@ -154,7 +154,7 @@ What's coming:
 What's new:
 
 - We launched a new sub-API.
-- Product Studio (ALPHA) leverages genAI to generate and optimize product titles and descriptions. You need to sign this form to request access.
+- Product Studio (ALPHA) leverages genAI to generate and optimize product titles and descriptions.
 
 - New resources are available in the Accounts sub-API.
 - `AutomaticImprovements`manages the opt-in to three automatic update features provided by the Google Merchant Center platform:
