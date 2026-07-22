@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-21T19:07:02.180092+00:00",
+  "fetched_at": "2026-07-22T08:30:29.917858+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
+      "title": "Why AI apps fail in production (And how Google solved it)",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
+      "published": "Tue, 21 Jul 2026 23:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/",
       "title": "Supercharging pgvector: 4x faster HNSW vector search with AlloyDB",
@@ -104,22 +110,16 @@
       "published": "Wed, 15 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
-      "title": "IDC: Why the right networking approach is foundational to agentic AI",
-      "link": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
-      "published": "Wed, 15 Jul 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
       "title": "How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI",
       "link": "https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/",
       "published": "Wed, 15 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
-      "title": "The Risk of Exposed Cloud Functions and How to Harden",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
-      "published": "Wed, 15 Jul 2026 14:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
+      "title": "IDC: Why the right networking approach is foundational to agentic AI",
+      "link": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
+      "published": "Wed, 15 Jul 2026 16:00:00 +0000"
     }
   ]
 }
