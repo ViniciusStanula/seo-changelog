@@ -1,9 +1,27 @@
 {
-  "fetched_at": "2026-07-23T08:31:44.741218+00:00",
+  "fetched_at": "2026-07-23T19:02:47.737395+00:00",
   "entries": [
     {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
+      "title": "Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
+      "published": "Thu, 23 Jul 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
+      "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
+      "link": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
+      "published": "Thu, 23 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
+      "title": "Your AI agents are ready. Is your data?",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
+      "published": "Thu, 23 Jul 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
-      "title": "From maintenance to innovation: Checking in on Checkout.com’s Cloud Composer 3 migration",
+      "title": "From Maintenance to Innovation: Checkout's Migration from Self-Managed Airflow to Managed Service for Apache Airflow (formerly Cloud Composer)",
       "link": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
       "published": "Wed, 22 Jul 2026 14:00:00 +0000"
     },
@@ -102,24 +120,6 @@
       "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
       "published": "Thu, 16 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
-      "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
-      "published": "Thu, 16 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/",
-      "title": "Securing AI at Enterprise Scale: The Google Kubernetes Engine Blueprint",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/",
-      "published": "Thu, 16 Jul 2026 11:28:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/",
-      "title": "How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/",
-      "published": "Wed, 15 Jul 2026 16:00:00 +0000"
     }
   ]
 }
