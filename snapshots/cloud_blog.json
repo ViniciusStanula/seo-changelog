@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-07-26T08:27:09.152828+00:00",
+  "fetched_at": "2026-07-26T19:00:13.874225+00:00",
   "entries": [
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
-      "title": "Open Knowledge format v0.2 tackles agentic trust",
-      "link": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
-      "published": "Fri, 24 Jul 2026 16:00:00 +0000"
-    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 24 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
+      "title": "Open Knowledge format v0.2 tackles agentic trust",
+      "link": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
       "published": "Fri, 24 Jul 2026 16:00:00 +0000"
     },
     {
@@ -26,15 +26,15 @@
       "published": "Thu, 23 Jul 2026 17:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
-      "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
-      "link": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
-      "published": "Thu, 23 Jul 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
       "title": "Your AI agents are ready. Is your data?",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
+      "published": "Thu, 23 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
+      "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
+      "link": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
       "published": "Thu, 23 Jul 2026 16:00:00 +0000"
     },
     {
@@ -86,15 +86,15 @@
       "published": "Mon, 20 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
-      "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
-      "published": "Fri, 17 Jul 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
       "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
+      "published": "Fri, 17 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
+      "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
       "published": "Fri, 17 Jul 2026 16:00:00 +0000"
     },
     {
@@ -110,15 +110,15 @@
       "published": "Thu, 16 Jul 2026 19:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
-      "title": "What 10 autonomous film crews taught us about agent teamwork",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
+      "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
       "published": "Thu, 16 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bridge-sql-and-python-with-bigquery/",
-      "title": "Bridging the gap between SQL and Python with BigQuery and the %%bqsql magic",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bridge-sql-and-python-with-bigquery/",
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
+      "title": "What 10 autonomous film crews taught us about agent teamwork",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
       "published": "Thu, 16 Jul 2026 16:00:00 +0000"
     }
   ]
