@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-07-27T09:53:29.319595+00:00",
+  "fetched_at": "2026-07-27T19:15:58.542443+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
+      "title": "Announcing general availability of SAP Business Data Cloud Connect for BigQuery",
+      "link": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
+      "published": "Mon, 27 Jul 2026 16:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/",
+      "title": "Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience",
+      "link": "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/",
+      "published": "Mon, 27 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting/",
+      "title": "Modernizing the skies: NOAA and Google Cloud collaborate to advance weather forecasting",
+      "link": "https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting/",
+      "published": "Mon, 27 Jul 2026 14:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
@@ -102,24 +120,6 @@
       "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
       "published": "Fri, 17 Jul 2026 09:14:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
-      "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
-      "published": "Thu, 16 Jul 2026 19:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
-      "title": "Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
-      "title": "What 10 autonomous film crews taught us about agent teamwork",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/",
-      "published": "Thu, 16 Jul 2026 16:00:00 +0000"
     }
   ]
 }
