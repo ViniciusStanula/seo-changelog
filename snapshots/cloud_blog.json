@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-07-28T08:34:58.762564+00:00",
+  "fetched_at": "2026-07-28T19:11:45.429685+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
+      "title": "Bringing Conversational Analytics to your entire data ecosystem",
+      "link": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
+      "published": "Tue, 28 Jul 2026 17:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/",
+      "title": "Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS",
+      "link": "https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/",
+      "published": "Tue, 28 Jul 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
+      "title": "Best Buy scales AI workloads and secures access with Workforce Identity Federation",
+      "link": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
+      "published": "Tue, 28 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
+      "title": "Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend",
+      "link": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
+      "published": "Tue, 28 Jul 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
       "title": "Announcing general availability of SAP Business Data Cloud Connect for BigQuery",
@@ -96,30 +120,6 @@
       "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
       "link": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
       "published": "Mon, 20 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/",
-      "title": "Making highly available, multi-region Cloud Run services just got easier",
-      "link": "https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/",
-      "published": "Mon, 20 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
-      "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform/",
-      "published": "Fri, 17 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
-      "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery/",
-      "published": "Fri, 17 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
-      "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering/",
-      "published": "Fri, 17 Jul 2026 09:14:00 +0000"
     }
   ]
 }
