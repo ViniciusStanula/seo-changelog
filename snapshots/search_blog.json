@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-29T08:41:42.761505+00:00",
+  "fetched_at": "2026-07-29T19:01:14.815297+00:00",
   "entries": [
+    {
+      "id": "2026-07-29-Platform-properties-roll-out-globally,-plus-a-new-social-and-video-performance-guide",
+      "title": "Platform properties roll out globally, plus a new social and video performance guide",
+      "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
+      "published": "Wed, 29 Jul 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-07-07-See-how-content-from-social-and-video-platforms-performs-on-Google-Search",
       "title": "See how content from social and video platforms performs on Google Search",
@@ -54,12 +60,6 @@
       "title": "Inside Googlebot: demystifying crawling, fetching, and the bytes we process",
       "link": "https://developers.google.com/search/blog/2026/03/crawler-blog-post",
       "published": "Tue, 31 Mar 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-03-20-Search-Central-Live-Asia-Pacific-2026:-Get-Ready-for-Sydney-and-more!",
-      "title": "Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!",
-      "link": "https://developers.google.com/search/blog/2026/03/scl-apac-2026",
-      "published": "Fri, 20 Mar 2026 00:00:00 +0000"
     }
   ]
 }

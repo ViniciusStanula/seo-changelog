@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-07-29T08:41:44.475068+00:00",
+  "fetched_at": "2026-07-29T19:01:16.694514+00:00",
   "entries": [
+    {
+      "id": "2026-07-29-Added-guide-on-analyzing-social-and-video-platform-content",
+      "title": "Added guide on analyzing social and video platform content",
+      "link": "https://developers.google.com/search/updates#july-2026",
+      "published": "Wed, 29 Jul 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-07-24-Added-a-new-review-snippet-guideline",
       "title": "Added a new review snippet guideline",

@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-07-29T08:41:51.254007+00:00",
+  "fetched_at": "2026-07-29T19:01:23.813380+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+      "title": "Automate your agent development lifecycle using any coding agent",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
+      "title": "The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents",
+      "link": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
+      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
+      "title": "What’s new in Gemini Enterprise Agent Platform",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
+      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
+      "title": "Automate data monitoring and root-cause analysis with Looker Agentic Workflows",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
+      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
       "title": "Bringing Conversational Analytics to your entire data ecosystem",
@@ -96,30 +120,6 @@
       "title": "Why AI apps fail in production (And how Google solved it)",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
       "published": "Tue, 21 Jul 2026 23:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/",
-      "title": "Supercharging pgvector: 4x faster HNSW vector search with AlloyDB",
-      "link": "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb/",
-      "published": "Tue, 21 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
-      "title": "Now in preview: Find and fix software vulnerabilities with CodeMender",
-      "link": "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender/",
-      "published": "Tue, 21 Jul 2026 15:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/",
-      "title": "Generosity Under Conditions: Hardening Google Cloud Access Management",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management/",
-      "published": "Tue, 21 Jul 2026 11:19:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
-      "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
-      "link": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
-      "published": "Mon, 20 Jul 2026 16:00:00 +0000"
     }
   ]
 }
