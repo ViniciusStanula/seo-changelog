@@ -1,12 +1,6 @@
 {
-  "fetched_at": "2026-07-29T19:01:23.813380+00:00",
+  "fetched_at": "2026-07-30T08:27:47.214616+00:00",
   "entries": [
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
-      "title": "Automate your agent development lifecycle using any coding agent",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
-      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
-    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
       "title": "The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents",
@@ -14,15 +8,21 @@
       "published": "Wed, 29 Jul 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
-      "title": "What’s new in Gemini Enterprise Agent Platform",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
-      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
       "title": "Automate data monitoring and root-cause analysis with Looker Agentic Workflows",
       "link": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
+      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+      "title": "Automate your agent development lifecycle using any coding agent",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
+      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
+      "title": "What’s new in Gemini Enterprise Agent Platform",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
       "published": "Wed, 29 Jul 2026 16:00:00 +0000"
     },
     {
