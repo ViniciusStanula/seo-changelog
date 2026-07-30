@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-07-30T08:27:47.214616+00:00",
+  "fetched_at": "2026-07-30T19:13:32.731040+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/",
+      "title": "AlloyDB adds group authentication to secure enterprise scale and AI agents",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/",
+      "published": "Thu, 30 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
+      "title": "Do more with less: How GKE can reduce your cost per agent by 75%",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
+      "published": "Thu, 30 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
+      "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
+      "published": "Thu, 30 Jul 2026 14:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
       "title": "The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents",
@@ -102,24 +120,6 @@
       "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
       "link": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
       "published": "Thu, 23 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
-      "title": "From maintenance to innovation: Checkout's migration to Managed Service for Apache Airflow",
-      "link": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
-      "published": "Wed, 22 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/",
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "link": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission/",
-      "published": "Wed, 22 Jul 2026 13:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
-      "title": "Why AI apps fail in production (And how Google solved it)",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
-      "published": "Tue, 21 Jul 2026 23:00:00 +0000"
     }
   ]
 }
