@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-07-31T08:50:38.225518+00:00",
+  "fetched_at": "2026-07-31T19:12:13.014865+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "title": "What’s new in AI infrastructure and orchestration this month",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "Fri, 31 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 31 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/",
+      "title": "Cloud CISO Perspectives: Why AI Threat Defense is the new boardroom baseline",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/",
+      "published": "Fri, 31 Jul 2026 13:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
       "title": "Do more with less: How GKE can reduce your cost per agent by 75%",
@@ -86,12 +104,6 @@
       "published": "Mon, 27 Jul 2026 14:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 24 Jul 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
       "title": "Open Knowledge format v0.2 tackles agentic trust",
       "link": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
@@ -108,18 +120,6 @@
       "title": "Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
       "published": "Thu, 23 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
-      "title": "Your AI agents are ready. Is your data?",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-and-the-agentic-data-cloud/",
-      "published": "Thu, 23 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
-      "title": "The Blueprint: How Voicify makes AI-enabled ordering a delight for customers",
-      "link": "https://cloud.google.com/blog/topics/customers/bringing-delight-to-customer-phone-calls-with-ai/",
-      "published": "Thu, 23 Jul 2026 16:00:00 +0000"
     }
   ]
 }
