@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-08-03T09:46:53.295570+00:00",
+  "fetched_at": "2026-08-03T19:21:44.546278+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
+      "title": "Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud",
+      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
+      "published": "Mon, 03 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/sap-google-cloud/cortex-framework-v7-power-ai-agents-with-sap-data-faster/",
+      "title": "Cortex Framework v7 is GA: Build agentic workflows without disrupting SAP operations",
+      "link": "https://cloud.google.com/blog/products/sap-google-cloud/cortex-framework-v7-power-ai-agents-with-sap-data-faster/",
+      "published": "Mon, 03 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/unify-public-and-private-data-with-data-commons-on-spanner-graph/",
+      "title": "Unifying public and private data: Scale knowledge graphs with Data Commons on Spanner",
+      "link": "https://cloud.google.com/blog/products/databases/unify-public-and-private-data-with-data-commons-on-spanner-graph/",
+      "published": "Mon, 03 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills/",
+      "title": "Behind the scenes: How we build, test, and scale Google Agent Skills",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills/",
+      "published": "Mon, 03 Aug 2026 11:23:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
@@ -96,30 +120,6 @@
       "title": "Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience",
       "link": "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/",
       "published": "Mon, 27 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting/",
-      "title": "Modernizing the skies: NOAA and Google Cloud collaborate to advance weather forecasting",
-      "link": "https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting/",
-      "published": "Mon, 27 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
-      "title": "Open Knowledge format v0.2 tackles agentic trust",
-      "link": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
-      "published": "Fri, 24 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
-      "title": "Updated Cyber Threat Actor Naming System",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
-      "published": "Fri, 24 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
-      "title": "Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
-      "published": "Thu, 23 Jul 2026 17:00:00 +0000"
     }
   ]
 }
