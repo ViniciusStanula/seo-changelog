@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T19:21:44.546278+00:00",
+  "fetched_at": "2026-08-04T08:37:26.728993+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
@@ -35,6 +35,12 @@
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "title": "What’s new in AI infrastructure and orchestration this month",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "Fri, 31 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "title": "What Google Cloud announced in AI this month",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
       "published": "Fri, 31 Jul 2026 16:00:00 +0000"
     },
     {
@@ -114,12 +120,6 @@
       "title": "Announcing general availability of SAP Business Data Cloud Connect for BigQuery",
       "link": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
       "published": "Mon, 27 Jul 2026 16:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/",
-      "title": "Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience",
-      "link": "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/",
-      "published": "Mon, 27 Jul 2026 16:00:00 +0000"
     }
   ]
 }
