@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-08-04T08:37:26.728993+00:00",
+  "fetched_at": "2026-08-04T19:20:44.579809+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
+      "title": "Introducing Database Operations Agents: The future of autonomous database management",
+      "link": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
+      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
+      "title": "How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph",
+      "link": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
+      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service/",
+      "title": "Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation",
+      "link": "https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service/",
+      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/",
+      "title": "How Deutsche Bank unlocked agility with an API-ready ecosystem",
+      "link": "https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/",
+      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/chrome-enterprise/future-mode-part-2-the-foundation-for-securing-agentic-browsing/",
+      "title": "Future Mode Part 2: The foundation for securing agentic browsing",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/future-mode-part-2-the-foundation-for-securing-agentic-browsing/",
+      "published": "Tue, 04 Aug 2026 10:50:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
       "title": "Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud",
@@ -90,36 +120,6 @@
       "title": "What’s new in Gemini Enterprise Agent Platform",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
       "published": "Wed, 29 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
-      "title": "Bringing Conversational Analytics to your entire data ecosystem",
-      "link": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
-      "published": "Tue, 28 Jul 2026 17:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/",
-      "title": "Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS",
-      "link": "https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms/",
-      "published": "Tue, 28 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
-      "title": "Best Buy scales AI workloads and secures access with Workforce Identity Federation",
-      "link": "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation/",
-      "published": "Tue, 28 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
-      "title": "Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend",
-      "link": "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets/",
-      "published": "Tue, 28 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
-      "title": "Announcing general availability of SAP Business Data Cloud Connect for BigQuery",
-      "link": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
-      "published": "Mon, 27 Jul 2026 16:30:00 +0000"
     }
   ]
 }
