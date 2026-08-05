@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-08-05T08:36:48.826172+00:00",
+  "fetched_at": "2026-08-05T19:18:28.505127+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
+      "title": "Solving the \"Noisy Neighbor\": How Sharded Architecture Protects Multi-Tenant Platforms",
+      "link": "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
+      "published": "Wed, 05 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
+      "title": "Scaling agentic AI: How UiPath built its high-performance GPU platform on AI Hypercomputer",
+      "link": "https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
+      "published": "Wed, 05 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus/",
+      "title": "Unlocking the future of shared storage: Filestore on Colossus",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus/",
+      "published": "Wed, 05 Aug 2026 13:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service/",
       "title": "Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation",
@@ -101,24 +119,6 @@
       "id": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
       "title": "The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents",
       "link": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
-      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
-      "title": "Automate data monitoring and root-cause analysis with Looker Agentic Workflows",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights/",
-      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
-      "title": "Automate your agent development lifecycle using any coding agent",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/",
-      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
-      "title": "What’s new in Gemini Enterprise Agent Platform",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform/",
       "published": "Wed, 29 Jul 2026 16:00:00 +0000"
     }
   ]
