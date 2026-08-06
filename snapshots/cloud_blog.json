@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-08-05T19:18:28.505127+00:00",
+  "fetched_at": "2026-08-06T08:36:56.611397+00:00",
   "entries": [
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
-      "title": "Solving the \"Noisy Neighbor\": How Sharded Architecture Protects Multi-Tenant Platforms",
-      "link": "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
-      "published": "Wed, 05 Aug 2026 16:00:00 +0000"
-    },
     {
       "id": "https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
       "title": "Scaling agentic AI: How UiPath built its high-performance GPU platform on AI Hypercomputer",
       "link": "https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
+      "published": "Wed, 05 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
+      "title": "Solving the \"Noisy Neighbor\": How Sharded Architecture Protects Multi-Tenant Platforms",
+      "link": "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
       "published": "Wed, 05 Aug 2026 16:00:00 +0000"
     },
     {
@@ -32,15 +32,15 @@
       "published": "Tue, 04 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
-      "title": "How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph",
-      "link": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
-      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
       "title": "Introducing Database Operations Agents: The future of autonomous database management",
       "link": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
+      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
+      "title": "How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph",
+      "link": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
       "published": "Tue, 04 Aug 2026 16:00:00 +0000"
     },
     {
