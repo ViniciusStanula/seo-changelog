@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-08-06T08:36:56.611397+00:00",
+  "fetched_at": "2026-08-06T23:52:01.655437+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/",
+      "title": "Advancing brain tumor research with privacy-first AI",
+      "link": "https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/",
+      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training/",
+      "title": "Your agentic summer: No-cost lessons from Google experts to build and scale agents",
+      "link": "https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training/",
+      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/",
+      "title": "Digital sovereignty in the age of AI: You don’t have to choose between control and innovation",
+      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/",
+      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
+      "title": "Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
+      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
+      "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
+      "published": "Thu, 06 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/",
+      "title": "Mirendil taps AI Hypercomputer TPUs and GPUs for pre- and post-training applications",
+      "link": "https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/",
+      "published": "Thu, 06 Aug 2026 13:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
       "title": "Scaling agentic AI: How UiPath built its high-performance GPU platform on AI Hypercomputer",
@@ -84,42 +120,6 @@
       "title": "What’s new in AI infrastructure and orchestration this month",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "published": "Fri, 31 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "published": "Fri, 31 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/",
-      "title": "Cloud CISO Perspectives: Why AI Threat Defense is the new boardroom baseline",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-why-ai-threat-defense-is-the-new-boardroom-baseline/",
-      "published": "Fri, 31 Jul 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
-      "title": "Do more with less: How GKE can reduce your cost per agent by 75%",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
-      "published": "Thu, 30 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/",
-      "title": "AlloyDB adds group authentication to secure enterprise scale and AI agents",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents/",
-      "published": "Thu, 30 Jul 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
-      "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
-      "published": "Thu, 30 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
-      "title": "The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents",
-      "link": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
-      "published": "Wed, 29 Jul 2026 16:00:00 +0000"
     }
   ]
 }
