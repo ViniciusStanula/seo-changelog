@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-08-06T23:52:01.655437+00:00",
+  "fetched_at": "2026-08-07T07:16:27.053620+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
+      "title": "Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
+      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/",
       "title": "Advancing brain tumor research with privacy-first AI",
@@ -17,12 +23,6 @@
       "id": "https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/",
       "title": "Digital sovereignty in the age of AI: You don’t have to choose between control and innovation",
       "link": "https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/",
-      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
-      "title": "Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
       "published": "Thu, 06 Aug 2026 16:00:00 +0000"
     },
     {
