@@ -6,7 +6,7 @@ Get the latest announcements on new features, bug fixes, and release updates.
 
 What's new:
 
-- A new Merchant API MCP service (alpha version) with authorized access to your Merchant Center data and insights with a focus on read-only is now available as a new agentic tool for Merchant API.
+- A preview of the Merchant API MCP service is now available. This agentic tool provides authorized, read-only access to your Merchant Center data and insights.
 - New conversational attributes are now available under - `ProductAttributes`in the Products sub-API.- These attributes include:
 - A full set of attributes specifically for vehicle ads has been added in the Products sub-API.
 - Notifications on product status changes for Universal Commerce Protocol (UCP) checkout are now available in the Notifications API through the reporting context value - `FREE_LISTINGS_UCP_CHECKOUT`.

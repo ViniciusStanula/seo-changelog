@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-08-10T07:42:35.033898+00:00",
+  "fetched_at": "2026-08-10T18:44:36.355719+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
+      "title": "How WPP operationalizes platform and data engineering for AI marketing",
+      "link": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
+      "published": "Mon, 10 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/",
+      "title": "How Malachyte solves retail’s cold-start problem with managed real-time AI",
+      "link": "https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/",
+      "published": "Mon, 10 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/",
+      "title": "ClusterNetworkPolicy in GKE: Balancing control and autonomy for your microservices",
+      "link": "https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/",
+      "published": "Mon, 10 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/",
+      "title": "Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/",
+      "published": "Mon, 10 Aug 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/new-bigquery-data-transfer-service-capabilities/",
       "title": "Zero-code, low-cost data ingestion: New BigQuery DTS capabilities",
@@ -96,30 +120,6 @@
       "title": "How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph",
       "link": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
       "published": "Tue, 04 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service/",
-      "title": "Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation",
-      "link": "https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service/",
-      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/",
-      "title": "How Deutsche Bank unlocked agility with an API-ready ecosystem",
-      "link": "https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank/",
-      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/chrome-enterprise/future-mode-part-2-the-foundation-for-securing-agentic-browsing/",
-      "title": "Future Mode Part 2: The foundation for securing agentic browsing",
-      "link": "https://cloud.google.com/blog/products/chrome-enterprise/future-mode-part-2-the-foundation-for-securing-agentic-browsing/",
-      "published": "Tue, 04 Aug 2026 10:50:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
-      "title": "Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud",
-      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/",
-      "published": "Mon, 03 Aug 2026 17:00:00 +0000"
     }
   ]
 }
