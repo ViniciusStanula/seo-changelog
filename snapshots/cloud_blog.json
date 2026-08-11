@@ -1,17 +1,35 @@
 {
-  "fetched_at": "2026-08-11T07:08:24.862994+00:00",
+  "fetched_at": "2026-08-11T18:51:35.004560+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+      "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
+      "link": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
+      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+      "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "link": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
+      "title": "Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables",
+      "link": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
+      "published": "Tue, 11 Aug 2026 10:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
       "title": "Introducing the Developer Device Platform for agentic mobile app development",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
       "published": "Mon, 10 Aug 2026 22:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
-      "title": "How WPP operationalizes platform and data engineering for AI marketing",
-      "link": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
-      "published": "Mon, 10 Aug 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention/",
@@ -29,6 +47,12 @@
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/",
       "title": "Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/",
+      "published": "Mon, 10 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
+      "title": "How WPP operationalizes platform and data engineering for AI marketing",
+      "link": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
       "published": "Mon, 10 Aug 2026 16:00:00 +0000"
     },
     {
@@ -96,30 +120,6 @@
       "title": "Mirendil taps AI Hypercomputer TPUs and GPUs for pre- and post-training applications",
       "link": "https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/",
       "published": "Thu, 06 Aug 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
-      "title": "Scaling agentic AI: How UiPath built its high-performance GPU platform on AI Hypercomputer",
-      "link": "https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform/",
-      "published": "Wed, 05 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
-      "title": "Solving the \"Noisy Neighbor\": How Sharded Architecture Protects Multi-Tenant Platforms",
-      "link": "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture/",
-      "published": "Wed, 05 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus/",
-      "title": "Unlocking the future of shared storage: Filestore on Colossus",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus/",
-      "published": "Wed, 05 Aug 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
-      "title": "Introducing Database Operations Agents: The future of autonomous database management",
-      "link": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
-      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
     }
   ]
 }
