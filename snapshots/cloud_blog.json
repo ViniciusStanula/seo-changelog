@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-08-10T18:44:36.355719+00:00",
+  "fetched_at": "2026-08-11T07:08:24.862994+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
+      "title": "Introducing the Developer Device Platform for agentic mobile app development",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
+      "published": "Mon, 10 Aug 2026 22:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
       "title": "How WPP operationalizes platform and data engineering for AI marketing",
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
       "title": "Introducing Database Operations Agents: The future of autonomous database management",
       "link": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents/",
-      "published": "Tue, 04 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
-      "title": "How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph",
-      "link": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph/",
       "published": "Tue, 04 Aug 2026 16:00:00 +0000"
     }
   ]
