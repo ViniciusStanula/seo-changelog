@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T18:51:35.004560+00:00",
+  "fetched_at": "2026-08-12T07:25:20.301418+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
@@ -62,12 +62,6 @@
       "published": "Fri, 07 Aug 2026 17:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
-      "title": "Unifying Structured and Unstructured Data Insights with BQ Search Innovations",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
-      "published": "Fri, 07 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/identity-security/how-google-cloud-detects-contains-and-protects-against-emerging-threats/",
       "title": "How Google Cloud detects, contains, and protects against emerging threats",
       "link": "https://cloud.google.com/blog/products/identity-security/how-google-cloud-detects-contains-and-protects-against-emerging-threats/",
@@ -83,6 +77,12 @@
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 07 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
+      "title": "Unifying Structured and Unstructured Data Insights with BQ Search Innovations",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
       "published": "Fri, 07 Aug 2026 16:00:00 +0000"
     },
     {

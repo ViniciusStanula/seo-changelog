@@ -288,7 +288,7 @@ These attributes define the price and availability for your products. This infor
 * Make sure that your landing page and the checkout pages include the price in the currency of the target country in a place that's straightforward to find. For ambiguous currency symbols such as “$”, use explicit symbols (for example, “S$” for Singapore Dollars, “C$” for Canadian Dollars) on your landing page.
 * Ensure that the product can be purchased online for the submitted price.
 * Make sure that any customer can buy the product for the submitted price, without having to sign up for a membership program (free or paid).
-* In countries where the [loyalty program `[loyalty_program]`](https://support.google.com/merchants/answer/12827255) attribute is available, use the price `[price]` sub-attribute within the loyalty program `[loyalty_program]` attribute when submitting the member price for both free and paid memberships. Don’t use price `[price]` or sale price `[sale_price]` to submit member prices.
+* If you are targeting a combination of supported and non-supported regions for loyalty programs with a free-to-join tier, [you can choose how to submit these free member prices](https://support.google.com/merchants/answer/17303094).
 * Don't submit a price of 0 (a price of 0 is allowed for mobile devices sold with a contract and physical goods sold with a subscription only).
 * For products sold in bulk quantities, with minimum order quantities, bundles, or multipacks.
 * Submit the total price of the minimum purchasable quantity. This total price should also be prominently displayed on the landing page.
@@ -315,7 +315,7 @@ These attributes define the price and availability for your products. This infor
 * Meet the requirements for the price `[price]` attribute.
 * Submit this attribute (sale price) in addition to the price `[price]` attribute set to the non-sale price.
 * Accurately submit the product's sale price, and match the sale price with your landing page and the checkout pages.
-* Don't use the sale price `[sale_price]` attribute to submit loyalty prices (requiring membership in a loyalty program, free or paid) or promotional prices. Instead, use the loyalty program `[loyalty_program]` attribute in supported countries.
+* Don't use the sale price [sale_price]**** for loyalty prices requiring membership in a loyalty program, free or paid, in countries where the loyalty program is supported. Instead, use the [_loyalty program`[loyalty_program]`_](https://support.google.com/merchants/answer/12922446) attribute. If you are targeting a combination of supported and non-supported regions for loyalty programs with a free-to-join tier, [_you can choose how to submit these free member prices_](https://support.google.com/merchants/answer/17303094).
 
 [Sale price effective date
 `[sale_price_effective_date]`](https://support.google.com/merchants/answer/12471843) The date range during which the sale price applies **Optional** **Example**
@@ -468,7 +468,7 @@ The tier label set in your program settings in Merchant Center, used to differen
 * Submit the loyalty program `[loyalty_program]` attribute to match the loyalty program label and tiers configured under your Merchant Center account.
 * Ensure member prices are clearly accessible on your website for members, whether through a loyalty overview page, a dedicated event page, or otherwise clearly communicated to members.
 * Ensure that member prices match between your product data source, landing page, and checkout.
-* Member price for free and paid tiers needs to be submitted via this attribute. Submitting member price using price `[price]` or sale price `[sale_price]` is not allowed.
+* Member price for free and paid tiers needs to be submitted via this attribute. Submitting member price using price `[price]` or sale price `[sale_price]` is not allowed in countries where the loyalty program is supported. If you are targeting a combination of supported and non-supported regions for loyalty programs with a free-to-join tier, [you can choose how to submit these free member prices](https://support.google.com/merchants/answer/17303094).
 * If you only have one tier in your loyalty program, you don’t need to submit program label `[program_label]` and tier label `[tier_label]`.
 * Program label `[program_label]` and tier label `[tier_label]` are case-insensitive.
 
