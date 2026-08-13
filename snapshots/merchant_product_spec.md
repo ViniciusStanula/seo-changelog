@@ -629,7 +629,7 @@ Product lacks a brand, GTIN, or MPN (view requirements to the right). If set to 
 
 These attributes are used to provide product identifiers that define the products you're selling in the global marketplace and can help boost the performance of your ads and free listings.
 
-Attribute and format | Minimum requirements at a glance
+**Attribute and format** | **Minimum requirements at a glance**
 ---|---
 [Adult `[adult]`](https://support.google.com/merchants/answer/12471844) Indicate a product includes sexually suggestive content **Required**(If a product contains adult content) **Example**
 `yes` **Supported values**
@@ -738,7 +738,7 @@ Professionally restored to working order, comes with a warranty, may or may not 
 * Used `[used]`
 Previously used, original packaging opened or missing
 
-**Schema.org property:** Yes (Learn more about [Merchant listing (Product, Offer) structured data](https://developers.google.com/search/docs/appearance/structured-data/merchant-listing) on Google Search Central) |
+**Schema.org property:** Yes (Learn more about [Merchant listing (Product, Offer) structured data](https://developers.google.com/search/docs/appearance/structured-data/merchant-listing) on Google Search Central)
 [Document link `[document_link]`](https://support.google.com/merchants/answer/17084656) The URL to a PDF document about your product **Optional** **Example**
 `https://example.com/manual.pdf` **Syntax**
 URL (Must start with "http://" or "https://")
@@ -781,7 +781,7 @@ Max 50 alphanumeric characters **Schema.org property:** Yes (Learn more about [M
 * Use only valid unicode characters.
 * Specify item group title `[item_group_title]` together with item group ID****`[item_group_id] `to define a unique name for your product group.
 * Specify variant option `[variant_option]` in combination with item group ID `[item_group_id]` to define all variant-identifying properties of the product, for example a t-shirt with different sizes and colors, or a laptop with different memory sizes, display sizes, processors, and graphics options.
-* Specify the [  _color_` _[color]_`](https://support.google.com/merchants/answer/6324487),[ _pattern_` _[pattern]_`](https://support.google.com/merchants/answer/6324483),[ _material_` _[material]_`](https://support.google.com/merchants/answer/6324410),[ _age group_` _[age_group]_`](https://support.google.com/merchants/answer/6324463),[ _gender_` _[gender]_`](https://support.google.com/merchants/answer/6324463)[ and](https://support.google.com/merchants/answer/6324492) [_size_` _[size]_` ](https://support.google.com/merchants/answer/6324492)attributes in addition to variant option `[variant_option]` when these attributes are part of the set of variant-identifying properties.
+* Specify the [ _color_` _[color]_`](https://support.google.com/merchants/answer/6324487),[ _pattern_` _[pattern]_`](https://support.google.com/merchants/answer/6324483),[ _material_` _[material]_`](https://support.google.com/merchants/answer/6324410),[ _age group_` _[age_group]_`](https://support.google.com/merchants/answer/6324463),[ _gender_` _[gender]_`](https://support.google.com/merchants/answer/6324463)[ and](https://support.google.com/merchants/answer/6324492) [_size_` _[size]_` ](https://support.google.com/merchants/answer/6324492)attributes in addition to variant option `[variant_option]` when these attributes are part of the set of variant-identifying properties.
 
 [Item group title `[item_group_title]`](https://support.google.com/merchants/answer/17085146) A title for the parent product (product group) to which this variant belongs. Use if the product is a variant **Example**
 My Brand Brilliance line Laptop **Syntax**
@@ -874,6 +874,7 @@ This attribute uses three sub-attributes:
 
 **Schema.org property** : No |
 
+* Submit up to 100 product details.
 * Don't add information covered in other attributes, all capital letters, gimmicky foreign characters, promotion text, or list keywords or search terms.
 * Don’t add information such as price, sale price, sale dates, shipping, delivery date, other time-related information, or your company’s name.
 * Only provide an attribute name and value when the value is confirmed. For example, provide “Vegetarian:False” if a food product is not vegetarian.
@@ -959,9 +960,9 @@ Number + unit **Supported values**
 * Use the actual assembled product weight for this attribute.
 * If your product comes in multiple pieces, for example, as part of a bundle, use the complete weight of all the pieces in the listing.
 
-[_Question and answer_ `[question_and_answer]`](https://support.google.com/merchants/answer/17085211) User-, merchant-, and manufacturer-authored questions and answers about the product.  **Optional** **Example (2 Q &As):**
-`"Does it have a headphone jack?":"This version doesn’t have a headphone jack.", "Does it support Bluetooth?":"It has full Bluetooth 6.0 support." ` **Syntax**
-Group attribute. Max 30 values. Max 10000 characters total.  This attribute uses 2 sub-attributes (both are required):
+[_Question and answer_ `[question_and_answer]`](https://support.google.com/merchants/answer/17085211) User-, merchant-, and manufacturer-authored questions and answers about the product. **Optional** **Example (2 Q &As):**
+`"Does it have a headphone jack?":"This version doesn’t have a headphone jack.", "Does it support Bluetooth?":"It has full Bluetooth 6.0 support."` **Syntax**
+Group attribute. Max 30 values. Max 10000 characters total. This attribute uses 2 sub-attributes (both are required):
 
 * **Question**`**[question]**`: Text. Max. 1000 characters.
 * **Answer**`**[answer]**`: Text. Max. 1000 characters.
@@ -1046,9 +1047,9 @@ Max 100 characters **Schema.org property:** Yes (Learn more about [Merchant list
 
 * If you don't submit the attribute, the default value is your **target country**.
 
-[Variant option `[variant option]`](https://support.google.com/merchants/answer/17085214) Use if the product is a variant Variant-identifying dimensions and their values  **Example**
+[Variant option `[variant option]`](https://support.google.com/merchants/answer/17085214) Use if the product is a variant Variant-identifying dimensions and their values **Example**
 `Memory size:128 GB,Screen size:XL` **Syntax**
-Group attribute. Max 30 values. Max 5000 characters total.  This attribute uses two sub-attributes (both are required):
+Group attribute. Max 30 values. Max 5000 characters total. This attribute uses two sub-attributes (both are required):
 
 * Name`[name]`. Text. Max. 250 characters.
 * Value `[value]`. Text. Max. 250 characters.
