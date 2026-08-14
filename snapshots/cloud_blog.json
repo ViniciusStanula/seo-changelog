@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-08-14T07:25:25.661458+00:00",
+  "fetched_at": "2026-08-14T18:42:38.779559+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 14 Aug 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
       "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
@@ -77,12 +83,6 @@
       "id": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
       "title": "GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud",
       "link": "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/",
-      "published": "Fri, 07 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 07 Aug 2026 16:00:00 +0000"
     },
     {
