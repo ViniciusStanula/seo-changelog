@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-08-13T18:52:14.633440+00:00",
+  "fetched_at": "2026-08-14T07:25:25.661458+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
+      "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
+      "published": "Thu, 13 Aug 2026 17:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
       "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
@@ -114,12 +120,6 @@
       "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
       "published": "Thu, 06 Aug 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/",
-      "title": "Mirendil taps AI Hypercomputer TPUs and GPUs for pre- and post-training applications",
-      "link": "https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/",
-      "published": "Thu, 06 Aug 2026 13:00:00 +0000"
     }
   ]
 }
