@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-08-18T06:42:55.668133+00:00",
+  "fetched_at": "2026-08-18T18:25:34.642172+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
+      "link": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+      "published": "Tue, 18 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
+      "title": "Building cost-effective, high-throughput gen AI workflows in Google Dataflow",
+      "link": "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow/",
+      "published": "Tue, 18 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "title": "Governance on autopilot, minus the turbulence",
+      "link": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "published": "Tue, 18 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
+      "title": "Building operational resilience with agentic AI in financial services",
+      "link": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
+      "published": "Tue, 18 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
+      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
+      "published": "Tue, 18 Aug 2026 14:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
@@ -20,15 +50,15 @@
       "published": "Tue, 11 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
-      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "link": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
-      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
       "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
       "link": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "link": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
       "published": "Tue, 11 Aug 2026 16:00:00 +0000"
     },
     {
@@ -50,12 +80,6 @@
       "published": "Mon, 10 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/",
-      "title": "ClusterNetworkPolicy in GKE: Balancing control and autonomy for your microservices",
-      "link": "https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/",
-      "published": "Mon, 10 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/",
       "title": "Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms/",
@@ -65,6 +89,12 @@
       "id": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
       "title": "How WPP operationalizes platform and data engineering for AI marketing",
       "link": "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing/",
+      "published": "Mon, 10 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/",
+      "title": "ClusterNetworkPolicy in GKE: Balancing control and autonomy for your microservices",
+      "link": "https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke/",
       "published": "Mon, 10 Aug 2026 16:00:00 +0000"
     },
     {
@@ -90,36 +120,6 @@
       "title": "Unifying Structured and Unstructured Data Insights with BQ Search Innovations",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data/",
       "published": "Fri, 07 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training/",
-      "title": "Your agentic summer: No-cost lessons from Google experts to build and scale agents",
-      "link": "https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training/",
-      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/",
-      "title": "Digital sovereignty in the age of AI: You don’t have to choose between control and innovation",
-      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc/",
-      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/",
-      "title": "Advancing brain tumor research with privacy-first AI",
-      "link": "https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/",
-      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
-      "title": "Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/",
-      "published": "Thu, 06 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
-      "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
-      "published": "Thu, 06 Aug 2026 14:00:00 +0000"
     }
   ]
 }
