@@ -67,7 +67,7 @@ The product information you submit using these attributes is the foundation for 
 
 AI regulations in the European Union, India, and New York require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
 
-Add labels directly to your creatives or use the AI label setting, which will launch gradually throughout July in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center, and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
+Add labels directly to your creatives or use the AI label setting in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center, and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
 
 **Notes**
 
