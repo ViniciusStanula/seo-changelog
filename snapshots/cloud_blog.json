@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T18:26:58.024892+00:00",
+  "fetched_at": "2026-08-21T06:47:56.073339+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
@@ -8,27 +8,27 @@
       "published": "Thu, 20 Aug 2026 17:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/",
-      "title": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/",
-      "published": "Thu, 20 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
       "title": "10 questions every startup should answer before moving to production with their AI prototype",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
       "published": "Thu, 20 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
-      "title": "Announcing quantum-safe key import in Cloud KMS",
-      "link": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
-      "published": "Thu, 20 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms/",
       "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
       "link": "https://cloud.google.com/blog/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms/",
+      "published": "Thu, 20 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/",
+      "title": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search/",
+      "published": "Thu, 20 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
+      "title": "Announcing quantum-safe key import in Cloud KMS",
+      "link": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
       "published": "Thu, 20 Aug 2026 16:00:00 +0000"
     },
     {
