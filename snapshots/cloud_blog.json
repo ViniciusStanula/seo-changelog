@@ -1,17 +1,29 @@
 {
-  "fetched_at": "2026-08-21T06:47:56.073339+00:00",
+  "fetched_at": "2026-08-21T18:25:14.236823+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 21 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",
+      "title": "Cloud CISO Perspectives: Sticking to security fundamentals in the AI era",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",
+      "published": "Fri, 21 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
+      "title": "How agents can delegate better",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
+      "published": "Fri, 21 Aug 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
       "title": "Expanding Google Antigravity for enterprise customers",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
       "published": "Thu, 20 Aug 2026 17:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
-      "title": "10 questions every startup should answer before moving to production with their AI prototype",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
-      "published": "Thu, 20 Aug 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms/",
@@ -29,6 +41,12 @@
       "id": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
       "title": "Announcing quantum-safe key import in Cloud KMS",
       "link": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
+      "published": "Thu, 20 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
+      "title": "10 questions every startup should answer before moving to production with their AI prototype",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
       "published": "Thu, 20 Aug 2026 16:00:00 +0000"
     },
     {
@@ -68,22 +86,16 @@
       "published": "Tue, 18 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
-      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
-      "published": "Tue, 18 Aug 2026 14:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
       "title": "Building operational resilience with agentic AI in financial services",
       "link": "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services/",
       "published": "Tue, 18 Aug 2026 14:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 14 Aug 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
+      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
+      "published": "Tue, 18 Aug 2026 14:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
@@ -108,18 +120,6 @@
       "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
       "link": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
       "published": "Tue, 11 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
-      "title": "Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables",
-      "link": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect/",
-      "published": "Tue, 11 Aug 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
-      "title": "Introducing the Developer Device Platform for agentic mobile app development",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-developer-device-platform-on-google-cloud/",
-      "published": "Mon, 10 Aug 2026 22:00:00 +0000"
     }
   ]
 }
