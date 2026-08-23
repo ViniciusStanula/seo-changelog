@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T18:17:43.281525+00:00",
+  "fetched_at": "2026-08-23T06:40:47.540541+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -38,15 +38,15 @@
       "published": "Thu, 20 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
-      "title": "Announcing quantum-safe key import in Cloud KMS",
-      "link": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
-      "published": "Thu, 20 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
       "title": "10 questions every startup should answer before moving to production with their AI prototype",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
+      "published": "Thu, 20 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
+      "title": "Announcing quantum-safe key import in Cloud KMS",
+      "link": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
       "published": "Thu, 20 Aug 2026 16:00:00 +0000"
     },
     {
@@ -68,9 +68,9 @@
       "published": "Wed, 19 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
-      "title": "Governance on autopilot, minus the turbulence",
-      "link": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "id": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
+      "link": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
       "published": "Tue, 18 Aug 2026 16:00:00 +0000"
     },
     {
@@ -80,9 +80,9 @@
       "published": "Tue, 18 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
-      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
-      "link": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
+      "id": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "title": "Governance on autopilot, minus the turbulence",
+      "link": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
       "published": "Tue, 18 Aug 2026 16:00:00 +0000"
     },
     {
@@ -110,15 +110,15 @@
       "published": "Tue, 11 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
-      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "link": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
-      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
       "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
       "link": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
+      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
+      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "link": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
       "published": "Tue, 11 Aug 2026 16:00:00 +0000"
     }
   ]
