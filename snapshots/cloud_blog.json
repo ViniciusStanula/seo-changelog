@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-08-24T06:59:03.425688+00:00",
+  "fetched_at": "2026-08-24T18:28:22.104921+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
+      "title": "New AI-powered quick assessments in Migration Center turbocharge modernization",
+      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
+      "published": "Mon, 24 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
+      "title": "Empowering autonomous agents with advanced security governance",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
+      "published": "Mon, 24 Aug 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
@@ -107,18 +119,6 @@
       "id": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
       "title": "PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
       "link": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/",
-      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
-      "title": "Looker’s semantic layer governs Gemini Enterprise data for user trust",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/integrating-looker-and-gemini-enterprise/",
-      "published": "Tue, 11 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
-      "title": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "link": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms/",
       "published": "Tue, 11 Aug 2026 16:00:00 +0000"
     }
   ]
