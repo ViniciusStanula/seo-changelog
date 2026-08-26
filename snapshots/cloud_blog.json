@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T18:27:24.915306+00:00",
+  "fetched_at": "2026-08-26T06:50:30.311036+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke/",
@@ -20,15 +20,15 @@
       "published": "Tue, 25 Aug 2026 12:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
-      "title": "New AI-powered quick assessments in Migration Center turbocharge modernization",
-      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
-      "published": "Mon, 24 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
       "title": "Empowering autonomous agents with advanced security governance",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/",
+      "published": "Mon, 24 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
+      "title": "New AI-powered quick assessments in Migration Center turbocharge modernization",
+      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
       "published": "Mon, 24 Aug 2026 16:00:00 +0000"
     },
     {
