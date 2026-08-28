@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-08-28T01:58:05.553059+00:00",
+  "fetched_at": "2026-08-28T18:17:12.808356+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 28 Aug 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
       "title": "Reimagining work: How Pythian’s internal AI playbook delivers customer ROI",
@@ -78,12 +84,6 @@
       "title": "New AI-powered quick assessments in Migration Center turbocharge modernization",
       "link": "https://cloud.google.com/blog/products/infrastructure-modernization/ai-powered-quick-assessments-in-migration-center/",
       "published": "Mon, 24 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 21 Aug 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",

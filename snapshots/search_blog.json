@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-08-28T01:57:55.718755+00:00",
+  "fetched_at": "2026-08-28T18:17:04.144724+00:00",
   "entries": [
+    {
+      "id": "2026-08-28-Update-to-the-Site-Reputation-Policy",
+      "title": "Update to the Site Reputation Policy",
+      "link": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
+      "published": "Fri, 28 Aug 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-07-29-Platform-properties-roll-out-globally,-plus-a-new-social-and-video-performance-guide",
       "title": "Platform properties roll out globally, plus a new social and video performance guide",
@@ -53,12 +59,6 @@
       "id": "2026-03-31-New-Location-for-the-Google-Crawlers'-IP-Range-Files",
       "title": "New Location for the Google Crawlers' IP Range Files",
       "link": "https://developers.google.com/search/blog/2026/03/crawler-ip-ranges",
-      "published": "Tue, 31 Mar 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-03-31-Inside-Googlebot:-demystifying-crawling,-fetching,-and-the-bytes-we-process",
-      "title": "Inside Googlebot: demystifying crawling, fetching, and the bytes we process",
-      "link": "https://developers.google.com/search/blog/2026/03/crawler-blog-post",
       "published": "Tue, 31 Mar 2026 00:00:00 +0000"
     }
   ]
