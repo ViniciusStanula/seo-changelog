@@ -1,7 +1,5 @@
 # Product data specification
 
-* * *
-
 Use this guide to format your product information for Merchant Center. Google uses this data to match your products to the right queries, and as a foundational input to help optimize and enhance the content of the ads being served in our AI powered formats and experiences. Providing accurate and correctly formatted product data is essential for creating successful ads and free listings, and for preventing product disapprovals or display issues.
 
 Incorrect, inaccurate, or missing product information can cause disapprovals, limited eligibility, incorrect displays for your products, or other [ Issues in Merchant Center](https://support.google.com/merchants/answer/12153802). Common problems include, incorrect google product category `[google_product_category] `or gtin `[gtin]` attribute values, missing or incorrect variant attributes (such as item group id `[item_group_id]`, color `[color]` or size `[size]`), low-quality images, or conflicting data between your feed and website. These issues can prevent your ads and free listings from showing on Google.
