@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-08-31T22:14:24.518543+00:00",
+  "fetched_at": "2026-09-01T11:14:24.718775+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
+      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
+      "published": "Tue, 01 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
+      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
+      "published": "Mon, 31 Aug 2026 23:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
       "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
@@ -108,18 +120,6 @@
       "title": "Cloud CISO Perspectives: Sticking to security fundamentals in the AI era",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",
       "published": "Fri, 21 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
-      "title": "How agents can delegate better",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
-      "published": "Fri, 21 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
-      "title": "Expanding Google Antigravity for enterprise customers",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
-      "published": "Thu, 20 Aug 2026 17:30:00 +0000"
     }
   ]
 }

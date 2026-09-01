@@ -9,7 +9,7 @@ What's new:
 - A new Merchant API MCP service (alpha version) with authorized access to your Merchant Center data and insights with a focus on read-only is now available as a new agentic tool for Merchant API.
 - New conversational attributes are now available under - `ProductAttributes`in the Products sub-API.- These attributes include:
 - A full set of attributes specifically for vehicle ads has been added in the Products sub-API.
-- Notifications on product status changes for Universal Commerce Protocol (UCP) checkout are now available in the Notifications API through the reporting context value - `FREE_LISTINGS_UCP_CHECKOUT`.
+- Notifications on product status changes for Universal Commerce Protocol (UCP) checkout are now available in the Notifications sub-API through the reporting context value - `FREE_LISTINGS_UCP_CHECKOUT`.
 - Merchant API Agent Skills is the new agentic tool within the Code Assist Toolkit. The new - `mapi-developer-assistant`skill, built on the open Agent Skills standard, provides intelligent and contextual assistance. It brings domain-specific expertise, automated workflows, and enhanced efficiency within AI tools like Antigravity CLI and IDEs to accelerate your integration.
 - A new YouTube sub-API v1alpha version is available for managing YouTube Affiliate Program contracts.
 - Added support to manage YouTube Shopping Affiliate and product reviews programs in the Accounts sub-API.
