@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-09-02T10:47:46.724225+00:00",
+  "fetched_at": "2026-09-02T20:20:52.775209+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
+      "title": "Simplify pipelines with new BigQuery identity columns",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
+      "published": "Wed, 02 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
+      "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
+      "link": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
+      "published": "Wed, 02 Sep 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
       "title": "What Google Cloud announced in AI this month",
@@ -8,15 +20,15 @@
       "published": "Tue, 01 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
-      "title": "How Blackline simplifies perimeter policy intelligence with VPC Service Controls",
-      "link": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
-      "published": "Tue, 01 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
       "title": "Introducing TabFM in BigQuery: Predictive analytics reimagined",
       "link": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
+      "published": "Tue, 01 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
+      "title": "How BlackLine simplifies perimeter policy intelligence with VPC Service Controls",
+      "link": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
       "published": "Tue, 01 Sep 2026 16:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "Bringing gVisor sandboxes to distributed Ray clusters",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke/",
       "published": "Tue, 25 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal/",
-      "title": "Now introducing Gemini Enterprise for Legal",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal/",
-      "published": "Tue, 25 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
-      "title": "Now introducing Gemini Enterprise for Financial Services",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services/",
-      "published": "Tue, 25 Aug 2026 12:00:00 +0000"
     }
   ]
 }
