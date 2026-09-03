@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-09-03T10:47:55.913065+00:00",
+  "fetched_at": "2026-09-03T20:20:48.000635+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
+      "link": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+      "published": "Thu, 03 Sep 2026 07:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
+      "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
+      "published": "Thu, 03 Sep 2026 00:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
       "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
@@ -44,6 +56,12 @@
       "published": "Mon, 31 Aug 2026 23:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+      "title": "From weeks to minutes: The new agentic era of data pipelines",
+      "link": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
       "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
@@ -53,12 +71,6 @@
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "title": "What’s new in AI infrastructure and orchestration in August",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
-      "title": "From weeks to minutes: The new agentic era of data pipelines",
-      "link": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000"
     },
     {
@@ -98,28 +110,16 @@
       "published": "Wed, 26 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
-      "title": "FinOps for the AI era: New flexible billing and cost controls for agents",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
-      "published": "Wed, 26 Aug 2026 13:30:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/",
       "title": "Dynamic capacity management for AI infrastructure",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/",
       "published": "Wed, 26 Aug 2026 13:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/your-chance-to-start-building-ai-agents-from-the-absolute-basics/",
-      "title": "Your chance to start building AI agents from the absolute basics",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/your-chance-to-start-building-ai-agents-from-the-absolute-basics/",
-      "published": "Wed, 26 Aug 2026 09:07:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke/",
-      "title": "Bringing gVisor sandboxes to distributed Ray clusters",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke/",
-      "published": "Tue, 25 Aug 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
+      "title": "FinOps for the AI era: New flexible billing and cost controls for agents",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
+      "published": "Wed, 26 Aug 2026 13:30:00 +0000"
     }
   ]
 }
