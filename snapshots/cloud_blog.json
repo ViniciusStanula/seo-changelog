@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-09-04T10:46:57.600805+00:00",
+  "fetched_at": "2026-09-04T20:06:30.239076+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
+      "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
+      "link": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
+      "published": "Fri, 04 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
+      "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
+      "published": "Fri, 04 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
+      "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
+      "published": "Fri, 04 Sep 2026 15:36:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 04 Sep 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "title": "What’s new with Google Data Cloud",
@@ -80,12 +104,6 @@
       "published": "Mon, 31 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 28 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
       "title": "Reimagining work: How Pythian’s internal AI playbook delivers customer ROI",
       "link": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
@@ -102,24 +120,6 @@
       "title": "Using OKF with Knowledge Catalog to serve context for agents",
       "link": "https://cloud.google.com/blog/products/data-analytics/scale-okf-bundles-across-an-organization-with-knowledge-catalog/",
       "published": "Wed, 26 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/networking/uber-de-risks-hybrid-ai-with-cloud-interconnect/",
-      "title": "How Uber improves network reliability while unblocking cloud migration",
-      "link": "https://cloud.google.com/blog/products/networking/uber-de-risks-hybrid-ai-with-cloud-interconnect/",
-      "published": "Wed, 26 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/",
-      "title": "Simplify your resilience testing strategy with Fault Injection Testing",
-      "link": "https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/",
-      "published": "Wed, 26 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/",
-      "title": "Dynamic capacity management for AI infrastructure",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/",
-      "published": "Wed, 26 Aug 2026 13:30:00 +0000"
     }
   ]
 }
