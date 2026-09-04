@@ -1,17 +1,23 @@
 {
-  "fetched_at": "2026-09-03T20:20:48.000635+00:00",
+  "fetched_at": "2026-09-04T10:46:57.600805+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
-      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
-      "link": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
-      "published": "Thu, 03 Sep 2026 07:30:00 +0000"
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Thu, 03 Sep 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
       "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
-      "published": "Thu, 03 Sep 2026 00:00:00 +0000"
+      "published": "Thu, 03 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
+      "link": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
+      "published": "Thu, 03 Sep 2026 07:30:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/",
       "title": "Dynamic capacity management for AI infrastructure",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management/",
-      "published": "Wed, 26 Aug 2026 13:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
-      "title": "FinOps for the AI era: New flexible billing and cost controls for agents",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
       "published": "Wed, 26 Aug 2026 13:30:00 +0000"
     }
   ]
