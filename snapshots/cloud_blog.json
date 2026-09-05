@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T20:06:30.239076+00:00",
+  "fetched_at": "2026-09-05T10:04:35.448823+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
@@ -86,12 +86,6 @@
       "published": "Mon, 31 Aug 2026 23:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
-      "title": "From weeks to minutes: The new agentic era of data pipelines",
-      "link": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
-      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
       "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
@@ -101,6 +95,12 @@
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "title": "What’s new in AI infrastructure and orchestration in August",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
+      "title": "From weeks to minutes: The new agentic era of data pipelines",
+      "link": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000"
     },
     {
