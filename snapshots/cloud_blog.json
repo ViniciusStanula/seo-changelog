@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T19:49:55.195068+00:00",
+  "fetched_at": "2026-09-07T11:47:04.919069+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
@@ -44,22 +44,16 @@
       "published": "Thu, 03 Sep 2026 07:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
-      "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
-      "link": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
-      "published": "Wed, 02 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
       "title": "Simplify pipelines with new BigQuery identity columns",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
       "published": "Wed, 02 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "published": "Tue, 01 Sep 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
+      "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
+      "link": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
+      "published": "Wed, 02 Sep 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/tabfm-adds-predictive-ml-to-bigquery/",
@@ -71,6 +65,12 @@
       "id": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
       "title": "How BlackLine simplifies perimeter policy intelligence with VPC Service Controls",
       "link": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
+      "published": "Tue, 01 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "title": "What Google Cloud announced in AI this month",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
       "published": "Tue, 01 Sep 2026 16:00:00 +0000"
     },
     {
@@ -86,15 +86,15 @@
       "published": "Mon, 31 Aug 2026 23:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
-      "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
-      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "title": "What’s new in AI infrastructure and orchestration in August",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
+      "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000"
     },
     {
@@ -116,9 +116,9 @@
       "published": "Thu, 27 Aug 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/scale-okf-bundles-across-an-organization-with-knowledge-catalog/",
-      "title": "Using OKF with Knowledge Catalog to serve context for agents",
-      "link": "https://cloud.google.com/blog/products/data-analytics/scale-okf-bundles-across-an-organization-with-knowledge-catalog/",
+      "id": "https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/",
+      "title": "Simplify your resilience testing strategy with Fault Injection Testing",
+      "link": "https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/",
       "published": "Wed, 26 Aug 2026 16:00:00 +0000"
     }
   ]
