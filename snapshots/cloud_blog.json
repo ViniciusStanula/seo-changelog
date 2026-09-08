@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-09-08T10:44:57.776817+00:00",
+  "fetched_at": "2026-09-08T20:32:27.948324+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
+      "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
+      "published": "Tue, 08 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
+      "title": "Agentic analytics with the Data Agent Kit",
+      "link": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
+      "published": "Tue, 08 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
+      "title": "How KDDI built Buffmee, a faster, reliable consumer RAG app",
+      "link": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
+      "published": "Tue, 08 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+      "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+      "published": "Tue, 08 Sep 2026 14:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
       "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
@@ -96,30 +120,6 @@
       "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
       "published": "Mon, 31 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
-      "title": "From weeks to minutes: The new agentic era of data pipelines",
-      "link": "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit/",
-      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
-      "title": "Reimagining work: How Pythian’s internal AI playbook delivers customer ROI",
-      "link": "https://cloud.google.com/blog/topics/startups/how-pythians-internal-ai-playbook-delivers-customer-roi/",
-      "published": "Thu, 27 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/",
-      "title": "Deploy personal AI agents with Cloud Run instances",
-      "link": "https://cloud.google.com/blog/products/serverless/introducing-cloud-run-instances/",
-      "published": "Thu, 27 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/",
-      "title": "Simplify your resilience testing strategy with Fault Injection Testing",
-      "link": "https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview/",
-      "published": "Wed, 26 Aug 2026 16:00:00 +0000"
     }
   ]
 }
