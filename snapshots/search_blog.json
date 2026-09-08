@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-09-07T20:57:09.280756+00:00",
+  "fetched_at": "2026-09-08T10:44:48.580490+00:00",
   "entries": [
+    {
+      "id": "2026-09-08-Search-Central-Live-is-coming-to-Bogota-and-Ciudad-de-México",
+      "title": "Search Central Live is coming to Bogota and Ciudad de México",
+      "link": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
+      "published": "Tue, 08 Sep 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-08-28-Update-to-the-Site-Reputation-Policy",
       "title": "Update to the Site Reputation Policy",
@@ -54,12 +60,6 @@
       "title": "Search Central Live is Coming to Shanghai in 2026!",
       "link": "https://developers.google.com/search/blog/2026/04/scl-shanghai-2026",
       "published": "Thu, 02 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-03-31-New-Location-for-the-Google-Crawlers'-IP-Range-Files",
-      "title": "New Location for the Google Crawlers' IP Range Files",
-      "link": "https://developers.google.com/search/blog/2026/03/crawler-ip-ranges",
-      "published": "Tue, 31 Mar 2026 00:00:00 +0000"
     }
   ]
 }
