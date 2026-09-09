@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-09-09T10:53:13.044389+00:00",
+  "fetched_at": "2026-09-09T20:14:54.180096+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
+      "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
+      "published": "Wed, 09 Sep 2026 19:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
+      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
+      "published": "Wed, 09 Sep 2026 18:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/",
+      "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
+      "link": "https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/",
+      "published": "Wed, 09 Sep 2026 16:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
+      "title": "How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts",
+      "link": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
+      "published": "Wed, 09 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
+      "title": "Spanner: Removing cumulative mutation limits for DML transactions",
+      "link": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
+      "published": "Wed, 09 Sep 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
       "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
@@ -90,36 +120,6 @@
       "title": "How BlackLine simplifies perimeter policy intelligence with VPC Service Controls",
       "link": "https://cloud.google.com/blog/topics/customers/how-blackline-prevents-data-exfiltration-with-vpc-service-controls/",
       "published": "Tue, 01 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "published": "Tue, 01 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
-      "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
-      "published": "Tue, 01 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
-      "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/",
-      "published": "Mon, 31 Aug 2026 23:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "title": "What’s new in AI infrastructure and orchestration in August",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
-      "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era/",
-      "published": "Mon, 31 Aug 2026 16:00:00 +0000"
     }
   ]
 }
