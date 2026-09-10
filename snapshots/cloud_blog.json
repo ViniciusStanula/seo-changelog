@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T20:14:54.180096+00:00",
+  "fetched_at": "2026-09-10T10:48:17.195689+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
@@ -20,15 +20,15 @@
       "published": "Wed, 09 Sep 2026 16:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
-      "title": "How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts",
-      "link": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
-      "published": "Wed, 09 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
       "title": "Spanner: Removing cumulative mutation limits for DML transactions",
       "link": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
+      "published": "Wed, 09 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
+      "title": "How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts",
+      "link": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
       "published": "Wed, 09 Sep 2026 16:00:00 +0000"
     },
     {
