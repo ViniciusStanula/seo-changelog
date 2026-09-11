@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T20:16:41.291127+00:00",
+  "fetched_at": "2026-09-11T10:44:52.692003+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
@@ -8,15 +8,15 @@
       "published": "Thu, 10 Sep 2026 19:53:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Thu, 10 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Thu, 10 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "published": "Thu, 10 Sep 2026 16:00:00 +0000"
     },
     {
