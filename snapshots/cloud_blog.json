@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T19:56:55.657112+00:00",
+  "fetched_at": "2026-09-13T11:14:21.584957+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
@@ -44,15 +44,15 @@
       "published": "Wed, 09 Sep 2026 16:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
-      "title": "Spanner: Removing cumulative mutation limits for DML transactions",
-      "link": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
-      "published": "Wed, 09 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
       "title": "How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts",
       "link": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
+      "published": "Wed, 09 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
+      "title": "Spanner: Removing cumulative mutation limits for DML transactions",
+      "link": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
       "published": "Wed, 09 Sep 2026 16:00:00 +0000"
     },
     {
@@ -62,15 +62,15 @@
       "published": "Tue, 08 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
-      "title": "Agentic analytics with the Data Agent Kit",
-      "link": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
-      "published": "Tue, 08 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
       "title": "How KDDI built Buffmee, a faster, reliable consumer RAG app",
       "link": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
+      "published": "Tue, 08 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
+      "title": "Agentic analytics with the Data Agent Kit",
+      "link": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
       "published": "Tue, 08 Sep 2026 16:00:00 +0000"
     },
     {
