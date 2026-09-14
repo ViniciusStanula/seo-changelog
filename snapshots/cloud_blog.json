@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-09-14T12:01:47.186977+00:00",
+  "fetched_at": "2026-09-14T21:14:06.119297+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/",
+      "title": "Agent-ready analytics: Unlocking insights with BigQuery augmented analytics",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/",
+      "published": "Mon, 14 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/",
+      "title": "Announcing Pause/Resume and NVIDIA RTX PRO 6000 Blackwell GPU support in Dataflow",
+      "link": "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/",
+      "published": "Mon, 14 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
+      "title": "Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026",
+      "link": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
+      "published": "Mon, 14 Sep 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
       "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
@@ -102,24 +120,6 @@
       "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
       "published": "Thu, 03 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
-      "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
-      "link": "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/",
-      "published": "Thu, 03 Sep 2026 07:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
-      "title": "Simplify pipelines with new BigQuery identity columns",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/",
-      "published": "Wed, 02 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
-      "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
-      "link": "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/",
-      "published": "Wed, 02 Sep 2026 16:00:00 +0000"
     }
   ]
 }
