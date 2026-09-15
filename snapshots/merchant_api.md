@@ -1,5 +1,40 @@
 Get the latest announcements on new features, bug fixes, and release updates.
 
+## August 2026
+
+## August 2026
+
+What's new:
+
+- The Content API for Shopping reached its sunset on **August 18, 2026**. All developers must migrate their existing integrations to the Merchant API as soon as possible. For more information, see Deprecation and sunset.
+- **Universal Commerce Protocol (UCP) account integration**: added- `UcpCheckoutManagement`as a service type in the Account Service resource, along with support for the- `ucp-integration`program and- `ucp_integration`terms of service with limited access.
+- **Offer-level return policy overrides**: added the- `returns`attribute within- `ProductAttributes`to configure and override return policies (for example; country, window days, return fees, condition) directly at the item level.
+- **Real estate rental attributes**: added primary listing attributes, including- `leaseTerm`to- `ProductAttributes`, for submitting rental advertisement data.
+- **Inventories sub-API enhancements**:- Added `localShippingLabel`to`LocalInventoryAttributes`to configure store-specific shipping rules.
+- Added `customAttributes`to`LocalInventoryAttributes`to support custom metadata on local inventories.
+
+- Added
+- **Account service notifications**: added- `ACCOUNT_SERVICE`as a supported- `NotificationEventType`in the Notifications sub-API to track status changes on account services. For more information about notifications for account service changes, see Get push notifications for account service changes.
+- **YouTube Shopping affiliate reporting views (**:- `v1alpha`)- `youtube_product_sold_stats_view`for query sales performance for affiliate products on YouTube.
+- `youtube_product_tagged_stats_view`to track impressions, clicks, and orders for tagged products in videos.
+
+- **Loyalty Customer Match endpoint**: upload and manage customer loyalty data to display tier benefits (for example; member pricing) in organic search results. For more information about customer loyalty data, see Overview of the Loyalty Customer Match Service.
+- **Alpha client libraries public repository**: alpha libraries for Reviews sub-API across Python, Java, PHP, C#, Ruby, Node.js, and Go are now available in the public GitHub repository.
+
+What's changed:
+
+- `ListAccounts`access level filter- `access`parameter supporting- `DIRECT`,- `INDIRECT`, and- `ALL`to filter accounts based on caller permissions. This can be used to distinguish between advanced accounts and sub-accounts.
+- `DataSources`quota and rule validations- Introduced automatic quota management for data sources on advanced accounts. For more details, see Understanding Quotas and Limits.
+- Added rule validation requiring default rules in primary product data
+sources to contain exactly one reference to `self`or a primary data source.
+- Deprecated `primaryDataSourceName`in`DataSourceReference`in favor of`self`.
+
+- **Latency improvements**: decreased API overhead for product insert, update, and delete calls.
+
+What's coming:
+
+- **Content API for Shopping deprecation and shutdown**: reminder to transition to the new Merchant API. To encourage migration before full decommissioning and ensure that developers observe deprecation notices in their application logs, Google is introducing a progressive service degradation process starting September 1, 2026. For more information, see the Content API for Shopping Sunset timetable section.
+
 ## May 2026
 
 ## May 2026

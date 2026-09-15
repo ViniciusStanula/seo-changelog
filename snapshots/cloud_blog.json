@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-09-15T11:15:54.912427+00:00",
+  "fetched_at": "2026-09-15T20:42:23.845393+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
+      "title": "Introducing new session management tools with native, granular controls",
+      "link": "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
+      "published": "Tue, 15 Sep 2026 17:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
+      "title": "Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow",
+      "link": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
+      "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
+      "title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
+      "title": "Best practices for handling cloud reliability incidents",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/",
       "title": "Agent-ready analytics: Unlocking insights with BigQuery augmented analytics",
@@ -90,36 +120,6 @@
       "title": "Agentic analytics with the Data Agent Kit",
       "link": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
       "published": "Tue, 08 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
-      "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
-      "published": "Tue, 08 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
-      "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
-      "link": "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms/",
-      "published": "Fri, 04 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
-      "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration/",
-      "published": "Fri, 04 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
-      "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation/",
-      "published": "Fri, 04 Sep 2026 15:36:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
-      "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini/",
-      "published": "Thu, 03 Sep 2026 09:00:00 +0000"
     }
   ]
 }
