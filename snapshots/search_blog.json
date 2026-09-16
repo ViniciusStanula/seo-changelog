@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-09-16T10:57:53.526541+00:00",
+  "fetched_at": "2026-09-16T20:42:59.813846+00:00",
   "entries": [
+    {
+      "id": "2026-09-16-Search-Central-Live-Deep-Dive-Europe-2026:-Meet-the-community-speakers",
+      "title": "Search Central Live Deep Dive Europe 2026: Meet the community speakers",
+      "link": "https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers",
+      "published": "Wed, 16 Sep 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-09-14-Search-Central-Live-India-2026:-Bengaluru,-We're-Coming-(For-Real-This-Time)",
       "title": "Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)",
@@ -54,12 +60,6 @@
       "title": "A new resource for optimizing for generative AI in Google Search",
       "link": "https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing",
       "published": "Fri, 15 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-04-13-Introducing-a-new-spam-policy-for-\"back-button-hijacking\"",
-      "title": "Introducing a new spam policy for \"back button hijacking\"",
-      "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "published": "Mon, 13 Apr 2026 00:00:00 +0000"
     }
   ]
 }

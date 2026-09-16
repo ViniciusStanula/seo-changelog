@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-09-16T10:58:02.548660+00:00",
+  "fetched_at": "2026-09-16T20:43:09.057483+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
+      "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
+      "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/",
+      "title": "M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads",
+      "link": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
+      "title": "How Orange uses agents to make FinOps everyone's responsibility",
+      "link": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
       "title": "Introducing new session management tools with native, granular controls",
@@ -14,12 +38,6 @@
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
-      "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
       "title": "Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow",
       "link": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
@@ -29,6 +47,12 @@
       "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
       "title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces",
       "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
+      "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
@@ -96,30 +120,6 @@
       "title": "How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts",
       "link": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
       "published": "Wed, 09 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
-      "title": "Spanner: Removing cumulative mutation limits for DML transactions",
-      "link": "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/",
-      "published": "Wed, 09 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
-      "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk/",
-      "published": "Tue, 08 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
-      "title": "How KDDI built Buffmee, a faster, reliable consumer RAG app",
-      "link": "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit/",
-      "published": "Tue, 08 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
-      "title": "Agentic analytics with the Data Agent Kit",
-      "link": "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit/",
-      "published": "Tue, 08 Sep 2026 16:00:00 +0000"
     }
   ]
 }
