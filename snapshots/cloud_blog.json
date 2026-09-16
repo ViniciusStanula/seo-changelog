@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T20:42:23.845393+00:00",
+  "fetched_at": "2026-09-16T10:58:02.548660+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
@@ -8,9 +8,9 @@
       "published": "Tue, 15 Sep 2026 17:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
-      "title": "Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow",
-      "link": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
+      "title": "Best practices for handling cloud reliability incidents",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
@@ -20,15 +20,15 @@
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
-      "title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
+      "id": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
+      "title": "Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow",
+      "link": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
-      "title": "Best practices for handling cloud reliability incidents",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
+      "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
+      "title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
