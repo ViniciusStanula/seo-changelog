@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-09-17T11:08:20.510858+00:00",
+  "fetched_at": "2026-09-17T20:48:01.561073+00:00",
   "entries": [
+    {
+      "id": "2026-09-16-Added-documentation-on-adding-a-Search-profile-badge-to-your-website",
+      "title": "Added documentation on adding a Search profile badge to your website",
+      "link": "https://developers.google.com/search/updates#september-2026",
+      "published": "Wed, 16 Sep 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-09-08-Added-documentation-about-regional-differences-in-Search-experience",
       "title": "Added documentation about regional differences in Search experience",

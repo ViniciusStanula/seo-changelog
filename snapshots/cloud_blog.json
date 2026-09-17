@@ -1,11 +1,29 @@
 {
-  "fetched_at": "2026-09-17T11:08:33.951951+00:00",
+  "fetched_at": "2026-09-17T20:48:08.778211+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
-      "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
+      "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
+      "link": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
+      "published": "Thu, 17 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/",
+      "title": "The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/",
+      "published": "Thu, 17 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
+      "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
+      "link": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
+      "published": "Thu, 17 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Thu, 17 Sep 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
@@ -23,6 +41,12 @@
       "id": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
       "title": "How Orange built FinOps accountability, and why agents are next",
       "link": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
+      "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
       "published": "Wed, 16 Sep 2026 16:00:00 +0000"
     },
     {
@@ -92,34 +116,10 @@
       "published": "Thu, 10 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Thu, 10 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
       "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
       "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
       "published": "Wed, 09 Sep 2026 19:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
-      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
-      "published": "Wed, 09 Sep 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/",
-      "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
-      "link": "https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql/",
-      "published": "Wed, 09 Sep 2026 16:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
-      "title": "How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts",
-      "link": "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts/",
-      "published": "Wed, 09 Sep 2026 16:00:00 +0000"
     }
   ]
 }
