@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-09-16T20:43:09.057483+00:00",
+  "fetched_at": "2026-09-17T11:08:33.951951+00:00",
   "entries": [
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
-      "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
-    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
       "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
+      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
+      "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
       "published": "Wed, 16 Sep 2026 16:00:00 +0000"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "id": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
-      "title": "How Orange uses agents to make FinOps everyone's responsibility",
+      "title": "How Orange built FinOps accountability, and why agents are next",
       "link": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
       "published": "Wed, 16 Sep 2026 16:00:00 +0000"
     },
@@ -44,15 +44,15 @@
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
-      "title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
       "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
+      "title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
