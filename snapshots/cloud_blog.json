@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-09-18T10:42:33.468779+00:00",
+  "fetched_at": "2026-09-18T20:13:07.766247+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
+      "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
+      "link": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
+      "published": "Fri, 18 Sep 2026 16:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+      "title": "Reimagining service delivery in the agentic era with Google Public Sector",
+      "link": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
+      "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
+      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
+      "title": "How to upskill enterprise AI builders by using daily micro habits",
+      "link": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
+      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+      "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
+      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+      "title": "Changing the game: How Google uses agentic AI to secure hundreds of millions of lines of code",
+      "link": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
+      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
       "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
@@ -17,12 +59,6 @@
       "id": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
       "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
       "link": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
-      "published": "Thu, 17 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "published": "Thu, 17 Sep 2026 16:00:00 +0000"
     },
     {
@@ -84,42 +120,6 @@
       "title": "Agent-ready analytics: Unlocking insights with BigQuery augmented analytics",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/",
       "published": "Mon, 14 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/",
-      "title": "Announcing Pause/Resume and NVIDIA RTX PRO 6000 Blackwell GPU support in Dataflow",
-      "link": "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads/",
-      "published": "Mon, 14 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
-      "title": "Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026",
-      "link": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
-      "published": "Mon, 14 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
-      "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/",
-      "published": "Fri, 11 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
-      "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/",
-      "published": "Thu, 10 Sep 2026 19:53:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Thu, 10 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
-      "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
-      "published": "Wed, 09 Sep 2026 19:00:00 +0000"
     }
   ]
 }

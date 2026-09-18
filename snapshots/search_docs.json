@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-09-18T10:42:26.819520+00:00",
+  "fetched_at": "2026-09-18T20:13:00.759659+00:00",
   "entries": [
+    {
+      "id": "2026-09-18-Added-local-business-query-support-to-the-aggregator-and-supplier-units",
+      "title": "Added local business query support to the aggregator and supplier units",
+      "link": "https://developers.google.com/search/updates#september-2026",
+      "published": "Fri, 18 Sep 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-09-16-Added-documentation-on-adding-a-Search-profile-badge-to-your-website",
       "title": "Added documentation on adding a Search profile badge to your website",
