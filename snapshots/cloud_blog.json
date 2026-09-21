@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-09-21T12:11:46.929704+00:00",
+  "fetched_at": "2026-09-21T21:30:00.341035+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
+      "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
+      "published": "Mon, 21 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/",
+      "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
+      "link": "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms/",
+      "published": "Mon, 21 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/",
+      "title": "Scale your AI workloads faster and more efficiently with GKE Pod snapshots",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/",
+      "published": "Mon, 21 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities/",
+      "title": "Strengthen your CI/CD pipeline with new Secure Source Manager capabilities",
+      "link": "https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities/",
+      "published": "Mon, 21 Sep 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
       "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
@@ -96,30 +120,6 @@
       "title": "Best practices for handling cloud reliability incidents",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
-      "title": "Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow",
-      "link": "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
-      "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
-      "title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
-      "title": "Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026",
-      "link": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
-      "published": "Mon, 14 Sep 2026 16:00:00 +0000"
     }
   ]
 }
