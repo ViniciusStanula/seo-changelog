@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T20:04:08.383061+00:00",
+  "fetched_at": "2026-09-21T12:11:46.929704+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
@@ -8,15 +8,15 @@
       "published": "Fri, 18 Sep 2026 16:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
-      "title": "Reimagining service delivery in the agentic era with Google Public Sector",
-      "link": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+      "id": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+      "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
+      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
       "published": "Fri, 18 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
-      "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
+      "id": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
+      "title": "Reimagining service delivery in the agentic era with Google Public Sector",
+      "link": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
       "published": "Fri, 18 Sep 2026 16:00:00 +0000"
     },
     {
@@ -26,9 +26,9 @@
       "published": "Fri, 18 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
-      "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
-      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
+      "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
       "published": "Fri, 18 Sep 2026 16:00:00 +0000"
     },
     {
@@ -116,9 +116,9 @@
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/",
-      "title": "Agent-ready analytics: Unlocking insights with BigQuery augmented analytics",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs/",
+      "id": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
+      "title": "Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026",
+      "link": "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report/",
       "published": "Mon, 14 Sep 2026 16:00:00 +0000"
     }
   ]
