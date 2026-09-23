@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-09-23T10:55:50.161894+00:00",
+  "fetched_at": "2026-09-23T20:55:10.628899+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/",
+      "title": "A guide to speeding up your video processing with AlphaEvolve",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/",
+      "published": "Wed, 23 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/",
+      "title": "GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/",
+      "published": "Wed, 23 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/",
+      "title": "Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/",
+      "published": "Wed, 23 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/chrome-enterprise/secure-intelligent-experiences-across-every-endpoint/",
+      "title": "Secure, intelligent experiences across every endpoint",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/secure-intelligent-experiences-across-every-endpoint/",
+      "published": "Wed, 23 Sep 2026 11:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/",
       "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
@@ -96,30 +120,6 @@
       "title": "M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads",
       "link": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/",
       "published": "Wed, 16 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
-      "title": "How Orange built FinOps accountability, and why agents are next",
-      "link": "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
-      "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
-      "title": "Introducing new session management tools with native, granular controls",
-      "link": "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/",
-      "published": "Tue, 15 Sep 2026 17:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
-      "title": "Best practices for handling cloud reliability incidents",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices/",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     }
   ]
 }
