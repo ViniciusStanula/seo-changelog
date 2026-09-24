@@ -1,6 +1,66 @@
 {
-  "fetched_at": "2026-09-24T11:15:29.763671+00:00",
+  "fetched_at": "2026-09-24T20:59:25.312666+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
+      "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
+      "published": "Thu, 24 Sep 2026 19:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
+      "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
+      "link": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
+      "published": "Thu, 24 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
+      "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
+      "published": "Thu, 24 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/",
+      "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/",
+      "published": "Thu, 24 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/",
+      "title": "A new, no-compromises database architecture for the agentic era",
+      "link": "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/",
+      "published": "Thu, 24 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/",
+      "title": "How growing Latin American midsize businesses are building in the AI era",
+      "link": "https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/",
+      "published": "Thu, 24 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb/",
+      "title": "AlloyDB delivers PostgreSQL for agents: Real-time data at agent scale, with full workload isolation",
+      "link": "https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb/",
+      "published": "Thu, 24 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
+      "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
+      "published": "Thu, 24 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/the-three-things-todays-hottest-startups-are-looking-for-in-their-ai-stack/",
+      "title": "The three things today's hottest startups are looking for in their AI stack",
+      "link": "https://cloud.google.com/blog/topics/startups/the-three-things-todays-hottest-startups-are-looking-for-in-their-ai-stack/",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-google-cloud-networking-supports-your-fluid-compute-choices-for-ai-workloads/",
+      "title": "How Google Cloud Networking Supports Your Fluid Compute Choices for AI Workloads",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-google-cloud-networking-supports-your-fluid-compute-choices-for-ai-workloads/",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/",
       "title": "A guide to speeding up your video processing with AlphaEvolve",
@@ -56,70 +116,10 @@
       "published": "Fri, 18 Sep 2026 16:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
-      "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
-      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
       "title": "Reimagining service delivery in the agentic era with Google Public Sector",
       "link": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
       "published": "Fri, 18 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
-      "title": "How to upskill enterprise AI builders by using daily micro habits",
-      "link": "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
-      "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together/",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
-      "title": "Changing the game: Using agentic AI to secure infrastructure code",
-      "link": "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
-      "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
-      "link": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/",
-      "published": "Thu, 17 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/",
-      "title": "The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/",
-      "published": "Thu, 17 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
-      "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
-      "link": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/",
-      "published": "Thu, 17 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
-      "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/",
-      "title": "M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads",
-      "link": "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/",
-      "published": "Wed, 16 Sep 2026 16:00:00 +0000"
     }
   ]
 }

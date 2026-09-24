@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-09-24T11:15:20.905197+00:00",
+  "fetched_at": "2026-09-24T20:59:16.442492+00:00",
   "entries": [
+    {
+      "id": "2026-09-24-Announcing-web-multimodal-Search-performance-reporting-in-Search-Console",
+      "title": "Announcing web multimodal Search performance reporting in Search Console",
+      "link": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
+      "published": "Thu, 24 Sep 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-09-16-Search-Central-Live-Deep-Dive-Europe-2026:-Meet-the-community-speakers",
       "title": "Search Central Live Deep Dive Europe 2026: Meet the community speakers",
@@ -54,12 +60,6 @@
       "title": "Introducing Search Generative AI performance reports in Search Console",
       "link": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
       "published": "Wed, 03 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-05-15-A-new-resource-for-optimizing-for-generative-AI-in-Google-Search",
-      "title": "A new resource for optimizing for generative AI in Google Search",
-      "link": "https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing",
-      "published": "Fri, 15 May 2026 00:00:00 +0000"
     }
   ]
 }
