@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-09-24T20:59:25.312666+00:00",
+  "fetched_at": "2026-09-25T11:20:07.426303+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
+      "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
+      "published": "Thu, 24 Sep 2026 23:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
       "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
@@ -8,15 +14,15 @@
       "published": "Thu, 24 Sep 2026 19:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
-      "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
-      "link": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
-      "published": "Thu, 24 Sep 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
       "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
+      "published": "Thu, 24 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
+      "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
+      "link": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
       "published": "Thu, 24 Sep 2026 16:00:00 +0000"
     },
     {
@@ -114,12 +120,6 @@
       "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
       "link": "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/",
       "published": "Fri, 18 Sep 2026 16:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
-      "title": "Reimagining service delivery in the agentic era with Google Public Sector",
-      "link": "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/",
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
     }
   ]
 }
