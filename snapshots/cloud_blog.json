@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-09-28T13:07:36.500744+00:00",
+  "fetched_at": "2026-09-28T22:49:04.894003+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
+      "title": "Introducing Ask, a new Google Earth Engine feature to accelerate geospatial coding",
+      "link": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
+      "published": "Mon, 28 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
+      "title": "Why your startup needs open models alongside frontier APIs",
+      "link": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
+      "published": "Mon, 28 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
+      "title": "Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads",
+      "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
+      "published": "Mon, 28 Sep 2026 07:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
       "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
@@ -17,12 +41,6 @@
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
       "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 25 Sep 2026 16:00:00 +0000"
     },
     {
@@ -102,24 +120,6 @@
       "title": "A guide to speeding up your video processing with AlphaEvolve",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/",
       "published": "Wed, 23 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/",
-      "title": "GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/",
-      "published": "Wed, 23 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/",
-      "title": "Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/",
-      "published": "Wed, 23 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/chrome-enterprise/secure-intelligent-experiences-across-every-endpoint/",
-      "title": "Secure, intelligent experiences across every endpoint",
-      "link": "https://cloud.google.com/blog/products/chrome-enterprise/secure-intelligent-experiences-across-every-endpoint/",
-      "published": "Wed, 23 Sep 2026 11:00:00 +0000"
     }
   ]
 }
