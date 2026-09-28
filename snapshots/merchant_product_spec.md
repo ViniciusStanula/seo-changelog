@@ -4,6 +4,8 @@ Use this guide to format your product information for Merchant Center. Google us
 
 Incorrect, inaccurate, or missing product information can cause disapprovals, limited eligibility, incorrect displays for your products, or other [ Issues in Merchant Center](https://support.google.com/merchants/answer/12153802). Common problems include, incorrect google product category `[google_product_category] `or gtin `[gtin]` attribute values, missing or incorrect variant attributes (such as item group id `[item_group_id]`, color `[color]` or size `[size]`), low-quality images, or conflicting data between your feed and website. These issues can prevent your ads and free listings from showing on Google.
 
+* * *
+
 **Note** : In the Issue Details Page (IDP) of your Merchant Center account, you can view all the diagnostic information for any issues affecting your products. It will allow you to more easily identify, understand, and resolve issues. Learn more [About the Issue Details Page](https://support.google.com/merchants/answer/16431300).
 
 **On this page**

@@ -1,12 +1,6 @@
 {
-  "fetched_at": "2026-09-27T20:39:41.453016+00:00",
+  "fetched_at": "2026-09-28T13:07:36.500744+00:00",
   "entries": [
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
-    },
     {
       "id": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
       "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
@@ -23,6 +17,12 @@
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
       "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
+      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 25 Sep 2026 16:00:00 +0000"
     },
     {
