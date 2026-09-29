@@ -1,11 +1,35 @@
 {
-  "fetched_at": "2026-09-29T12:17:07.512186+00:00",
+  "fetched_at": "2026-09-29T21:42:52.749178+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
-      "title": "Introducing Ask, a new Google Earth Engine feature to accelerate geospatial coding",
-      "link": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
-      "published": "Mon, 28 Sep 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
+      "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
+      "published": "Tue, 29 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
+      "title": "Graph Workflows in ADK: Everything You Need to Know",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
+      "published": "Tue, 29 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
+      "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
+      "link": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
+      "published": "Tue, 29 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
+      "title": "Defending at machine speed: Securing the public sector in the agentic era",
+      "link": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
+      "published": "Tue, 29 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
+      "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
+      "published": "Tue, 29 Sep 2026 05:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
@@ -14,10 +38,22 @@
       "published": "Mon, 28 Sep 2026 16:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
+      "title": "Introducing Ask, a new Google Earth Engine feature to accelerate geospatial coding",
+      "link": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
+      "published": "Mon, 28 Sep 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
       "title": "Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads",
       "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
       "published": "Mon, 28 Sep 2026 07:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/",
@@ -35,12 +71,6 @@
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
       "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 25 Sep 2026 16:00:00 +0000"
     },
     {
@@ -90,36 +120,6 @@
       "title": "A new, no-compromises database architecture for the agentic era",
       "link": "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/",
       "published": "Thu, 24 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb/",
-      "title": "AlloyDB delivers PostgreSQL for agents: Real-time data at agent scale, with full workload isolation",
-      "link": "https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb/",
-      "published": "Thu, 24 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
-      "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
-      "published": "Thu, 24 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/the-three-things-todays-hottest-startups-are-looking-for-in-their-ai-stack/",
-      "title": "The three things today's hottest startups are looking for in their AI stack",
-      "link": "https://cloud.google.com/blog/topics/startups/the-three-things-todays-hottest-startups-are-looking-for-in-their-ai-stack/",
-      "published": "Thu, 24 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-google-cloud-networking-supports-your-fluid-compute-choices-for-ai-workloads/",
-      "title": "How Google Cloud Networking Supports Your Fluid Compute Choices for AI Workloads",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-google-cloud-networking-supports-your-fluid-compute-choices-for-ai-workloads/",
-      "published": "Thu, 24 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/",
-      "title": "A guide to speeding up your video processing with AlphaEvolve",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/",
-      "published": "Wed, 23 Sep 2026 16:00:00 +0000"
     }
   ]
 }
