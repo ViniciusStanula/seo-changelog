@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T21:42:52.749178+00:00",
+  "fetched_at": "2026-09-30T12:02:46.329547+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
@@ -29,7 +29,7 @@
       "id": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
       "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
-      "published": "Tue, 29 Sep 2026 05:00:00 +0000"
+      "published": "Tue, 29 Sep 2026 14:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
