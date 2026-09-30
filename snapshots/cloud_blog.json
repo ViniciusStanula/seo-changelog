@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-09-30T12:02:46.329547+00:00",
+  "fetched_at": "2026-09-30T21:43:19.450776+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "title": "What’s new in AI infrastructure and orchestration in September",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
+      "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
+      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
+      "title": "Empower your agents with the Google Cloud CLI remote MCP server",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
+      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
+      "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
+      "link": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
+      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+      "published": "Wed, 30 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
+      "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
+      "published": "Wed, 30 Sep 2026 13:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
       "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
@@ -84,42 +120,6 @@
       "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding/",
       "published": "Thu, 24 Sep 2026 23:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
-      "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management/",
-      "published": "Thu, 24 Sep 2026 19:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
-      "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/",
-      "published": "Thu, 24 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
-      "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
-      "link": "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise/",
-      "published": "Thu, 24 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/",
-      "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available/",
-      "published": "Thu, 24 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/",
-      "title": "How growing Latin American midsize businesses are building in the AI era",
-      "link": "https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/",
-      "published": "Thu, 24 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/",
-      "title": "A new, no-compromises database architecture for the agentic era",
-      "link": "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/",
-      "published": "Thu, 24 Sep 2026 14:30:00 +0000"
     }
   ]
 }
