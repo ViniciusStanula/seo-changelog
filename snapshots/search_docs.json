@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-10-02T12:00:13.341256+00:00",
+  "fetched_at": "2026-10-02T21:39:09.188134+00:00",
   "entries": [
+    {
+      "id": "2026-10-01-Updated-guidance-on-using-generative-AI-content",
+      "title": "Updated guidance on using generative AI content",
+      "link": "https://developers.google.com/search/updates#october-2026",
+      "published": "Thu, 01 Oct 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-09-24-Added-creator-property-and-updated-interactionStatistic-in-VideoObject-structured-data",
       "title": "Added creator property and updated interactionStatistic in VideoObject structured data",

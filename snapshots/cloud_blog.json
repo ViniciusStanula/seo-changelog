@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-10-02T12:00:20.855280+00:00",
+  "fetched_at": "2026-10-02T21:39:16.856243+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
+      "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
+      "published": "Fri, 02 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 02 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
+      "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
+      "link": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
+      "published": "Fri, 02 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
+      "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
+      "published": "Fri, 02 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
+      "title": "How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey",
+      "link": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
+      "published": "Fri, 02 Oct 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
       "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
@@ -90,36 +120,6 @@
       "title": "Defending at machine speed: Securing the public sector in the agentic era",
       "link": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
       "published": "Tue, 29 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
-      "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
-      "published": "Tue, 29 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
-      "title": "Why your startup needs open models alongside frontier APIs",
-      "link": "https://cloud.google.com/blog/topics/startups/why-your-startup-needs-open-models-alongside-frontier-apis/",
-      "published": "Mon, 28 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
-      "title": "Introducing Ask, a new Google Earth Engine feature to accelerate geospatial coding",
-      "link": "https://cloud.google.com/blog/products/data-analytics/accelerate-geospatial-coding-with-ai-in-google-earth-engine/",
-      "published": "Mon, 28 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
-      "title": "Storage-optimized Z4D machine family, now GA, is designed for IO-intensive workloads",
-      "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4d-vm-and-bare-metal-instances/",
-      "published": "Mon, 28 Sep 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000"
     }
   ]
 }
