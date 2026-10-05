@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-10-05T13:50:00.684649+00:00",
+  "fetched_at": "2026-10-05T23:31:50.693433+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
+      "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
+      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
+      "published": "Mon, 05 Oct 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
       "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
       "published": "Fri, 02 Oct 2026 19:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 02 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
@@ -23,6 +23,12 @@
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
       "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
+      "published": "Fri, 02 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 02 Oct 2026 16:00:00 +0000"
     },
     {
@@ -114,12 +120,6 @@
       "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
       "link": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
       "published": "Tue, 29 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
-      "title": "Defending at machine speed: Securing the public sector in the agentic era",
-      "link": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
-      "published": "Tue, 29 Sep 2026 14:00:00 +0000"
     }
   ]
 }
