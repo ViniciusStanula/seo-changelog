@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T23:31:50.693433+00:00",
+  "fetched_at": "2026-10-06T12:54:09.020074+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
@@ -104,6 +104,12 @@
       "published": "Wed, 30 Sep 2026 13:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
+      "title": "Networking for AI inference model serving - GKE only and for all other backends",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
+      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
       "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
       "title": "Graph Workflows in ADK: Everything You Need to Know",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
-      "published": "Tue, 29 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
-      "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
-      "link": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
       "published": "Tue, 29 Sep 2026 16:00:00 +0000"
     }
   ]
