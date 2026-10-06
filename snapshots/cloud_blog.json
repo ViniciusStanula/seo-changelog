@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-10-06T12:54:09.020074+00:00",
+  "fetched_at": "2026-10-06T22:04:50.823227+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
+      "title": "Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
+      "published": "Tue, 06 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/",
+      "title": "Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog",
+      "link": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/",
+      "published": "Tue, 06 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
+      "title": "Networking for AI inference model serving - GKE only and for all other backends",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
+      "published": "Tue, 06 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/",
+      "title": "Where mission meets moonshot: Join us at the Google Public Sector Summit 2026",
+      "link": "https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/",
+      "published": "Tue, 06 Oct 2026 07:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
+      "title": "AlloyDB: A unified database engine for hybrid search",
+      "link": "https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
+      "published": "Tue, 06 Oct 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
       "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
@@ -90,36 +120,6 @@
       "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
       "link": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
       "published": "Wed, 30 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
-      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
-      "published": "Wed, 30 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
-      "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
-      "published": "Wed, 30 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
-      "title": "Networking for AI inference model serving - GKE only and for all other backends",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
-      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
-      "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
-      "published": "Tue, 29 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
-      "title": "Graph Workflows in ADK: Everything You Need to Know",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
-      "published": "Tue, 29 Sep 2026 16:00:00 +0000"
     }
   ]
 }

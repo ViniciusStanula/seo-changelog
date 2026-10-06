@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-10-06T12:53:56.624750+00:00",
+  "fetched_at": "2026-10-06T22:04:42.260217+00:00",
   "entries": [
+    {
+      "id": "2026-10-06-New-learning-paths:-curated-YouTube-playlists-for-Search-fundamentals-and-Technical-SEO",
+      "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
+      "link": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
+      "published": "Tue, 06 Oct 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-09-24-Announcing-web-multimodal-Search-performance-reporting-in-Search-Console",
       "title": "Announcing web multimodal Search performance reporting in Search Console",
@@ -54,12 +60,6 @@
       "title": "Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!",
       "link": "https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026",
       "published": "Thu, 18 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-06-03-Introducing-Search-Generative-AI-performance-reports-in-Search-Console",
-      "title": "Introducing Search Generative AI performance reports in Search Console",
-      "link": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
-      "published": "Wed, 03 Jun 2026 00:00:00 +0000"
     }
   ]
 }
