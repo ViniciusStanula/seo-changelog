@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-10-07T12:47:53.395354+00:00",
+  "fetched_at": "2026-10-07T22:29:33.817676+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
+      "title": "Introducing Google Cloud’s U4 compute: Enabling ultra-low latency trading",
+      "link": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
+      "published": "Wed, 07 Oct 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
       "title": "Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise",
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
       "title": "Empower your agents with the Google Cloud CLI remote MCP server",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
-      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
-      "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
-      "link": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
       "published": "Wed, 30 Sep 2026 16:00:00 +0000"
     }
   ]
