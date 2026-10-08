@@ -2,7 +2,7 @@
 
 Use this guide to format your product information for Merchant Center. Google uses this data to match your products to the right queries, and as a foundational input to help optimize and enhance the content of the ads being served in our AI powered formats and experiences. Providing accurate and correctly formatted product data is essential for creating successful ads and free listings, and for preventing product disapprovals or display issues.
 
-Incorrect, inaccurate, or missing product information can cause disapprovals, limited eligibility, incorrect displays for your products, or other [ Issues in Merchant Center](https://support.google.com/merchants/answer/12153802). Common problems include, incorrect google product category `[google_product_category] `or gtin `[gtin]` attribute values, missing or incorrect variant attributes (such as item group id `[item_group_id]`, color `[color]` or size `[size]`), low-quality images, or conflicting data between your feed and website. These issues can prevent your ads and free listings from showing on Google.
+Incorrect, inaccurate, or missing product information can cause disapprovals, limited eligibility, incorrect displays for your products, or other [ Issues in Merchant Center](https://support.google.com/merchants/answer/12153802). Common problems include, incorrect google product category `[google_product_category] `or gtin `[gtin]` attribute values, missing or incorrect variant attributes (such as item group id `[item_group_id]`, color `[color]` or size `[size]`), low-quality images, or conflicting data between your data source and website. These issues can prevent your ads and free listings from showing on Google.
 
 * * *
 
@@ -43,7 +43,7 @@ Formatting your product data
 
 Use English when submitting the names of attributes and the values for attributes that use supported values. For example, the condition `[condition]` attribute uses the supported values `new`, `refurbished`, and `used`, which must be submitted in English in order for the system to read them.
 
-For all attributes that don't use supported values, but rather allow for free form text, such as the title `[title]` or description `[description]` attributes, be sure to use the same language for all attributes in a feed. Use an underscore when submitting an attribute name with multiple words (for example, `image_link`). Learn how to [Submit attributes and attribute values](https://support.google.com/merchants/answer/10668075)
+For all attributes that don't use supported values, but rather allow for free form text, such as the title `[title]` or description `[description]` attributes, be sure to use the same language for all attributes in a data source. Use an underscore when submitting an attribute name with multiple words (for example, `image_link`). Learn how to [Submit attributes and attribute values](https://support.google.com/merchants/answer/10668075)
 
 For an easier time formatting your product data, your product data attributes can be updated automatically. To enable this, you need to toggle on the feature as well as set up your websites with structured data to automatically update your products. Learn more how to [allow Merchant Center to update product information automatically](https://support.google.com/merchants/answer/12157888) and how to [set up structured data for Merchant Center](https://support.google.com/merchants/answer/7331077).
 
@@ -52,7 +52,7 @@ For an easier time formatting your product data, your product data attributes ca
 ## Definitions
 
 * **Product** : This is the actual product that potential customers search for on Google.
-* **Item** : This is a product that has been added to your product data, either in a text feed, XML feed, or API. For example, an item is one line in your text feed.
+* **Item** : This is a product that has been added to your product data, either in a text data source, XML data source, or API. For example, an item is one line in your text data source.
 * **Variant** : These are specific versions of a product that comes in different variations. For example, a shirt that comes in different sizes has size variants.
 
 **Required** : Submit this attribute. If you don't, your product won't be able to serve in ads and free listings.
@@ -89,11 +89,7 @@ Add labels directly to your creatives or use the AI label setting in Google Ads,
 * Use only valid unicode characters.
 * Use the same ID for the same product across countries or languages.
 
-### Title `[title]`
-
-### or
-
-### Structured title `[structured_title]`
+### Title `[title]` or Structured title `[structured_title]`
 
 **Required** Your product’s name. Learn more about the [Title `[title]`](https://support.google.com/merchants/answer/6324415)and [Structured title `[structured_title]`](https://support.google.com/merchants/answer/6324415)attribute. **Example (Title**`**[title]**`**)** : Mens Pique Polo Shirt **Example (Structured title**`**[structured_title]**`**)** : `trained_algorithmic_media:"Stride & Conquer: Original Google Men's Blue & Orange Power Shoes (Size 8)"` **Syntax** **Title**`**[title]**`: Plain text.Max 150 characters **Structured title**`**[structured_title]**`: 2 sub-attributes: **Digital source type**`**[digital_source_type]**`**(Optional)** : This sub-attribute supports 2 values:
 
@@ -120,11 +116,7 @@ For Russia:
 
 * For books and other information products, include the age rating at the beginning of the title.
 
-### Description `[description]`
-
-### or
-
-### Structured description `[structured_description]`
+### Description `[description]` or Structured description `[structured_description]`
 
 **Required** Your product’s description. Learn more about [Description `[description]`](https://support.google.com/merchants/answer/6324468) and [Structured description `[structured_description]`](https://support.google.com/merchants/answer/6324468)attribute. **Example (description**`**[description]**`**)** : Made from 100% organic cotton, this classic red men’s polo has a slim fit and signature logo embroidered on the left chest. Machine wash cold; imported. **Example (structured description**`**[structured_description]**`**)** : `trained_algorithmic_media:"Transform your TV with the effortless power of Google Chromecast. This sleek device discreetly connects to your television, unlocking a world of wireless streaming and mirroring possibilities. From movies and TV shows to photos and presentations, cast your favorite content directly to the big screen with its integrated HDMI connector."` **Syntax** **Description`[description]`**: Plain Text. Max 5000 characters **Structured description`[structured_description]`**: 2 sub-attributes:
 
@@ -201,6 +193,26 @@ For the image:
 **Optional** Your product’s mobile-optimized landing page when you have a different URL for mobile and desktop traffic. Learn more about the [Mobile link `[mobile_link]`](https://support.google.com/merchants/answer/12472641)attribute. **Example** `http://www.m.example.com/asp/ sp.asp?cat=12 id=1030` **Syntax** Max 2000 alphanumeric characters **Schema.org property:** No |
 
 * Meet the requirements for the link `[link]` attribute.
+
+### [Warranty `[warranty]`](https://support.google.com/merchants/answer/18385206)
+
+**Required** For products that require certain warranty information to be shown in your ads or listings, for example due to local regulations like [Bill 29](https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-29-43-1.html) in Quebec, Canada. **Optional** **F** or vehicles Use the [warranty `[warranty]`](https://support.google.com/merchants/answer/18385206) attribute to indicate the warranty information for your product or vehicle. **Note** :
+
+* **For Vehicle ads** : only available in Japan.
+
+**Example** `3:year` **Syntax**
+For Products, this attribute uses the following sub-attributes:
+
+* **Duration`[duration]`(Required for Products, Optional for Vehicles)**: Integer, the length of the warranty in months or years (as specified in the duration unit sub-attribute).
+* **Duration unit`[duration_unit]`(Required for Products, Optional for Vehicles)**: The unit of time for the warranty duration. Defaults to month `[month]` if unspecified. For [Bill 29](https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-29-43-1.html) in Quebec, Canada, this attribute is required to specify a warranty period of year `[year]`. Supported values:
+* Month `[month]`
+* Year `[year]`
+
+The following sub-attributes are only applicable to [Vehicle ads](https://support.google.com/merchants/answer/15957626):
+
+* **Mileage`[Mileage]`(Optional)**: Integer, the mileage of the warranty coverage in kilometers.
+
+|  To submit the warranty attribute for products, you must include warranty `[warranty]`, and then, in parentheses, add the duration `[duration]` and duration unit `[duration_unit]` sub-attributes separated by a colon ( : ). For example: Name `warranty(duration:duration_unit)` Format the value by submitting the value of each sub-attribute listed in the same order as in the name and separated with a colon ( : ). Don’t use quotation marks. For example: Name `warranty(duration:duration_unit)` Possible value `6:year` For vehicle ads, format the name by including which sub-attributes you’re submitting. Include warranty, and then, in parentheses, add the names of the sub-attributes that you want to submit separated by a colon ( : ). For example, to submit the duration or mileage of the warranty (or both), submit in the attribute header and the value including the colon (:) : Name `warranty(duration:mileage)` Possible value `36:30000 km` (**Note** : In the above example, since duration unit `[duration_unit]` is not specified 36 represents 36 months). For vehicle warranties with unlimited mileage based on a time frame only, specify the duration in months and leave mileage blank.
 
 ## Price and availability
 
