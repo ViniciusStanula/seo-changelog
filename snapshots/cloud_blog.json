@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-10-07T22:29:33.817676+00:00",
+  "fetched_at": "2026-10-08T12:57:02.160915+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
+      "title": "Innovation in Ireland: How Irish brands scale with Gemini Enterprise",
+      "link": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
+      "title": "Empowering SMBs to do more with Gemini",
+      "link": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
+      "link": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
+      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
       "title": "Introducing Google Cloud’s U4 compute: Enabling ultra-low latency trading",
@@ -96,30 +120,6 @@
       "title": "The future of browser-based security: Leveraging browser data for proactive defense",
       "link": "https://cloud.google.com/blog/products/chrome-enterprise/the-future-of-browser-based-security-leveraging-browser-data-for-proactive-defense/",
       "published": "Thu, 01 Oct 2026 09:02:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
-      "title": "Introducing the Server Side Cloud Swift SDK",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
-      "published": "Thu, 01 Oct 2026 04:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "title": "What’s new in AI infrastructure and orchestration in September",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
-      "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
-      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
-      "title": "Empower your agents with the Google Cloud CLI remote MCP server",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
-      "published": "Wed, 30 Sep 2026 16:00:00 +0000"
     }
   ]
 }
