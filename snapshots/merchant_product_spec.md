@@ -194,9 +194,9 @@ For the image:
 
 * Meet the requirements for the link `[link]` attribute.
 
-### [Warranty `[warranty]`](https://support.google.com/merchants/answer/18385206)
+### [Warranty `[warranty]`](https://support.google.com/merchants/answer/18562485)
 
-**Required** For products that require certain warranty information to be shown in your ads or listings, for example due to local regulations like [Bill 29](https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-29-43-1.html) in Quebec, Canada. **Optional** **F** or vehicles Use the [warranty `[warranty]`](https://support.google.com/merchants/answer/18385206) attribute to indicate the warranty information for your product or vehicle. **Note** :
+**Required** For products that require certain warranty information to be shown in your ads or listings, for example due to local regulations like [Bill 29](https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-29-43-1.html) in Quebec, Canada. **Optional** **F** or vehicles Use the [warranty `[warranty]`](https://support.google.com/merchants/answer/18562485) attribute to indicate the warranty information for your product or vehicle. **Note** :
 
 * **For Vehicle ads** : only available in Japan.
 
