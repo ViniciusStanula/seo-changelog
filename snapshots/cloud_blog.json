@@ -1,16 +1,22 @@
 {
-  "fetched_at": "2026-10-09T12:42:56.871156+00:00",
+  "fetched_at": "2026-10-09T22:04:22.426840+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+      "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+      "published": "Fri, 09 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Fri, 09 Oct 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
       "title": "Innovation in Ireland: How Irish brands scale with Gemini Enterprise",
       "link": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
-      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
-      "link": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
       "published": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
@@ -23,6 +29,12 @@
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
       "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
+      "link": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
       "published": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark",
       "link": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
       "published": "Thu, 01 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/",
-      "title": "Democratizing Managed Lustre with lower cost and frictionless development",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/chrome-enterprise/the-future-of-browser-based-security-leveraging-browser-data-for-proactive-defense/",
-      "title": "The future of browser-based security: Leveraging browser data for proactive defense",
-      "link": "https://cloud.google.com/blog/products/chrome-enterprise/the-future-of-browser-based-security-leveraging-browser-data-for-proactive-defense/",
-      "published": "Thu, 01 Oct 2026 09:02:00 +0000"
     }
   ]
 }

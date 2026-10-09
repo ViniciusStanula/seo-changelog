@@ -210,7 +210,7 @@ For Products, this attribute uses the following sub-attributes:
 
 The following sub-attributes are only applicable to [Vehicle ads](https://support.google.com/merchants/answer/15957626):
 
-* **Mileage`[Mileage]`(Optional)**: Integer, the mileage of the warranty coverage in kilometers.
+* **Mileage`[mileage]`(Optional)**: Integer, the mileage of the warranty coverage in kilometers.
 
 |  To submit the warranty attribute for products, you must include warranty `[warranty]`, and then, in parentheses, add the duration `[duration]` and duration unit `[duration_unit]` sub-attributes separated by a colon ( : ). For example: Name `warranty(duration:duration_unit)` Format the value by submitting the value of each sub-attribute listed in the same order as in the name and separated with a colon ( : ). Don’t use quotation marks. For example: Name `warranty(duration:duration_unit)` Possible value `6:year` For vehicle ads, format the name by including which sub-attributes you’re submitting. Include warranty, and then, in parentheses, add the names of the sub-attributes that you want to submit separated by a colon ( : ). For example, to submit the duration or mileage of the warranty (or both), submit in the attribute header and the value including the colon (:) : Name `warranty(duration:mileage)` Possible value `36:30000 km` (**Note** : In the above example, since duration unit `[duration_unit]` is not specified 36 represents 36 months). For vehicle warranties with unlimited mileage based on a time frame only, specify the duration in months and leave mileage blank.
 
