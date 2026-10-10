@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-10-09T22:04:17.172740+00:00",
+  "fetched_at": "2026-10-10T12:01:50.660502+00:00",
   "entries": [
+    {
+      "id": "tag:github.com,2008:Repository/53370988/lantern-test-data",
+      "title": "Lantern Test Data",
+      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/lantern-test-data",
+      "published": "2026-10-09T22:48:16Z"
+    },
     {
       "id": "tag:github.com,2008:Repository/53370988/v13.5.0",
       "title": "v13.5.0",
@@ -54,12 +60,6 @@
       "title": "v13.0.1",
       "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.0.1",
       "published": "2025-10-22T18:40:01Z"
-    },
-    {
-      "id": "tag:github.com,2008:Repository/53370988/v13.0.0",
-      "title": "v13.0.0",
-      "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v13.0.0",
-      "published": "2025-10-21T18:12:13Z"
     }
   ]
 }
