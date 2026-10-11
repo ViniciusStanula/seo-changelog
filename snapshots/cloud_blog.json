@@ -1,12 +1,6 @@
 {
-  "fetched_at": "2026-10-11T12:14:54.927253+00:00",
+  "fetched_at": "2026-10-11T21:18:55.502691+00:00",
   "entries": [
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Fri, 09 Oct 2026 16:00:00 +0000"
-    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
       "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
@@ -14,15 +8,21 @@
       "published": "Fri, 09 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
-      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
-      "link": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Fri, 09 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
       "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
+      "title": "Empowering SMBs to do more with Gemini",
+      "link": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
       "published": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
@@ -32,9 +32,9 @@
       "published": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
-      "title": "Empowering SMBs to do more with Gemini",
-      "link": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
+      "id": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+      "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
+      "link": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
       "published": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
@@ -86,6 +86,12 @@
       "published": "Fri, 02 Oct 2026 19:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 02 Oct 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
       "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
       "link": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
@@ -95,12 +101,6 @@
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
       "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
-      "published": "Fri, 02 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 02 Oct 2026 16:00:00 +0000"
     },
     {
