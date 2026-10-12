@@ -1,16 +1,40 @@
 {
-  "fetched_at": "2026-10-12T14:38:30.334827+00:00",
+  "fetched_at": "2026-10-12T23:59:53.599798+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
-      "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
-      "published": "Fri, 09 Oct 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
+      "title": "Agentic data science with the Data Agent Kit",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
+      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/",
+      "title": "10 Years of the SRE book: Announcing the second edition of \"Site Reliability Engineering”",
+      "link": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/",
+      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
+      "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
+      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "title": "What’s new with Google Data Cloud",
       "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Fri, 09 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
+      "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
       "published": "Fri, 09 Oct 2026 16:00:00 +0000"
     },
     {
@@ -96,30 +120,6 @@
       "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
       "link": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
       "published": "Fri, 02 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
-      "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
-      "published": "Fri, 02 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
-      "title": "How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey",
-      "link": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
-      "published": "Fri, 02 Oct 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
-      "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
-      "link": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
-      "published": "Thu, 01 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
-      "title": "Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark",
-      "link": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
-      "published": "Thu, 01 Oct 2026 16:00:00 +0000"
     }
   ]
 }
