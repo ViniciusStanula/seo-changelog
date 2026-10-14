@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-10-14T11:21:10.646078+00:00",
+  "fetched_at": "2026-10-14T21:09:11.274765+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
+      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
+      "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
+      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
+      "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
+      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse/",
       "title": "Cross-cloud conversational analytics made simple with open standards",
@@ -108,18 +120,6 @@
       "title": "Where mission meets moonshot: Join us at the Google Public Sector Summit 2026",
       "link": "https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/",
       "published": "Tue, 06 Oct 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
-      "title": "AlloyDB: A unified database engine for hybrid search",
-      "link": "https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/",
-      "published": "Tue, 06 Oct 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
-      "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
-      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai/",
-      "published": "Mon, 05 Oct 2026 16:00:00 +0000"
     }
   ]
 }
