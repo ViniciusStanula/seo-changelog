@@ -1,16 +1,52 @@
 {
-  "fetched_at": "2026-10-15T10:58:32.938223+00:00",
+  "fetched_at": "2026-10-15T20:47:39.351738+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
-      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
-      "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
-      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
+      "title": "How Visko streams real-time world models on Google Cloud TPUs",
+      "link": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
+      "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
+      "link": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
+      "title": "What the Gemini agent means for startups",
+      "link": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
+      "title": "Modernizing perimeter security: Scalable perimeters with VPC Service Controls",
+      "link": "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
+      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
+      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
       "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
+      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
+      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
+      "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
       "published": "Wed, 14 Oct 2026 16:00:00 +0000"
     },
     {
@@ -32,12 +68,6 @@
       "published": "Tue, 13 Oct 2026 12:22:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
       "title": "Agentic data science with the Data Agent Kit",
       "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
@@ -56,10 +86,10 @@
       "published": "Mon, 12 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Fri, 09 Oct 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
@@ -90,36 +120,6 @@
       "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
       "link": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
       "published": "Thu, 08 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
-      "title": "Introducing Google Cloud’s U4 compute: Enabling ultra-low latency trading",
-      "link": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
-      "published": "Wed, 07 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
-      "title": "Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/",
-      "published": "Tue, 06 Oct 2026 19:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/",
-      "title": "Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog",
-      "link": "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/",
-      "published": "Tue, 06 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
-      "title": "Networking for AI inference model serving - GKE only and for all other backends",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
-      "published": "Tue, 06 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/",
-      "title": "Where mission meets moonshot: Join us at the Google Public Sector Summit 2026",
-      "link": "https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/",
-      "published": "Tue, 06 Oct 2026 07:00:00 +0000"
     }
   ]
 }
