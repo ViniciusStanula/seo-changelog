@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T21:09:11.274765+00:00",
+  "fetched_at": "2026-10-15T10:58:32.938223+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
@@ -32,6 +32,12 @@
       "published": "Tue, 13 Oct 2026 12:22:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
       "title": "Agentic data science with the Data Agent Kit",
       "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
@@ -47,12 +53,6 @@
       "id": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
       "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
       "link": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
-      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
       "published": "Mon, 12 Oct 2026 16:00:00 +0000"
     },
     {
