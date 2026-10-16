@@ -1,6 +1,42 @@
 {
-  "fetched_at": "2026-10-16T10:52:31.566199+00:00",
+  "fetched_at": "2026-10-16T20:20:36.667968+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
+      "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
+      "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
+      "link": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
+      "title": "Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes",
+      "link": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
+      "title": "Four evaluation engineering lessons learned from building agent plugins",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/",
+      "title": "The SAVE method: Learn the fundamentals to engineer trustworthy generative media",
+      "link": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
       "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
@@ -44,6 +80,12 @@
       "published": "Thu, 15 Oct 2026 14:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
+      "title": "Investigating Ephemeral Supply Chain Tampering",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
+      "published": "Thu, 15 Oct 2026 11:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
       "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
@@ -78,48 +120,6 @@
       "title": "Agentic data science with the Data Agent Kit",
       "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
       "published": "Mon, 12 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/",
-      "title": "10 Years of the SRE book: Announcing the second edition of \"Site Reliability Engineering”",
-      "link": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/",
-      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
-      "title": "Trusted Data Apps for the Agentic Data Cloud, powered by Looker",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/",
-      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
-      "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/",
-      "published": "Fri, 09 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
-      "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
-      "title": "Empowering SMBs to do more with Gemini",
-      "link": "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini/",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
-      "title": "Innovation in Ireland: How Irish brands scale with Gemini Enterprise",
-      "link": "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini/",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
     }
   ]
 }
