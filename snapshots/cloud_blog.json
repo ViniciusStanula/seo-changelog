@@ -1,17 +1,11 @@
 {
-  "fetched_at": "2026-10-17T10:15:47.813679+00:00",
+  "fetched_at": "2026-10-17T19:55:22.756439+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
       "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
@@ -38,6 +32,12 @@
       "published": "Fri, 16 Oct 2026 16:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
       "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
       "link": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
@@ -50,6 +50,12 @@
       "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
       "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
       "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
@@ -59,12 +65,6 @@
       "id": "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
       "title": "Modernizing perimeter security: Scalable perimeters with VPC Service Controls",
       "link": "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     },
     {
@@ -86,15 +86,15 @@
       "published": "Thu, 15 Oct 2026 11:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
-      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
-      "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
-      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
       "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
       "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
+      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
+      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
+      "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
       "published": "Wed, 14 Oct 2026 16:00:00 +0000"
     },
     {
@@ -116,9 +116,9 @@
       "published": "Tue, 13 Oct 2026 12:22:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
-      "title": "Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/",
+      "id": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
+      "title": "Agentic data science with the Data Agent Kit",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
       "published": "Mon, 12 Oct 2026 16:00:00 +0000"
     }
   ]
