@@ -1,11 +1,47 @@
 {
-  "fetched_at": "2026-10-19T12:22:44.239875+00:00",
+  "fetched_at": "2026-10-19T21:53:34.517036+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/",
+      "title": "Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU",
+      "link": "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/",
+      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
+      "title": "How to Use Python UDF Logging for Pipeline Observability",
+      "link": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
+      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
+      "title": "Who judges the judge? Three helpful ways to audit your LLM evaluators",
+      "link": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
+      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
+      "title": "Developer’s guide to implementing MCP apps in Gemini",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
+      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms/",
+      "title": "Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms/",
+      "published": "Mon, 19 Oct 2026 07:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
       "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
@@ -32,27 +68,9 @@
       "published": "Fri, 16 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
       "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
       "link": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
-      "title": "What the Gemini agent means for startups",
-      "link": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     },
     {
@@ -68,9 +86,21 @@
       "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
       "title": "How Visko streams real-time world models on Google Cloud TPUs",
       "link": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
+      "title": "What the Gemini agent means for startups",
+      "link": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
       "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     },
     {
@@ -86,40 +116,10 @@
       "published": "Thu, 15 Oct 2026 11:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
-      "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc/",
-      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
       "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
       "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
       "published": "Wed, 14 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse/",
-      "title": "Cross-cloud conversational analytics made simple with open standards",
-      "link": "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse/",
-      "published": "Tue, 13 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/",
-      "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/",
-      "published": "Tue, 13 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages/",
-      "title": "One Agent Development Kit, five languages",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages/",
-      "published": "Tue, 13 Oct 2026 12:22:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
-      "title": "Agentic data science with the Data Agent Kit",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/",
-      "published": "Mon, 12 Oct 2026 16:00:00 +0000"
     }
   ]
 }
