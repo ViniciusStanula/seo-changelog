@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-10-19T21:53:34.517036+00:00",
+  "fetched_at": "2026-10-20T11:01:43.483248+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
+      "title": "Introducing Gemini for government services",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
+      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/",
+      "title": "Announcements and highlights from Google Public Sector Summit 2026",
+      "link": "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/",
+      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
+      "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
+      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
+      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
+      "title": "Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations",
+      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
+      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/",
       "title": "Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU",
@@ -96,30 +120,6 @@
       "title": "How Visko streams real-time world models on Google Cloud TPUs",
       "link": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
       "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
-      "title": "What the Gemini agent means for startups",
-      "link": "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
-      "title": "ARMORY CASTLE Exploits BeyondTrust",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
-      "published": "Thu, 15 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
-      "title": "Investigating Ephemeral Supply Chain Tampering",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
-      "published": "Thu, 15 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
-      "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
-      "link": "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features/",
-      "published": "Wed, 14 Oct 2026 16:00:00 +0000"
     }
   ]
 }
