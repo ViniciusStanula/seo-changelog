@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-10-20T11:01:43.483248+00:00",
+  "fetched_at": "2026-10-20T21:04:25.422668+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
+      "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
+      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
+      "published": "Tue, 20 Oct 2026 19:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/",
+      "title": "Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/",
+      "published": "Tue, 20 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/",
+      "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/",
+      "published": "Tue, 20 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/",
+      "title": "Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/",
+      "published": "Tue, 20 Oct 2026 11:30:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
       "title": "Introducing Gemini for government services",
@@ -11,12 +35,6 @@
       "id": "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/",
       "title": "Announcements and highlights from Google Public Sector Summit 2026",
       "link": "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/",
-      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
-      "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
-      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
       "published": "Tue, 20 Oct 2026 10:00:00 +0000"
     },
     {
@@ -38,15 +56,15 @@
       "published": "Mon, 19 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
-      "title": "Who judges the judge? Three helpful ways to audit your LLM evaluators",
-      "link": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
-      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
       "title": "Developer’s guide to implementing MCP apps in Gemini",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
+      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
+      "title": "Who judges the judge? Three helpful ways to audit your LLM evaluators",
+      "link": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
       "published": "Mon, 19 Oct 2026 16:00:00 +0000"
     },
     {
@@ -60,18 +78,6 @@
       "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
-      "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
-      "link": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
@@ -92,33 +98,27 @@
       "published": "Fri, 16 Oct 2026 16:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
+      "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
+      "link": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
+      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
       "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
       "link": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
       "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
-      "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
-      "link": "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
-      "title": "Modernizing perimeter security: Scalable perimeters with VPC Service Controls",
-      "link": "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "title": "What’s new with Google Data Cloud",
       "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
-      "title": "How Visko streams real-time world models on Google Cloud TPUs",
-      "link": "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/",
       "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     }
   ]
