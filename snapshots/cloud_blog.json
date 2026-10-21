@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-10-21T11:18:50.452729+00:00",
+  "fetched_at": "2026-10-21T21:04:35.712592+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
+      "title": "BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL",
+      "link": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
+      "published": "Wed, 21 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/",
+      "title": "ZenteiQ scales batch inference 4x with GKE Inference Gateway powered by llm-d",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/",
+      "published": "Wed, 21 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/",
+      "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619",
+      "link": "https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/",
+      "published": "Wed, 21 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/google-public-sector-increases-partner-investments-for-frontline-adoption/",
+      "title": "Google Public Sector increases partner investments for frontline adoption",
+      "link": "https://cloud.google.com/blog/topics/public-sector/google-public-sector-increases-partner-investments-for-frontline-adoption/",
+      "published": "Wed, 21 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+      "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/",
+      "published": "Wed, 21 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/",
+      "title": "Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/",
+      "published": "Wed, 21 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/",
+      "title": "Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/",
+      "published": "Wed, 21 Oct 2026 11:30:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
       "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
@@ -78,48 +120,6 @@
       "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
       "published": "Fri, 16 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
-      "title": "Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes",
-      "link": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
-      "title": "Four evaluation engineering lessons learned from building agent plugins",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/",
-      "title": "The SAVE method: Learn the fundamentals to engineer trustworthy generative media",
-      "link": "https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
-      "title": "Architecting autonomy: A design pattern for high-compute, governed agents in biotech",
-      "link": "https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
-      "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
-      "link": "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000"
     }
   ]
 }
