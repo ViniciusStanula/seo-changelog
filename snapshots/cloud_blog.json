@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-10-22T11:17:54.603294+00:00",
+  "fetched_at": "2026-10-22T21:02:26.983730+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
+      "title": "Introducing new self-learning context enrichment in Knowledge Catalog",
+      "link": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
+      "published": "Thu, 22 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
+      "title": "Inside Agent Compute Engine: Building the compute foundation for the agentic era",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/",
+      "published": "Thu, 22 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/",
+      "title": "Introducing Agent Compute Engine and expanded agent governance",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance/",
+      "published": "Thu, 22 Oct 2026 04:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
       "title": "BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL",
@@ -68,12 +86,6 @@
       "published": "Tue, 20 Oct 2026 11:30:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
-      "title": "Introducing Gemini for government services",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
-      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/",
       "title": "Announcements and highlights from Google Public Sector Summit 2026",
       "link": "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/",
@@ -83,6 +95,12 @@
       "id": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
       "title": "Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations",
       "link": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
+      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
+      "title": "Introducing Gemini for government services",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
       "published": "Tue, 20 Oct 2026 10:00:00 +0000"
     },
     {
@@ -102,24 +120,6 @@
       "title": "Developer’s guide to implementing MCP apps in Gemini",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
       "published": "Mon, 19 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
-      "title": "Who judges the judge? Three helpful ways to audit your LLM evaluators",
-      "link": "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/",
-      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms/",
-      "title": "Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms/",
-      "published": "Mon, 19 Oct 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
-      "title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/",
-      "published": "Fri, 16 Oct 2026 17:00:00 +0000"
     }
   ]
 }
