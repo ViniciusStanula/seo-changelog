@@ -2,7 +2,7 @@
 
 Use this guide to format your product information for Merchant Center. Google uses this data to match your products to the right queries, and as a foundational input to help optimize and enhance the content of the ads being served in our AI powered formats and experiences. Providing accurate and correctly formatted product data is essential for creating successful ads and free listings, and for preventing product disapprovals or display issues.
 
-Incorrect, inaccurate, or missing product information can cause disapprovals, limited eligibility, incorrect displays for your products, or other [ Issues in Merchant Center](https://support.google.com/merchants/answer/12153802). Common problems include, incorrect google product category `[google_product_category] `or gtin `[gtin]` attribute values, missing or incorrect variant attributes (such as item group id `[item_group_id]`, color `[color]` or size `[size]`), low-quality images, or conflicting data between your data source and website. These issues can prevent your ads and free listings from showing on Google.
+Incorrect, inaccurate, or missing product information can cause disapprovals, limited eligibility, incorrect displays for your products, or other [ Issues in Merchant Center](https://support.google.com/merchants/answer/12153802). Common problems include, incorrect Google product category `[google_product_category] `or gtin `[gtin]` attribute values, missing or incorrect variant attributes (such as item group id `[item_group_id]`, color `[color]` or size `[size]`), low-quality images, or conflicting data between your data source and website. These issues can prevent your ads and free listings from showing on Google.
 
 * * *
 
@@ -12,9 +12,6 @@ Incorrect, inaccurate, or missing product information can cause disapprovals, li
 
 * Before you begin
 * Definitions
-
-**Product data attributes:**
-
 * Basic product data
 * Price and availability
 * Product category
@@ -415,7 +412,7 @@ Additional supported metric integer + unit combinations `75cl`, `750ml`, `50kg`,
 **Schema.org property:** No |  **For all products:**
 
 * Specify the offer terms of the subscription on your landing page.
-* The Google Product Category `[google_product_category]` attribute must be present.
+* The Google product category `[google_product_category]` attribute must be present.
 
 **For mobile and wireless products:**
 
@@ -556,7 +553,7 @@ Your product’s brand name **Required** (For all new products, except movies, b
 Max 70 characters **Schema.org property:**`Yes` (Learn more about [Merchant listing (Product, Offer) structured data](https://developers.google.com/search/docs/appearance/structured-data/merchant-listing) on Google Search Central) |
 
 * Provide the brand name of the product generally recognized by consumers.
-* Providing the correct brand for a product will ensure the best user experience and result in the best performance.
+* Providing the correct brand for a product will ensure the best user experience and result in ideal performance.
 * Only provide **your own brand** name as the brand if you manufacture the product or if your product falls into a generic brand category.
 * For example, you could submit **your** **own brand** name as the brand if you sell private-label products or customized jewelry.
 * For products that truly don't have a brand (for example, a vintage dress without a label, generic electronics accessories, and other examples), leave this field empty.
@@ -590,7 +587,7 @@ Max 50 numeric characters (max 14 per value - added spaces and dashes are ignore
 * The checksum digit is present and correct
 * The GTIN is not restricted (GS1 prefix ranges 02, 04, 2)
 * The GTIN is not a coupon (GS1 prefix ranges 98 - 99)
-* Providing the correct GTIN for a product will ensure the best user experience and result in the best performance. Products with a GTIN but submitted without one may have limited visibility.
+* Providing the correct GTIN for a product will ensure the best user experience and result in the ideal performance. Products with a GTIN but submitted without one may have limited visibility.
 * Only provide a GTIN if you’re sure it is correct. When in doubt don’t provide this attribute (for example, do not guess or make up a value). If you submit a product with an incorrect GTIN value, your product will be disapproved.
 * For compatible products:
 * Submit the GTIN and brand from the manufacturer who actually built the compatible product.
@@ -611,7 +608,7 @@ Max 70 alphanumeric characters **Schema.org property:**`Yes` (Learn more about [
 * Only submit MPNs assigned by a manufacturer.
 * Use the most specific MPN possible.
 * For example, different colors of a product should have different MPNs.
-* Providing the correct MPN for a product (when required) will ensure the best user experience and result in the best performance.
+* Providing the correct MPN for a product (when required) will ensure the best user experience and result in ideal performance.
 * Only provide an MPN if you’re sure it’s correct. When in doubt don’t provide this attribute (for example, don’t guess or make up a value).
 * If you submit a product with an incorrect MPN value, your product will be disapproved.
 
@@ -687,7 +684,7 @@ Find these settings in the "Business details" tab.
 
 ### Certification `[certification]`
 
-**Required** for products that require certain certification information to be shown in your Shopping ads or free listings, for example due to local energy efficiency labeling regulations**** **Optional** for all other products Certifications, such as energy efficiency ratings, associated with your product. Available for the EU and EFTA countries and the UK. [Certification `[certification]`](https://support.google.com/merchants/answer/13528839). **Note** : Starting April 2025, for products targeting countries in the European Union and that are required to show graphical energy efficiency class labels, use the [certification `[certification]`](https://support.google.com/merchants/answer/13528839) attribute, which references the necessary graphical energy efficiency source data through the EU [EPREL](https://eprel.ec.europa.eu/screen/home) database. The [energy efficiency class `[energy_efficiency_class]`](https://support.google.com/merchants/answer/7562785) attributes are now only available for products that target Switzerland, Norway, or the United Kingdom. **Example** `EC:EPREL:123456` **Syntax** This attribute uses the following sub-attributes:
+**Required** for products that require certain certification information to be shown in your Shopping ads or free listings, for example due to local energy efficiency labeling regulations**** **Optional** for all other products Certifications, such as energy efficiency ratings, associated with your product. Available for the EU and EFTA countries and the UK. [Certification `[certification]`](https://support.google.com/merchants/answer/13528839). **Note** : For products targeting countries in the European Union and that are required to show graphical energy efficiency class labels, use the [certification `[certification]`](https://support.google.com/merchants/answer/13528839) attribute, which references the necessary graphical energy efficiency source data through the EU [EPREL](https://eprel.ec.europa.eu/screen/home) database. The [energy efficiency class `[energy_efficiency_class]`](https://support.google.com/merchants/answer/7562785) attributes are now only available for products that target Switzerland, Norway, or the United Kingdom. **Example** `EC:EPREL:123456` **Syntax** This attribute uses the following sub-attributes:
 
 * Authority `[certification_authority]` Certification authority. Only "EC" or "European_Commission" supported.
 * Name `[certification_name]` Name of the certification. Only "EPREL" supported.
@@ -763,7 +760,7 @@ Ownership:
 
 ### Energy efficiency class `[energy_efficiency_class]`
 
-**Optional**(except when required by local law or regulations) Your product’s energy efficiency class. Only available for products that target Switzerland, Norway, or the United Kingdom. Learn more about the [Energy efficiency class `[energy_efficiency_class]`](https://support.google.com/merchants/answer/12472144) attribute. **Note** : Starting April 2025, the [energy efficiency class `[energy_efficiency_class]`](https://support.google.com/merchants/answer/12472144) attributes are only available for products that target Switzerland, Norway, or the United Kingdom and are not sold in the EU. For products targeting countries in the European Union and are required to show the graphical energy efficiency class, use the[ certification `[certification]`](https://support.google.com/merchants/answer/13528839) attribute, which references the necessary graphical energy efficiency source data from the EU through the [EPREL](https://eprel.ec.europa.eu/screen/home) database. **Example** `A+` **Supported values**
+**Optional**(except when required by local law or regulations) Your product’s energy efficiency class. Only available for products that target Switzerland, Norway, or the United Kingdom. Learn more about the [Energy efficiency class `[energy_efficiency_class]`](https://support.google.com/merchants/answer/12472144) attribute. **Note** : The [energy efficiency class `[energy_efficiency_class]`](https://support.google.com/merchants/answer/12472144) attributes are only available for products that target Switzerland, Norway, or the United Kingdom and are not sold in the EU. For products targeting countries in the European Union and are required to show the graphical energy efficiency class, use the[ certification `[certification]`](https://support.google.com/merchants/answer/13528839) attribute, which references the necessary graphical energy efficiency source data from the EU through the [EPREL](https://eprel.ec.europa.eu/screen/home) database. **Example** `A+` **Supported values**
 
 * `A+++`
 * `A++`
@@ -811,7 +808,7 @@ Ownership:
 
 ### Minimum energy efficiency class `[min_energy_efficiency_class]`
 
-**Optional** (except when required by local laws or regulations) The minimum energy efficiency class in this products's category. Only available for products that target Switzerland, Norway, or the United Kingdom. Learn more about the [Minimum energy efficiency class `[min_energy_efficiency_class]`](https://support.google.com/merchants/answer/12472144) attribute. **Note** : Starting April 2025, the [minimum energy efficiency class `[min_energy_efficiency_class]`](https://support.google.com/merchants/answer/12472144) attribute is only available for products that target Switzerland, Norway, or the United Kingdom and are not sold in the EU. For products targeting countries in the European Union and are required to show the graphical energy efficiency class, use the [certification `[certification]`](https://support.google.com/merchants/answer/13528839) attribute, which references the necessary graphical energy efficiency source data from the EU through the [EPREL](https://eprel.ec.europa.eu/screen/home) database. **Example** `A+++` **Supported values**
+**Optional** (except when required by local laws or regulations) The minimum energy efficiency class in this products's category. Only available for products that target Switzerland, Norway, or the United Kingdom. Learn more about the [Minimum energy efficiency class `[min_energy_efficiency_class]`](https://support.google.com/merchants/answer/12472144) attribute. **Note** : The [minimum energy efficiency class `[min_energy_efficiency_class]`](https://support.google.com/merchants/answer/12472144) attribute is only available for products that target Switzerland, Norway, or the United Kingdom and are not sold in the EU. For products targeting countries in the European Union and are required to show the graphical energy efficiency class, use the [certification `[certification]`](https://support.google.com/merchants/answer/13528839) attribute, which references the necessary graphical energy efficiency source data from the EU through the [EPREL](https://eprel.ec.europa.eu/screen/home) database. **Example** `A+++` **Supported values**
 
 * `A+++`
 * `A++`
@@ -830,7 +827,7 @@ Ownership:
 
 ### Maximum energy efficiency class `[max_energy_efficiency]`
 
-**Optional** (except when required by local laws or regulations) The maximum energy efficiency class in this product's category. Only available for products that target Switzerland, Norway, or the United Kingdom. Learn more about the [Maximum energy efficiency class `[max_energy_efficiency]`](https://support.google.com/merchants/answer/12472144) attribute. **Note** : Starting April 2025, the [maximum energy efficiency class `[max_energy_efficiency]`](https://support.google.com/merchants/answer/12472144) attribute is only available for products that target Switzerland, Norway, or the United Kingdom and are not sold in the EU. For products targeting countries in the European Union and are required to show the graphical energy efficiency class, use the [certification `[certification]`](https://support.google.com/merchants/answer/13528839) attribute, which references the necessary graphical energy efficiency source data from the EU through the [EPREL](https://eprel.ec.europa.eu/screen/home) database. **Example** `D` **Supported values**
+**Optional** (except when required by local laws or regulations) The maximum energy efficiency class in this product's category. Only available for products that target Switzerland, Norway, or the United Kingdom. Learn more about the [Maximum energy efficiency class `[max_energy_efficiency]`](https://support.google.com/merchants/answer/12472144) attribute. **Note** : The [maximum energy efficiency class `[max_energy_efficiency]`](https://support.google.com/merchants/answer/12472144) attribute is only available for products that target Switzerland, Norway, or the United Kingdom and are not sold in the EU. For products targeting countries in the European Union and are required to show the graphical energy efficiency class, use the [certification `[certification]`](https://support.google.com/merchants/answer/13528839) attribute, which references the necessary graphical energy efficiency source data from the EU through the [EPREL](https://eprel.ec.europa.eu/screen/home) database. **Example** `D` **Supported values**
 
 * `A+++`
 * `A++`
@@ -997,7 +994,7 @@ Ownership:
 * **Accessory**`**[accessory]** `An accessory to this product, for example a side table that matches the style of a couch.
 * **Identifier type`[identifier_type]`**. This sub-attribute supports the following values:
 * **GTIN`[gtin] `**The identifier is a GTIN
-* **ID**`**[id]** `The identifier is a product ID in the feed
+* **ID**`**[id]** `The identifier is a product ID in the data source
 * **Identifier`[identifier]`**. This sub-attribute specifies the actual identifier value of the other product that is related to this product. The identifier value should match the type specified in identifier type `[identifier_type]`.
 
 **Schema.org property** : No |
@@ -1537,3 +1534,11 @@ Label used to assign the correct return policy as defined in Merchant Center acc
 * Unlimited
 * Oversize
 * FinalSale
+
+### Related Links:
+
+* [Shopping ads policies](https://support.google.com/merchants/answer/6149970)
+* [Submit attributes and attribute values](https://support.google.com/merchants/answer/10668075)
+* [Currency and language requirements](https://support.google.com/merchants/answer/160637)
+* [Google product taxonomy](https://support.google.com/merchants/answer/12472026)
+* [Issues in Merchant Center](https://support.google.com/merchants/answer/12153802)

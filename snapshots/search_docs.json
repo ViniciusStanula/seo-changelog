@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-10-23T11:08:39.819499+00:00",
+  "fetched_at": "2026-10-23T20:50:24.898236+00:00",
   "entries": [
+    {
+      "id": "2026-10-23-Updated-guidance-on-crawlable-URL-structures",
+      "title": "Updated guidance on crawlable URL structures",
+      "link": "https://developers.google.com/search/updates#october-2026",
+      "published": "Fri, 23 Oct 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-10-21-Updated-the-control-what-you-share-with-Google-Search-documentation",
       "title": "Updated the control what you share with Google Search documentation",
