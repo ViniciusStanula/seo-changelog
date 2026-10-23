@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-10-22T21:02:26.983730+00:00",
+  "fetched_at": "2026-10-23T11:08:46.705633+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
+      "title": "Expanding Claude availability and deployment choice on Google Cloud",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
+      "published": "Thu, 22 Oct 2026 21:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/",
       "title": "Introducing new self-learning context enrichment in Knowledge Catalog",
@@ -113,12 +119,6 @@
       "id": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
       "title": "How to Use Python UDF Logging for Pipeline Observability",
       "link": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
-      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
-      "title": "Developer’s guide to implementing MCP apps in Gemini",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/",
       "published": "Mon, 19 Oct 2026 16:00:00 +0000"
     }
   ]
