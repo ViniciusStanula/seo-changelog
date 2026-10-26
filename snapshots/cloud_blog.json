@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-10-26T12:24:07.099007+00:00",
+  "fetched_at": "2026-10-26T22:08:04.208928+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
+      "title": "Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger",
+      "link": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
+      "published": "Mon, 26 Oct 2026 20:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
+      "link": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+      "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
+      "title": "Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA",
+      "link": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
+      "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
       "title": "Expanding Claude availability and deployment choice on Google Cloud",
@@ -26,15 +44,15 @@
       "published": "Thu, 22 Oct 2026 04:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
-      "title": "BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL",
-      "link": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
-      "published": "Wed, 21 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/",
       "title": "ZenteiQ scales batch inference 4x with GKE Inference Gateway powered by llm-d",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/",
+      "published": "Wed, 21 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
+      "title": "BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL",
+      "link": "https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/",
       "published": "Wed, 21 Oct 2026 16:00:00 +0000"
     },
     {
@@ -102,24 +120,6 @@
       "title": "Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations",
       "link": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
       "published": "Tue, 20 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
-      "title": "Introducing Gemini for government services",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
-      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/",
-      "title": "Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU",
-      "link": "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/",
-      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
-      "title": "How to Use Python UDF Logging for Pipeline Observability",
-      "link": "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/",
-      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
     }
   ]
 }
