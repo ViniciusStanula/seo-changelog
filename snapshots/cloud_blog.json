@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-10-27T11:42:59.047137+00:00",
+  "fetched_at": "2026-10-27T21:38:51.979528+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/vmware-solution-on-google-cloud/",
+      "title": "Introducing VMware solution on Google Cloud",
+      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/vmware-solution-on-google-cloud/",
+      "published": "Tue, 27 Oct 2026 20:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world/",
+      "title": "Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud",
+      "link": "https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world/",
+      "published": "Tue, 27 Oct 2026 19:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
+      "title": "Securely connecting Gemini Enterprise to Snowflake data",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
+      "published": "Tue, 27 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
+      "link": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
+      "published": "Tue, 27 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
+      "title": "Bringing Google TPUs to Oracle Cloud Infrastructure",
+      "link": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
+      "published": "Tue, 27 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
+      "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
+      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions/",
+      "title": "Google Cloud and NASA: Testing robotic systems for deep space missions",
+      "link": "https://cloud.google.com/blog/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions/",
+      "published": "Tue, 27 Oct 2026 04:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
       "title": "Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger",
@@ -78,48 +120,6 @@
       "title": "Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/",
       "published": "Wed, 21 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
-      "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
-      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/",
-      "published": "Tue, 20 Oct 2026 19:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/",
-      "title": "Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/",
-      "published": "Tue, 20 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/",
-      "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/",
-      "published": "Tue, 20 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/",
-      "title": "Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/",
-      "published": "Tue, 20 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/",
-      "title": "Announcements and highlights from Google Public Sector Summit 2026",
-      "link": "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/",
-      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
-      "title": "Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations",
-      "link": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
-      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
-      "title": "Introducing Gemini for government services",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
-      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
     }
   ]
 }
