@@ -1,17 +1,11 @@
 {
-  "fetched_at": "2026-10-26T22:08:04.208928+00:00",
+  "fetched_at": "2026-10-27T11:42:59.047137+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
       "title": "Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger",
       "link": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
       "published": "Mon, 26 Oct 2026 20:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
-      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
-      "link": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
-      "published": "Mon, 26 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
@@ -119,6 +113,12 @@
       "id": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
       "title": "Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations",
       "link": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud/",
+      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
+      "title": "Introducing Gemini for government services",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/",
       "published": "Tue, 20 Oct 2026 10:00:00 +0000"
     }
   ]
