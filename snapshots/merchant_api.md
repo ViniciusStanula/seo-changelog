@@ -1,5 +1,47 @@
 Get the latest announcements on new features, bug fixes, and release updates.
 
+## October 2026
+
+## October 2026
+
+What's new:
+
+- **YouTube Shopping affiliate reporting and developer policies (v1alpha)**:- Added `subscriberCount`to`YoutubeCreatorPerformanceView`to report channel subscriber count alongside performance metrics.
+- Added commission breakdowns, which are `platform_commissions`and`seller_commissions`, and sub-seller`account_id`segmentation to`youtube_content_performance_view`.
+- Added four YouTube affiliate campaign views to
+`accounts.reports.search`:- `YoutubeCampaignsStatsView`for campaign stats.
+- `YoutubeIndividualCampaignStatsView`for creator channel and format breakdowns.
+- `YoutubeCampaignVideosStatsView`for video-level metrics.
+- `YoutubeCampaignProductsStatsView`for product-level metrics.
+
+- Added `productType`field to`YoutubeProductTaggedStatsView`and`YoutubeProductSoldStatsView`.
+- Published the YouTube Shopping affiliate program developer policies.
+
+- Added
+- **Store homepage URI in the Accounts sub-API**: added the read-only- `homePageUri`field to the accounts resource to return the store's homepage URI.
+- **Products sub-API attribute additions**:- **Product certification links and United Kingdom energy efficiency enums**: added- `certificationDocumentLink`and- `certificationLabelLink`fields, along with the Department for Energy Security & Net Zero (DESNZ) certification authority and- `GB_ENERGY_INFORMATION`certification name enums, to- `ProductCertification`within- `ProductAttributes`. For more information, see Certification.
+- **Mileage allowance for vehicle installments**: added- `mileageAllowance`to- `ProductInstallment`within- `ProductAttributes`to specify mileage allowances for vehicle leasing contracts.
+- **Offer-level video links**: added the- `videoLinks`attribute to- `ProductAttributes`to submit offer-level videos at scale.
+
+- **New third-party (3P) service provider documentation**:- Published new third-party (3P) service provider documentation that covers account setup, test accounts, and Universal Commerce Protocol (UCP) checkout onboarding.
+
+- **New Java code samples for managing region batching**:- Added new Java code samples for batch region operations,
+such as `BatchCreateRegions`,`BatchUpdateRegions`, and`BatchDeleteRegions`.
+
+- Added new Java code samples for batch region operations,
+such as
+- **UCP agentic performance reporting (v1alpha)**: added two new reporting views to- `accounts.reports.search`in the- **Reports sub-API (v1alpha)**to retrieve UCP checkout and conversion performance metrics across Google surfaces, including AI Mode in Search and Gemini:- `UcpAgenticPerformanceView`: reports account-level conversion funnel, order, cancellation, and cart transfer metrics segmented by date and customer country.
+- `UcpAgenticProductPerformanceView`: reports product-level- `offerId`buy button click metrics segmented by date and customer country.
+- Published the Analyze UCP agentic performance (Alpha) guide with sample Merchant Center Query Language (MCQL) queries.
+
+What's changed:
+
+- **Expanded warranty attribute support**: generalized the- `warranty`attribute in- `ProductAttributes`beyond vehicle listings to support all products, and allowed warranty durations to be specified in either months or years.
+- **Offer-level account issue denormalization**: surfaced specific account suspension issues directly on affected offers rather than as a generic- `ACCOUNT_DISAPPROVAL`, providing clearer offer, marketing method, and country-level impact diagnostics.
+- **Deprecation of**: deprecated- `YoutubeProductPerformanceView`(v1alpha)- `YoutubeProductPerformanceView`in the Reports sub-API (v1alpha) in favor of- `YoutubeProductSoldStatsView`and- `YoutubeProductTaggedStatsView`.
+- **Notifications sub-API pagination defaults and new guides**: standardized- `accounts.notificationsubscriptions.list`pagination with an optional- `pageSize`defaulting to 100 (maximum 200), and published a new guide for setting up push notifications for account service changes.
+- **Reference documentation and quotas and limits guide reorganization**: removed all discontinued v1beta REST and RPC reference pages from the developer site, and reorganized quotas and limits into dedicated guides for API quotas and account limits.
+
 ## August 2026
 
 ## August 2026
