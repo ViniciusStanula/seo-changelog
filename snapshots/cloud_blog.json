@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-10-30T12:16:46.386844+00:00",
+  "fetched_at": "2026-10-30T21:50:20.775012+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "title": "What’s new in AI infrastructure and orchestration in October",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
+      "title": "When the Kubernetes API went silent: A three-layer networking mystery",
+      "link": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
+      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
+      "title": "Innovate on your own business terms: Google Cloud spend caps now generally available",
+      "link": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
+      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
+      "title": "New Gemini courses for financial services and legal teams",
+      "link": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
+      "published": "Fri, 30 Oct 2026 13:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
       "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
@@ -90,36 +120,6 @@
       "title": "Bringing Google TPUs to Oracle Cloud Infrastructure",
       "link": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
       "published": "Tue, 27 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
-      "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions/",
-      "title": "Google Cloud and NASA: Testing robotic systems for deep space missions",
-      "link": "https://cloud.google.com/blog/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions/",
-      "published": "Tue, 27 Oct 2026 04:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
-      "title": "Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger",
-      "link": "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger/",
-      "published": "Mon, 26 Oct 2026 20:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
-      "title": "Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA",
-      "link": "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga/",
-      "published": "Mon, 26 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
-      "title": "Expanding Claude availability and deployment choice on Google Cloud",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/",
-      "published": "Thu, 22 Oct 2026 21:00:00 +0000"
     }
   ]
 }
