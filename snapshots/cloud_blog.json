@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-29T22:14:20.968474+00:00",
+  "fetched_at": "2026-10-30T12:16:46.386844+00:00",
   "entries": [
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "id": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
+      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
+      "link": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
       "published": "Thu, 29 Oct 2026 16:00:00 +0000"
     },
     {
@@ -14,27 +14,33 @@
       "published": "Thu, 29 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
-      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
-      "link": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
-      "published": "Thu, 29 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
       "title": "Grounding agents in one context graph connecting semantic models you already trust",
       "link": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
       "published": "Thu, 29 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
-      "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "published": "Thu, 29 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
+      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
+      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
       "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
+      "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
@@ -47,12 +53,6 @@
       "id": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
       "title": "How GKE networking scales to support high densities of concurrent AI agents",
       "link": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
-      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
