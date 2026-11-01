@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-01T12:47:38.068659+00:00",
+  "fetched_at": "2026-11-01T21:32:15.871765+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "title": "What’s new in AI infrastructure and orchestration in October",
@@ -20,16 +26,22 @@
       "published": "Fri, 30 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
+      "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
+      "published": "Fri, 30 Oct 2026 14:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
       "title": "New Gemini courses for financial services and legal teams",
       "link": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
       "published": "Fri, 30 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
+      "title": "Grounding agents in one context graph connecting semantic models you already trust",
+      "link": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
+      "published": "Thu, 29 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
@@ -44,22 +56,10 @@
       "published": "Thu, 29 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
-      "title": "Grounding agents in one context graph connecting semantic models you already trust",
-      "link": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
-      "published": "Thu, 29 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "title": "What’s new with Google Data Cloud",
       "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "published": "Thu, 29 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
-      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
@@ -68,9 +68,9 @@
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
-      "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
+      "id": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
+      "title": "How GKE networking scales to support high densities of concurrent AI agents",
+      "link": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
@@ -80,9 +80,21 @@
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
-      "title": "How GKE networking scales to support high densities of concurrent AI agents",
-      "link": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
+      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
+      "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/upgrade-embedding-models-in-alloydb-ai-with-zero-downtime/",
+      "title": "How to upgrade embedding models in AlloyDB AI with zero downtime",
+      "link": "https://cloud.google.com/blog/products/databases/upgrade-embedding-models-in-alloydb-ai-with-zero-downtime/",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
+      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
+      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "Securely connecting Gemini Enterprise to Snowflake data",
       "link": "https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
       "published": "Tue, 27 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
-      "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
-      "link": "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/",
-      "published": "Tue, 27 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
-      "title": "Bringing Google TPUs to Oracle Cloud Infrastructure",
-      "link": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/",
-      "published": "Tue, 27 Oct 2026 14:00:00 +0000"
     }
   ]
 }
