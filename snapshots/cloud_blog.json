@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-11-01T21:32:15.871765+00:00",
+  "fetched_at": "2026-11-02T14:56:36.922374+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
+      "title": "Shutting the Door on the XCPE Botnet",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
+      "published": "Mon, 02 Nov 2026 14:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "title": "What’s new with Google Cloud",
       "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
-      "title": "What’s new in AI infrastructure and orchestration in October",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "published": "Fri, 30 Oct 2026 16:00:00 +0000"
     },
     {
@@ -23,6 +23,12 @@
       "id": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
       "title": "Innovate on your own business terms: Google Cloud spend caps now generally available",
       "link": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
+      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "title": "What’s new in AI infrastructure and orchestration in October",
+      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "published": "Fri, 30 Oct 2026 16:00:00 +0000"
     },
     {
@@ -62,6 +68,12 @@
       "published": "Thu, 29 Oct 2026 16:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
+      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
+      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
       "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
@@ -92,12 +104,6 @@
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
-      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/chrome-enterprise/step-in-to-a-new-dimension-with-xreal-aura-a-first-of-its-kind-wired-xr-glasses/",
       "title": "Step into a new dimension with XREAL AURA, the first-of-its-kind wired XR glasses",
       "link": "https://cloud.google.com/blog/products/chrome-enterprise/step-in-to-a-new-dimension-with-xreal-aura-a-first-of-its-kind-wired-xr-glasses/",
@@ -114,12 +120,6 @@
       "title": "Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud",
       "link": "https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world/",
       "published": "Tue, 27 Oct 2026 19:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
-      "title": "Securely connecting Gemini Enterprise to Snowflake data",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/",
-      "published": "Tue, 27 Oct 2026 16:00:00 +0000"
     }
   ]
 }
