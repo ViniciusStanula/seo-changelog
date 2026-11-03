@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-11-03T13:44:40.790379+00:00",
+  "fetched_at": "2026-11-03T22:44:15.409205+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/",
+      "title": "How Nammu21 automates syndicated loans on Google Cloud Universal Ledger",
+      "link": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/",
+      "published": "Tue, 03 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/",
+      "title": "Leading in the agentic era: How to put people first as you adopt AI agents",
+      "link": "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/",
+      "published": "Tue, 03 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
+      "title": "Five rules for evaluating agent skills before they bloat your context window",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
+      "published": "Tue, 03 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
+      "title": "Introducing Physical-Engineering’s Last Exam for agents",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
+      "published": "Tue, 03 Nov 2026 08:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
       "title": "Google Cloud Developer plugin now available in Antigravity Marketplace",
@@ -95,30 +119,6 @@
       "id": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
       "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
       "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
-      "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
-      "title": "How GKE networking scales to support high densities of concurrent AI agents",
-      "link": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/",
-      "title": "How to troubleshoot GKE workloads faster with VPC Flow Logs",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
-      "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
-      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     }
   ]
