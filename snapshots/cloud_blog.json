@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-11-02T14:56:36.922374+00:00",
+  "fetched_at": "2026-11-03T00:14:28.390253+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
+      "title": "Google Cloud Developer plugin now available in Antigravity Marketplace",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
+      "published": "Mon, 02 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk/",
+      "title": "Beyond Migration: Using Database Migration Service for disk shrinking",
+      "link": "https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk/",
+      "published": "Mon, 02 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "title": "What Google Cloud announced in AI this month",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+      "published": "Mon, 02 Nov 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
       "title": "Shutting the Door on the XCPE Botnet",
@@ -8,16 +26,10 @@
       "published": "Mon, 02 Nov 2026 14:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
-      "title": "When the Kubernetes API went silent: A three-layer networking mystery",
-      "link": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
-      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+      "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+      "published": "Mon, 02 Nov 2026 14:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/",
@@ -29,6 +41,18 @@
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
       "title": "What’s new in AI infrastructure and orchestration in October",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 30 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
+      "title": "When the Kubernetes API went silent: A three-layer networking mystery",
+      "link": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
       "published": "Fri, 30 Oct 2026 16:00:00 +0000"
     },
     {
@@ -96,30 +120,6 @@
       "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
       "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability/",
       "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/upgrade-embedding-models-in-alloydb-ai-with-zero-downtime/",
-      "title": "How to upgrade embedding models in AlloyDB AI with zero downtime",
-      "link": "https://cloud.google.com/blog/products/databases/upgrade-embedding-models-in-alloydb-ai-with-zero-downtime/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/chrome-enterprise/step-in-to-a-new-dimension-with-xreal-aura-a-first-of-its-kind-wired-xr-glasses/",
-      "title": "Step into a new dimension with XREAL AURA, the first-of-its-kind wired XR glasses",
-      "link": "https://cloud.google.com/blog/products/chrome-enterprise/step-in-to-a-new-dimension-with-xreal-aura-a-first-of-its-kind-wired-xr-glasses/",
-      "published": "Wed, 28 Oct 2026 14:41:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/infrastructure-modernization/vmware-solution-on-google-cloud/",
-      "title": "Introducing VMware solution on Google Cloud",
-      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/vmware-solution-on-google-cloud/",
-      "published": "Tue, 27 Oct 2026 20:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world/",
-      "title": "Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud",
-      "link": "https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world/",
-      "published": "Tue, 27 Oct 2026 19:30:00 +0000"
     }
   ]
 }
