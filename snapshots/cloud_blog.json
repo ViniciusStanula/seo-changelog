@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-11-04T13:53:20.626518+00:00",
+  "fetched_at": "2026-11-04T23:03:28.056766+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
+      "title": "Helping you build and defend at machine-speed in the agentic era",
+      "link": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
+      "published": "Wed, 04 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
+      "title": "Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot",
+      "link": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
+      "published": "Wed, 04 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
+      "title": "Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
+      "published": "Wed, 04 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/",
+      "title": "New capabilities to power agents at scale with Google's Agentic Data Cloud",
+      "link": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/",
+      "published": "Wed, 04 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
+      "title": "AlloyDB Express: Instant, scale-to-zero PostgreSQL for developers and coding agents",
+      "link": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
+      "published": "Wed, 04 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/",
+      "title": "Unify operational and Lakehouse data with direct Iceberg access in AlloyDB for PostgreSQL",
+      "link": "https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/",
+      "published": "Wed, 04 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari/",
+      "title": "Chrome Enterprise Premium drives 50%+ projected cost reduction for Mercari",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari/",
+      "published": "Wed, 04 Nov 2026 09:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/",
       "title": "How Nammu21 automates syndicated loans on Google Cloud Universal Ledger",
@@ -78,48 +120,6 @@
       "title": "When the Kubernetes API went silent: A three-layer networking mystery",
       "link": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/",
       "published": "Fri, 30 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
-      "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
-      "published": "Fri, 30 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
-      "title": "New Gemini courses for financial services and legal teams",
-      "link": "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams/",
-      "published": "Fri, 30 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
-      "title": "Grounding agents in one context graph connecting semantic models you already trust",
-      "link": "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog/",
-      "published": "Thu, 29 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
-      "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
-      "link": "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse/",
-      "published": "Thu, 29 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/",
-      "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp/",
-      "published": "Thu, 29 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Thu, 29 Oct 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
-      "link": "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000"
     }
   ]
 }
