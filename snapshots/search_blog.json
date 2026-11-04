@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-03T22:44:06.647202+00:00",
+  "fetched_at": "2026-11-04T13:53:11.759143+00:00",
   "entries": [
+    {
+      "id": "2026-11-04-Search-Central-Live-in-Zurich-is-back!",
+      "title": "Search Central Live in Zurich is back!",
+      "link": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
+      "published": "Wed, 04 Nov 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-10-30-Supporting-a-shared-AI-training-control-for-websites",
       "title": "Supporting a shared AI training control for websites",
@@ -54,12 +60,6 @@
       "title": "See how content from social and video platforms performs on Google Search",
       "link": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
       "published": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-07-06-Search-Central-Deep-Dive-Europe-2026:-Apparently-we're-going-to-Barcelona",
-      "title": "Search Central Deep Dive Europe 2026: Apparently we're going to Barcelona",
-      "link": "https://developers.google.com/search/blog/2026/07/search-central-live-deep-dive-europe-2026",
-      "published": "Mon, 06 Jul 2026 00:00:00 +0000"
     }
   ]
 }
