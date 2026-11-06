@@ -172,6 +172,34 @@ For the image:
 * [`CompositeSynthetic`](https://cv.iptc.org/newscodes/digitalsourcetype/compositeSynthetic): The image is a composite that includes synthetic elements.
 * [`AlgorithmicMedia`](https://cv.iptc.org/newscodes/digitalsourcetype/algorithmicMedia): The image was created purely by an algorithm not based on any sampled training data (for example, an image created by software using a mathematical formula).
 
+### [Video Link `[video_link]`](https://support.google.com/merchants/answer/15216925)
+
+Additional link to show a video of your product. **Optional** Example
+`https://example.com/video1.mpg` Syntax URL (Must start with "http://" or "https://") Up to 2000 characters Schema.org property: No |  For the video link URL:
+
+* All video links must use a video URL, starting with “http://” or “https://”.
+* Replace any special characters in video URLs with their URL-encoded equivalents. For example, replace commas with %2C. Refer to a URL encoding reference for a complete list.
+* If you’re not using a YouTube URL, the URL must point directly to a raw video file. It should not be a link to a landing page that contains the video player.
+* The video URL must be publicly accessible on the web. Googlebot must be able to access videos publicly without requiring logins or special permissions and with no restrictions in robots.txt.
+
+For the video format
+
+* Video length should be a minimum of 6 seconds and maximum of 240 seconds.
+* The video file must be within the maximum file size of 500 MB.
+* The aspect ratio of the video should be 9:16, 16:9, or 1:1.
+* Use videos with at least a resolution of 720p (1280x720).
+* The video must be in a supported file format (.MPG, .MP4, .WMV, .AVI, .MOV and .FLV .MPEG-1, .MPEGPS).
+
+For the video content:
+
+* Videos should not be of low resolution, blurry, or out of focus.
+* Videos should not have black bars on the top, bottom, or on the sides of the video.
+* Sound is optional.
+
+Ownership and Accessibility:
+
+* Merchants must own the content licensing rights for marketing purposes ads. No payment to creators will be made through Google. Any compensation must be handled between the brand and creator directly.
+
 ### 3D model link `[virtual_model_link]`
 
 **Optional** (available only in the US) Additional link to show a 3D model of your product. Learn more about the [3D model link `[virtual_model_link]`](https://support.google.com/merchants/answer/13674896)attribute. **Example** `https://www.google.com/products/xyz.glb` **Syntax**

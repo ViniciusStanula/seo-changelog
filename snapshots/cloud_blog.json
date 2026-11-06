@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-11-06T13:51:37.752089+00:00",
+  "fetched_at": "2026-11-06T22:35:52.026191+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
+      "link": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
+      "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
+      "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
+      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/",
+      "title": "Zero-shot predictions in Pandas using the new BigQuery Accessor",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/",
+      "published": "Fri, 06 Nov 2026 08:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/",
+      "title": "Bringing conversational analytics to Gemini with Agentic Data Cloud connectors",
+      "link": "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/",
+      "published": "Thu, 05 Nov 2026 23:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
       "title": "Semantic aggregation over millions of rows in BigQuery with AI.AGG",
@@ -90,36 +120,6 @@
       "title": "Five rules for evaluating agent skills before they bloat your context window",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/",
       "published": "Tue, 03 Nov 2026 08:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
-      "title": "Introducing Physical-Engineering’s Last Exam for agents",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/",
-      "published": "Tue, 03 Nov 2026 08:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
-      "title": "Google Cloud Developer plugin now available in Antigravity Marketplace",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace/",
-      "published": "Mon, 02 Nov 2026 18:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk/",
-      "title": "Beyond Migration: Using Database Migration Service for disk shrinking",
-      "link": "https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk/",
-      "published": "Mon, 02 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "title": "What Google Cloud announced in AI this month",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-      "published": "Mon, 02 Nov 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
-      "title": "Shutting the Door on the XCPE Botnet",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
-      "published": "Mon, 02 Nov 2026 14:00:00 +0000"
     }
   ]
 }
