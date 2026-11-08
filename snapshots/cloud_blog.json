@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T21:16:04.445468+00:00",
+  "fetched_at": "2026-11-08T12:52:51.231226+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
@@ -8,15 +8,15 @@
       "published": "Fri, 06 Nov 2026 17:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
-      "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
-      "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
-      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
       "title": "The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot",
       "link": "https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/",
+      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
+      "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
+      "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
       "published": "Fri, 06 Nov 2026 17:00:00 +0000"
     },
     {
@@ -32,15 +32,9 @@
       "published": "Thu, 05 Nov 2026 23:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
-      "title": "Semantic aggregation over millions of rows in BigQuery with AI.AGG",
-      "link": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
-      "published": "Thu, 05 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
-      "title": "Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
+      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "title": "What’s new with Google Data Cloud",
+      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "published": "Thu, 05 Nov 2026 17:00:00 +0000"
     },
     {
@@ -50,9 +44,15 @@
       "published": "Thu, 05 Nov 2026 17:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
+      "id": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
+      "title": "Semantic aggregation over millions of rows in BigQuery with AI.AGG",
+      "link": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
+      "published": "Thu, 05 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
+      "title": "Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
       "published": "Thu, 05 Nov 2026 17:00:00 +0000"
     },
     {
