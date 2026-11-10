@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-11-09T15:26:10.414284+00:00",
+  "fetched_at": "2026-11-10T01:01:19.219487+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
+      "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
+      "published": "Tue, 10 Nov 2026 01:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
+      "title": "New survey finds enterprises trapped between legacy software and AI modernization",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
+      "published": "Mon, 09 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
+      "title": "Cloud CISO Perspectives: Our security forecast for 2027",
+      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
+      "published": "Mon, 09 Nov 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/",
       "title": "Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU",
@@ -102,24 +120,6 @@
       "title": "Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
       "published": "Wed, 04 Nov 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/",
-      "title": "New capabilities to power agents at scale with Google's Agentic Data Cloud",
-      "link": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud/",
-      "published": "Wed, 04 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/",
-      "title": "Unify operational and Lakehouse data with direct Iceberg access in AlloyDB for PostgreSQL",
-      "link": "https://cloud.google.com/blog/products/databases/direct-iceberg-access-in-alloydb/",
-      "published": "Wed, 04 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
-      "title": "AlloyDB Express: Instant, scale-to-zero PostgreSQL for developers and coding agents",
-      "link": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping/",
-      "published": "Wed, 04 Nov 2026 14:00:00 +0000"
     }
   ]
 }

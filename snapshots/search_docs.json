@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-09T15:26:03.425625+00:00",
+  "fetched_at": "2026-11-10T01:01:11.970289+00:00",
   "entries": [
+    {
+      "id": "2026-11-09-Added-\"things-to-do\"-query-support-to-the-aggregator-and-supplier-units",
+      "title": "Added \"things to do\" query support to the aggregator and supplier units",
+      "link": "https://developers.google.com/search/updates#november-2026",
+      "published": "Mon, 09 Nov 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-10-26-Updated-guidance-on-preventing-user-generated-spam",
       "title": "Updated guidance on preventing user-generated spam",
