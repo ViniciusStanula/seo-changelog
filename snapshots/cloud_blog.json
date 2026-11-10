@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-10T01:01:19.219487+00:00",
+  "fetched_at": "2026-11-10T14:27:47.850181+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
+      "title": "Introducing Gemini for healthcare",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
+      "published": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
       "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents",
@@ -114,12 +120,6 @@
       "title": "Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot",
       "link": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
       "published": "Wed, 04 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
-      "title": "Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-compute-engine-api-multi-versioning-predictable-evolution-without-breaking-production/",
-      "published": "Wed, 04 Nov 2026 16:00:00 +0000"
     }
   ]
 }
