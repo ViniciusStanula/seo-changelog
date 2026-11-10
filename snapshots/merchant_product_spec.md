@@ -1563,7 +1563,7 @@ Label used to assign the correct return policy as defined in Merchant Center acc
 * Oversize
 * FinalSale
 
-### Related Links:
+### Related links
 
 * [Shopping ads policies](https://support.google.com/merchants/answer/6149970)
 * [Submit attributes and attribute values](https://support.google.com/merchants/answer/10668075)

@@ -1,10 +1,40 @@
 {
-  "fetched_at": "2026-11-10T14:27:47.850181+00:00",
+  "fetched_at": "2026-11-10T22:41:38.758447+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
+      "title": "Inside the Gemini factory: Accelerating partner solutions",
+      "link": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
+      "published": "Tue, 10 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
+      "title": "BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
+      "published": "Tue, 10 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
+      "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
+      "link": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
+      "published": "Tue, 10 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
+      "title": "Experimenting with ClusterNetworkPolicy in GKE",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
+      "published": "Tue, 10 Nov 2026 16:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
       "title": "Introducing Gemini for healthcare",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
+      "published": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
+      "title": "The Blueprint: How Authentic Brands Group expands creativity with AuthOS",
+      "link": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
       "published": "Tue, 10 Nov 2026 12:00:00 +0000"
     },
     {
@@ -32,12 +62,6 @@
       "published": "Mon, 09 Nov 2026 13:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
-      "title": "Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
-      "published": "Mon, 09 Nov 2026 13:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
       "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
@@ -47,6 +71,12 @@
       "id": "https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/",
       "title": "Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA",
       "link": "https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/",
+      "published": "Mon, 09 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
+      "title": "GKE dynamic slicing for higher resilience, and efficiency for TPUs",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/",
       "published": "Mon, 09 Nov 2026 13:00:00 +0000"
     },
     {
@@ -90,36 +120,6 @@
       "title": "Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
       "published": "Thu, 05 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor/",
-      "title": "Building an agent skill optimizer with AlphaEvolve, Harbor and Gemini 4 Argon",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor/",
-      "published": "Thu, 05 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Thu, 05 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf/",
-      "title": "Powering open infrastructure for autonomous agents",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf/",
-      "published": "Thu, 05 Nov 2026 12:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
-      "title": "Helping you build and defend at machine-speed in the agentic era",
-      "link": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era/",
-      "published": "Wed, 04 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
-      "title": "Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot",
-      "link": "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot/",
-      "published": "Wed, 04 Nov 2026 17:00:00 +0000"
     }
   ]
 }
