@@ -1,16 +1,10 @@
 {
-  "fetched_at": "2026-11-10T22:41:38.758447+00:00",
+  "fetched_at": "2026-11-11T13:41:45.376865+00:00",
   "entries": [
     {
       "id": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
       "title": "Inside the Gemini factory: Accelerating partner solutions",
       "link": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
-      "published": "Tue, 10 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
-      "title": "BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
       "published": "Tue, 10 Nov 2026 17:00:00 +0000"
     },
     {
@@ -20,21 +14,27 @@
       "published": "Tue, 10 Nov 2026 17:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
+      "title": "BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy",
+      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
+      "published": "Tue, 10 Nov 2026 17:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
       "title": "Experimenting with ClusterNetworkPolicy in GKE",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
       "published": "Tue, 10 Nov 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
-      "title": "Introducing Gemini for healthcare",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
-      "published": "Tue, 10 Nov 2026 12:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
       "title": "The Blueprint: How Authentic Brands Group expands creativity with AuthOS",
       "link": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
+      "published": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
+      "title": "Introducing Gemini for healthcare",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
       "published": "Tue, 10 Nov 2026 12:00:00 +0000"
     },
     {

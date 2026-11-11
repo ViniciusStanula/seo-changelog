@@ -1250,81 +1250,85 @@ DE **Syntax**
 
 These attributes can be used together with the account shipping settings and return settings to help you provide accurate shipping and return costs. People who are shopping online rely on shipping costs and speeds, as well as return policies, to help them make choices about what to buy, so it's important to take the time to submit quality information.
 
-Attribute and format | Minimum requirements at a glance
+**Attribute and format** | **Minimum requirements at a glance**
 ---|---
-[Shipping `[shipping]`](https://support.google.com/merchants/answer/12471847) Your product's shipping cost, shipping speeds, and the locations your product ships to **It depends** **Shipping costs are required** for Shopping ads and free listings for the following countries: Australia, Austria, Belgium, Canada, Czechia, France, Germany, India, Ireland, Israel, Italy, New Zealand, Japan, the Netherlands, Poland, Romania, South Korea, Spain, Switzerland, the UK, and the US You may also be required to provide shipping costs based on local laws or regulations. **Optional** (to specify additional countries your product ships to or destinations where shipping costs are not required) **Supported prices**
-0–1000 USD ([check for other currencies](https://support.google.com/merchants/answer/6324484#format)) **Example**
-`US:CA:Overnight:16.00 USD:1:1:2:3` **Syntax**
-This attribute uses the following sub-attributes:
+
+### Shipping `[shipping]`
+
+**It depends** **Shipping costs are required for Shopping ads and free listings for the following countries** : Australia, Austria, Belgium, Canada, Czechia, France, Germany, India, Ireland, Israel, Italy, New Zealand, Japan, the Netherlands, Poland, Romania, South Korea, Spain, Switzerland, the UK, and the US You may also be required to provide shipping costs based on local laws or regulations. **Optional** (to specify additional countries your product ships to or destinations where shipping costs are not required) Your product's shipping cost, shipping speeds, and the locations your product ships to. Learn more about the [Shipping`[shipping]`](https://support.google.com/merchants/answer/12471847) attribute. **Supported prices** 0–1000 USD ([check for other currencies](https://support.google.com/merchants/answer/6324484#format)) **Example** `US:CA:Overnight:16.00 USD:1:1:2:3` **Syntax** This attribute uses the following sub-attributes:
 
 * **Country`[country]` (Required)**
-* ISO 3166 country code
+* **ISO 3166 country code**
 * **Region`[region]`(Optional)**
 * **Postal code`[postal_code]`(Optional)**
 * **Location ID`[location_id]` (Optional)**
 * **Location group name`[location_group_name]` (Optional)**
 * **Service`[service]` (Optional)**
-* Service class or shipping speed
-* [Price](https://support.google.com/merchants/answer/12471842)**`[price]` (Optional)**
-* Fixed shipping cost, including VAT if required
-* [Minimum handling time](https://support.google.com/merchants/answer/12472338)**`[min_handling_time]` **and****[maximum handling time](https://support.google.com/merchants/answer/12472338)**`[max_handling_time]` (Optional)**
-* To specify handling time
-* **Minimum transit time` [min_transit_time]`** and **maximum transit time`[max_transit_time]`** (Optional)
-* To specify transit time
-* [Shipping transit business days](https://support.google.com/merchants/answer/16072858)**`[shipping_transit_business_days]`(Optional)**
-* [Shipping handling business days](https://support.google.com/merchants/answer/16072859)**`[shipping_handling_business_days]`(Optional)**
-* [Loyalty program label](https://support.google.com/merchants/answer/12922446)**`[loyalty_program_label]`(Optional)**
-* [Loyalty program tier label](https://support.google.com/merchants/answer/12922446)**`[loyalty_tier_label]`(Optional)**
+* **Service class or shipping speed**
+* **[Price`[price]` ](https://support.google.com/merchants/answer/12471842)(Optional)**
+* **Fixed shipping cost, including VAT if required**
+* **[Minimum handling time` [min_handling_time]`](https://support.google.com/merchants/answer/12472338)and [maximum handling time `[max_handling_time]`](https://support.google.com/merchants/answer/12472338) (Optional)**
+* **To specify handling time**
+* **Minimum transit time` [min_transit_time]` and maximum transit time `[max_transit_time]` (Optional)**
+* **To specify transit time**
+* **[Shipping transit business days`[shipping_transit_business_days]`](https://support.google.com/merchants/answer/16072858)(Optional)**
+* **[Shipping handling business days`[shipping_handling_business_days]`](https://support.google.com/merchants/answer/16072859)(Optional)**
+* **[Loyalty program label`[loyalty_program_label]`](https://support.google.com/merchants/answer/12922446)(Optional)**
+* **[Loyalty program tier label`[loyalty_tier_label]`](https://support.google.com/merchants/answer/12922446)(Optional)**
 
-**Schema.org property:**`Yes `(Learn more about [Merchant listing (Product, Offer) structured data](https://developers.google.com/search/docs/appearance/structured-data/merchant-listing) on Google Search Central) |
+**Schema.org property:** `Yes `(Learn more about [Merchant listing (Product, Offer) structured data](https://developers.google.com/search/docs/appearance/structured-data/merchant-listing) on Google Search Central) |
 
 * Use this setting when shipping costs for your product are not defined in your Merchant Center account or when you need to override shipping costs or speeds defined in your Merchant Center account.
 * **Don't include government- imposed fees** such as import duties, recycling fees, copyright fees, or state-specific retail delivery fees in the shipping cost.
 * **Include all additional fees that you charge as a merchant if they are not included in the product price**. Include the charges that aren't directly related to shipping but relevant for the purchase during checkout. For example, service, processing, activation, and handling fees that you charge.
 
-[Carrier shipping `[carrier_shipping]`](https://support.google.com/merchants/answer/15449142) Shipping services you use when delivering a product. **Optional** **Example** `US:80302:USPS_MEDIA_MAIL:1:3:2:5` **Syntax** This attribute uses the following sub-attributes:
+### Carrier shipping `[carrier_shipping]`
 
-* **Country`[country]` (Required)**
+**Optional** Shipping services you use when delivering a product. Learn more about the [Carrier shipping `[carrier_shipping]`](https://support.google.com/merchants/answer/15449142)attribute. **Example** `US:80302:USPS_MEDIA_MAIL:1:3:2:5` **Syntax** This attribute uses the following sub-attributes:
+
+* **Country**`**[country]**`**(Required)**
 * ISO 3166 country code
-* **Region`[region]` (Optional)**
-* **Postal code`[postal_code]` (Optional)**
-* **Origin Postal code`[origin_postal_code] `(Required)**
+* **Region**`**[region]**`**(Optional)**
+* **Postal code**`**[postal_code]**`**(Optional)**
+* **Origin Postal code**`**[origin_postal_code]**`**(Required)**
 * The domestic ZIP postal code. For the UK use outward code.
-* **Location ID`[location_id]` (Optional)**
-* **Shipping Price (Required)**
-Choose only one from below:
-* **Manual Price`[flat_price]`**
-* **Carrier price`[carrier_price]`**
-* **Flat price adjustment`[carrier_price_flat_adjustment]`** and **Percentage price adjustment`[carrier_price_percentage_adjustment]` (Optional)**
+* **Location ID**`**[location_id]**`**(Optional)**
+* **Shipping Price (Required)** Choose only one from below:
+* Manual Price `[flat_price]`
+* Carrier price `[carrier_price]`
+* **Flat price adjustment**`**[carrier_price_flat_adjustment]**`**and Percentage price adjustment**`**[carrier_price_percentage_adjustment]**`**(Optional)**
 * To specify carrier rate discounts or added fees
-* **Minimum handling time`[min_handling_time]`** and **maximum handling time`[max_handling_time]` (Optional)**
+* **Minimum handling time**`**[min_handling_time]**`**and maximum handling time**`**[max_handling_time]**`**(Optional)**
 * To specify handling time
-* **Shipping transit time (Optional)**
-Choose only from from below:
-* **Fixed transit time**
-* **Minimum transit time`[fixed_min_transit_time]`, maximum transit time `[fixed_max_transit_time]`(Optional)**
-* **Carrier transit time`[carrier_transit_time]`**
-* **Loyalty program label`[loyalty_program_label]`(Optional)**
-* **Loyalty program tier label`[loyalty_tier_label]`(Optional)**
+* Shipping transit time (Optional) Choose only from from below:
+* Fixed transit time
+* **Minimum transit time**`**[fixed_min_transit_time]**`**, maximum transit time**`**[fixed_max_transit_time]**`**(Optional)**
+* **Carrier transit time**`**[carrier_transit_time]**`
+* **Loyalty program label**`**[loyalty_program_label]**`**(Optional)**
+* **Loyalty program tier label**`**[loyalty_tier_label]**`**(Optional)**
 
 **Schema.org property** : No |
 
 * **For general delivery details, use account settings in Merchant Center**. Use this setting only as a last resort.
 * **Don't include government- imposed fees** such as import duties, recycling fees, copyright fees, or state-specific retail delivery fees in the shipping cost.
 
-[Handling cutoff time `[handling_cutoff_time]`](https://support.google.com/merchants/answer/16543665) Daily deadline for processing online orders **Optional** **Example** `US:16.00 USD` **Syntax** This attribute uses the following sub-attributes:
+### Handling cutoff time `[handling_cutoff_time]`
 
-* **Country`[country]` (Optional)**: [ISO_3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country code
-* **Cutoff time`[cutoff_time]` (Required)**: time of day by which an order must be placed to be processed on that same business day.
-* **Cutoff timezone`[cutoff_timezone]` (Optional)**: Timezone for the specified cutoff_time in [IANA Timezone](https://en.wikipedia.org/wiki/Tz_database) format (for example, “America/Los_Angeles”. If not provided, the system will default to the timezone of the shipping destination.
-* **Disable delivery after cutoff`[disable_delivery_after_cutoff]`(Optional)**: This boolean setting controls the visibility of delivery options after the cutoff time has passed. Default=False
+**Optional** Daily deadline for processing online orders. Learn more about the [Handling cutoff time `[handling_cutoff_time]`](https://support.google.com/merchants/answer/16543665)attribute. **Example** `US:16.00 USD` **Syntax** This attribute uses the following sub-attributes:
+
+* **Country**`**[country]**`**(Optional)** : [ISO_3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country code
+* **Cutoff time**`**[cutoff_time]**`**(Required)** : time of day by which an order must be placed to be processed on that same business day.
+* **Cutoff timezone**`**[cutoff_timezone]**`**(Optional)** : Timezone for the specified cutoff_time in [IANA Timezone](https://en.wikipedia.org/wiki/Tz_database) format (for example, "America/Los_Angeles". If not provided, the system will default to the timezone of the shipping destination.
+* **Disable delivery after cutoff**`**[disable_delivery_after_cutoff]**`**(Optional)** : This boolean setting controls the visibility of delivery options after the cutoff time has passed. Default=False
 
 **Schema.org property** : No |
 
 * Use 24-hour format for cutoff time. Specify "23:59" for no cutoff time.
 * Specify Cutoff timezone` [cutoff_timezone]` for a cutoff time based on the shipping origin's timezone (for example, a warehouse). If not specified the user's (destination) timezone is used.
 
-[Minimum order value `[minimum_order_value]`](https://support.google.com/merchants/answer/16989009) Minimum spend required for an order including this product. **Optional** **Example** `US:16.00 USD` **Syntax** This attribute uses the following sub-attributes:
+### Minimum order value `[minimum_order_value]`
+
+**Optional** Minimum spend required for an order including this product. Learn more about the [Minimum order value `[minimum_order_value]`](https://support.google.com/merchants/answer/16989009)attribute. **Example** `US:16.00 USD` **Syntax** This attribute uses the following sub-attributes:
 
 * **Country**`**[country]**`**(Required)**
 * [ISO_3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country code
@@ -1341,21 +1345,23 @@ Choose only from from below:
 * The currency must be in the ISO 4217 format. For example, USD for US dollars.
 * The decimal point must be a period (.). For example, 10.00 USD.
 
-[Shipping label` [shipping_label]`](https://support.google.com/merchants/answer/6324504) Label that you assign to a product to help assign correct shipping times and transit costs in Merchant Center account settings **Optional** **Example** perishable **Syntax** Max 100 characters **Schema.org property** : No |
+### Shipping label` [shipping_label]`
+
+**Optional** Label that you assign to a product to help assign correct shipping times and transit costs in Merchant Center account settings. Learn more about the [Shipping label` [shipping_label]`](https://support.google.com/merchants/answer/6324504)attribute. **Example** perishable **Syntax** Max 100 characters **Schema.org property** : No |
 
 * Use a value that you'll recognize in your account shipping settings. The value won't be shown to customers. Examples:
 * Sameday
 * Oversize
 * Only FedEx
 
-[Shipping weight `[shipping_weight]`](https://support.google.com/merchants/answer/12472551) The weight of the product used to calculate the shipping cost **Optional** (Required for carrier-calculated rates in your account shipping settings) **Supported weights**
+### Shipping weight `[shipping_weight]`
+
+**Optional** (Required for carrier-calculated rates in your account shipping settings) The weight of the product used to calculate the shipping cost. Learn more about the [Shipping weight `[shipping_weight]`](https://support.google.com/merchants/answer/12472551)attribute. **Supported weights**
 
 * 0–2000 lbs for imperial
 * 0–1000 kgs for metric
 
-**Example**
-`3 kg` **Syntax**
-Number + unit **Supported units**
+**Example** `3 kg` **Syntax** Number + unit **Supported units**
 
 * `lb`
 * `oz`
@@ -1366,9 +1372,9 @@ Number + unit **Supported units**
 
 * Submit this value if you set up account shipping settings for carrier-calculated rates or weight-based shipping services
 
-[Shipping length `[shipping_length]`](https://support.google.com/merchants/answer/12472832) The length of the product used to calculate the shipping cost by dimensional weight **Optional** (Required for carrier-calculated rates in your account shipping settings) **Example**
-`20 in` **Syntax**
-Number + unit **Supported values**
+### Shipping length `[shipping_length]`
+
+**Optional** (Required for carrier-calculated rates in your account shipping settings) The length of the product used to calculate the shipping cost by dimensional weight. Learn more about the [Shipping length `[shipping_length]`](https://support.google.com/merchants/answer/12472832)attribute. **Example** `20 in` **Syntax** Number + unit **Supported values**
 
 * 1 - 150 for inches
 * 1 - 400 for cm
@@ -1389,9 +1395,9 @@ Number + unit **Supported values**
 * Use the same unit for all shipping dimension attributes that apply to a single product.
 * Google doesn't automatically calculate additional shipping cost for oversized products. If your package would be considered large or oversized by your carrier, you should use the shipping `[shipping]` attribute to set shipping cost for an individual product.
 
-[Shipping width `[shipping_width]`](https://support.google.com/merchants/answer/12472832) The width of the product used to calculate the shipping cost by dimensional weight **Optional** (Required for carrier-calculated rates in your account shipping settings) **Example**
-`20 in` **Syntax**
-Number + unit **Supported values**
+### Shipping width `[shipping_width]`
+
+**Optional** (Required for carrier-calculated rates in your account shipping settings) The width of the product used to calculate the shipping cost by dimensional weight. Learn more about the [Shipping width `[shipping_width]`](https://support.google.com/merchants/answer/12472832)attribute. **Example** `20 in` **Syntax** Number + unit **Supported values**
 
 * 1 - 150 for inches
 * 1 - 400 for cm
@@ -1405,9 +1411,9 @@ Number + unit **Supported values**
 
 * Meet the requirements for the shipping length `[shipping_length]` attribute.
 
-[Shipping height `[shipping_height]`](https://support.google.com/merchants/answer/12472832) The height of the product used to calculate the shipping cost by dimensional weight **Optional** (Required for carrier-calculated rates in your account shipping settings) **Example**
-`20 in` **Syntax**
-Number + unit **Supported values**
+### Shipping height `[shipping_height]`
+
+**Optional** (Required for carrier-calculated rates in your account shipping settings) The height of the product used to calculate the shipping cost by dimensional weight. Learn more about the [Shipping height `[shipping_height]`](https://support.google.com/merchants/answer/12472832)attribute. **Example** `20 in` **Syntax** Number + unit **Supported values**
 
 * 1 - 150 for inches
 * 1 - 400 for cm
@@ -1421,33 +1427,34 @@ Number + unit **Supported values**
 
 * Meet the requirements for the shipping length `[shipping_length]` attribute.
 
-[Ships from country `[ships_from_country]`](https://support.google.com/merchants/answer/9837936) A setting that allows you to provide the country from which your product will typically ship ******Optional** **Example**
-`DE` **Syntax**
-2 characters. Must be an [ISO_3166-1_alpha-2 ](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)country code. **Schema.org property** : No |
+### Ships from country `[ships_from_country]`
+
+**Optional** A setting that allows you to provide the country from which your product will typically ship. Learn more about the [Ships from country `[ships_from_country]`](https://support.google.com/merchants/answer/9837936)attribute. **Example** `DE` **Syntax** 2 characters. Must be an [ISO_3166-1_alpha-2 ](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)country code. **Schema.org property** : No |
 
 * Provide only the country from which you typically ship this product.
 
-[Maximum handling time `[max_handling_time]`](https://support.google.com/merchants/answer/12472338) The longest amount of time between when an order is placed for a product and when the product ships **Optional** **Example**
-3 **Syntax**
-Integer, greater than or equal to 0 **Schema.org property** : No |
+### Maximum handling time `[max_handling_time]`
+
+**Optional** The longest amount of time between when an order is placed for a product and when the product ships. Learn more about the [Maximum handling time `[max_handling_time]`](https://support.google.com/merchants/answer/12472338)attribute. **Example** `3` **Syntax** Integer, greater than or equal to 0 **Schema.org property** : No |
 
 * Submit this attribute if you want to display the overall time it takes for a product to arrive at its destination.
 * Submit the number of business days (as configured in Merchant Center).
 * For products ready to be shipped the same day, submit 0.
 * For submitting a time range submit maximum handling time `[max_handling_time]` in combination with minimum handling time `[min_handling_time]`.
 
-[Minimum handling time `[min_handling_time]`](https://support.google.com/merchants/answer/12472338) The shortest amount of time between when an order is placed for a product and when the product ships **Optional** **Example**
-1 **Syntax**
-Integer, greater than or equal to 0 **Schema.org property** : No |
+### Minimum handling time `[min_handling_time]`
+
+**Optional** The shortest amount of time between when an order is placed for a product and when the product ships. Learn more about the [Minimum handling time `[min_handling_time]`](https://support.google.com/merchants/answer/12472338)attribute. **Example** `1` **Syntax** Integer, greater than or equal to 0 **Schema.org property** : No |
 
 * Meet the requirements for the maximum handling time `[max_handling_time]` attribute.
 
-[Shipping transit business days `[shipping_transit_business_days]`](https://support.google.com/merchants/answer/16072858) Days of the week that your product is in transit when shipped to a customer. **Optional** **Example** `Mon-Fri;Sun
-US:Mon-Sat` **Syntax** This attribute uses the following sub-attributes:
+### Shipping transit business days `[shipping_transit_business_days]`
 
-* **Country`[country]` (Required)**
+**Optional** Days of the week that your product is in transit when shipped to a customer. Learn more about the [Shipping transit business days `[shipping_transit_business_days]`](https://support.google.com/merchants/answer/16072858)attribute. **Example** `Mon-Fri;Sun US:Mon-Sat` **Syntax** This attribute uses the following sub-attributes:
+
+* **Country**`**[country]**`**(Required)**
 * ISO 3166 country code
-* **Business Days`[business_days]` (Required)**
+* **Business Days**`**[business_days]**`**(Required)**
 * Semicolon separated attributes for each day of the week, or a range of days separated by a dash.
 
 **Supported values**
@@ -1463,12 +1470,12 @@ US:Mon-Sat` **Syntax** This attribute uses the following sub-attributes:
 **Schema.org property** : No |
 
 * Submit this attribute with Shipping handling days `[shipping_handling_business_days]` to calculate shipment delivery.
-* Defaults to `Mon-Sat` when not filled.
-Configuration applies to all countries when not specified.
-* A maximum of **10** **transit business day** configurations are allowed.
+* Defaults to `Mon-Sat` when not filled. Configuration applies to all countries when not specified.
+* A maximum of 10 transit business day configurations are allowed.
 
-[Shipping handling business days `[shipping_handling_business_days]`](https://support.google.com/merchants/answer/16072859) Days of the week that your business is operational. Use this to help calculate handling time. **Optional** **Example** `Mon-Fri;U
-US:Tue-Fri;Sun` **Syntax** Semicolon separated attributes for each day of the week, or a range of days separated by a dash. **Supported values**
+### Shipping handling business days `[shipping_handling_business_days]`
+
+**Optional** Days of the week that your business is operational. Use this to help calculate handling time. Learn more about the [Shipping handling business days`[shipping_handling_business_days]`](https://support.google.com/merchants/answer/16072859)attribute. **Example** `Mon-Fri;U US:Tue-Fri;Sun` **Syntax** Semicolon separated attributes for each day of the week, or a range of days separated by a dash. **Supported values**
 
 * `M, Mon, Monday` for Monday
 * `T, Tue, Tuesday` for Tuesday
@@ -1482,15 +1489,15 @@ US:Tue-Fri;Sun` **Syntax** Semicolon separated attributes for each day of the we
 
 * Submit this attribute if you want to customize your business operational days for handling time.
 * Defaults to `Mon-Sat` when not filled.
-* A maximum of **10** **handling business days** configurations are allowed.
+* A maximum of 10 handling business days configurations are allowed.
 
-[Free shipping threshold `[free_shipping_threshold]`](https://support.google.com/merchants/answer/14768922) Order cost above which shipping is free. **Optional** **Example**
-`US:16.00 USD` **Syntax**
-This attribute uses the following sub-attributes:
+### Free shipping threshold `[free_shipping_threshold]`
 
-* **Country`[country]` (Required)**
+**Optional** Order cost above which shipping is free. Learn more about the [Free shipping threshold `[free_shipping_threshold]`](https://support.google.com/merchants/answer/14768922)attribute. **Example** `US:16.00 USD` **Syntax** This attribute uses the following sub-attributes:
+
+* **Country**`**[country]**`**(Required)**
 * ISO 3166 country code
-* **Price threshold`[price_threshold]` (Required)**
+* **Price threshold**`**[price_threshold]**`**(Required)**
 * Order cost above which shipping is free.
 
 **Schema.org property** : No |
@@ -1499,45 +1506,47 @@ This attribute uses the following sub-attributes:
 * The currency must be in the ISO 4217 format. For example, USD for US dollars.
 * The decimal point must be a period (.). For example, 10.00 USD.
 
-[Return`[return]`](https://support.google.com/merchants/answer/17081382) Used to configure your return policy at the product level. **Optional** (Strongly recommended for each product) **Example** `US:90:IN_STORE:BY_MAIL:REFUND:EXCHANGE` **Syntax** This attribute uses the following sub-attributes:
+### Return`[return]`
 
-* **Country`[country]` (Required)**
+**Optional** (Strongly recommended for each product) Used to configure your return policy at the product level. Learn more about the [Return `[return]`](https://support.google.com/merchants/answer/17081382)attribute. **Example** `US:90:IN_STORE:BY_MAIL:REFUND:EXCHANGE` **Syntax** This attribute uses the following sub-attributes:
+
+* **Country**`**[country]**`**(Required)**
 * [ISO_3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country code
-* **Item condition`[item_condition]` (Required)**: The condition of the product that’s accepted for return.
+* **Item condition**`**[item_condition]**`**(Required)** : The condition of the product that’s accepted for return.
 * Supported values:
 * `NEW`
 * `LIKE_NEW`
 * `USED`
 * `DEFECTIVE_ONLY`
-* **Window days`[window_days]` (Optional, Required if `[window_type]` is `FINITE_RETURN_WINDOW`)**
-* **Window type`[window_type]` (Optional)**
+* **Window days**`**[window_days]**`**(Optional, Required if**`**[window_type]**`**is**`**FINITE_RETURN_WINDOW**`**)**
+* **Window type**`**[window_type]**`**(Optional)**
 * Supported values:
-* `FINITE_RETURN_WINDOW`
-* `NO_RETURNS`
-* `LIFETIME`
+* FINITE_RETURN_WINDOW
+* NO_RETURNS
+* LIFETIME
 * Default is `FINITE_RETURN_WINDOW`.
-* **Method`[method]` (Required)**
+* **Method**`**[method]**`**(Required)**
 * Supported values:
-* `BY_MAIL`
-* `IN_STORE`
-* `AT_A_KIOSK`
-* `DROP_OFF_LOCATION`
-* **Outcome`[outcome]` (Optional)**: The outcome of the return.
+* BY_MAIL
+* IN_STORE
+* AT_A_KIOSK
+* DROP_OFF_LOCATION
+* **Outcome**`**[outcome]**`**(Optional)** : The outcome of the return.
 * Supported values:
-* `REFUND`
-* `EXCHANGE`
-* `STORE_CREDIT`
-* **Shipping fee`[shipping_fee]` (Required)**
+* REFUND
+* EXCHANGE
+* STORE_CREDIT
+* **Shipping fee**`**[shipping_fee]**`**(Required)**
 * Default return shipping cost is 0.
-* **Shipping fee type`[shipping_fee_type]` (Optional, Required** **if** **`[shipping_fee]` is submitted)**
+* **Shipping fee type**`**[shipping_fee_type]**`**(Optional, Required if**`**[shipping_fee]**`**is submitted)**
 * Supported values:
-* `DEDUCTED_FROM_REFUND`
-* `CUSTOMER_RESPONSIBILITY`
-* **Restocking fee`[restocking_fee]` (Optional)**
+* DEDUCTED_FROM_REFUND
+* CUSTOMER_RESPONSIBILITY
+* **Restocking fee**`**[restocking_fee]**`**(Optional)**
 * Submit only one of `restocking_fee `or `restocking_percentage_fee`.
 * Default restocking fee is 0.
-* **Restocking percentage fee`[restocking_percentage_fee]` (Optional)**: Submit only one of `restocking_fee` or `restocking_percentage_fee`.
-* **Policy url`[policy_url]` (Optional)**: The url linking the exact return policy for the product.
+* **Restocking percentage fee**`**[restocking_percentage_fee]**`**(Optional)** : Submit only one of `restocking_fee` or `restocking_percentage_fee`.
+* **Policy url**`**[policy_url]**`**(Optional)** : The url linking the exact return policy for the product.
 
 **Schema.org property** : No |
 
@@ -1552,13 +1561,13 @@ This attribute uses the following sub-attributes:
 5. Shipping fee `[shipping_fee]`
 * Use the Return`[return]`attribute sparingly. Use account-level return policies instead to manage the majority of your product catalog.
 
-[Return policy label `[return_policy_label]`](https://support.google.com/merchants/answer/9445425)
+### Return policy label `[return_policy_label]`
 
-Label used to assign the correct return policy as defined in Merchant Center account settings **Optional** **Example** `**my_label**` **Syntax** Max 100 characters **Schema.org property** : No |
+**Optional** Label used to assign the correct return policy as defined in Merchant Center account settings. Learn more about the [Return policy label `[return_policy_label]`](https://support.google.com/merchants/answer/9445425)attribute. **Example** `my_label` **Syntax** Max 100 characters **Schema.org property** : No |
 
 * Apply this attribute for products with non-standard return policies
 * If no value is provided, the default return policy you configured will be applied
-* Use a value that you assigned in your account return policies. The value won't be shown to customers. **Examples:**
+* Use a value that you assigned in your account return policies. The value won't be shown to customers. Examples:
 * Unlimited
 * Oversize
 * FinalSale
