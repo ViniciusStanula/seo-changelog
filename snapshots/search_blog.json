@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-11T13:41:36.491941+00:00",
+  "fetched_at": "2026-11-11T23:54:03.007060+00:00",
   "entries": [
+    {
+      "id": "2026-11-11-Moving-to-a-CDN-without-overwhelming-your-origin-(or-blocking-Googlebot)",
+      "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
+      "link": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
+      "published": "Wed, 11 Nov 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-11-04-Search-Central-Live-in-Zurich-is-back!",
       "title": "Search Central Live in Zurich is back!",
@@ -54,12 +60,6 @@
       "title": "Platform properties roll out globally, plus a new social and video performance guide",
       "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
       "published": "Wed, 29 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-07-07-See-how-content-from-social-and-video-platforms-performs-on-Google-Search",
-      "title": "See how content from social and video platforms performs on Google Search",
-      "link": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
-      "published": "Tue, 07 Jul 2026 00:00:00 +0000"
     }
   ]
 }

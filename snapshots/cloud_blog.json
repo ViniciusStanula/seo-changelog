@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-11-11T13:41:45.376865+00:00",
+  "fetched_at": "2026-11-11T23:54:11.766452+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/building-real-time-agents-for-ev-charging-using-gemma-and-tpus/",
+      "title": "How lemonflow built real-time agents for EV charging using Gemma and TPUs",
+      "link": "https://cloud.google.com/blog/topics/startups/building-real-time-agents-for-ev-charging-using-gemma-and-tpus/",
+      "published": "Wed, 11 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/",
+      "title": "Introducing new AI functions for AlloyDB: ai.classify and ai.extract",
+      "link": "https://cloud.google.com/blog/products/databases/ai-classify-and-ai-extract-functions-in-alloydb-ai/",
+      "published": "Wed, 11 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it/",
+      "title": "Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification",
+      "link": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it/",
+      "published": "Wed, 11 Nov 2026 17:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
       "title": "Inside the Gemini factory: Accelerating partner solutions",
@@ -26,15 +44,15 @@
       "published": "Tue, 10 Nov 2026 16:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
-      "title": "The Blueprint: How Authentic Brands Group expands creativity with AuthOS",
-      "link": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
-      "published": "Tue, 10 Nov 2026 12:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
       "title": "Introducing Gemini for healthcare",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
+      "published": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
+      "title": "The Blueprint: How Authentic Brands Group expands creativity with AuthOS",
+      "link": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
       "published": "Tue, 10 Nov 2026 12:00:00 +0000"
     },
     {
@@ -80,12 +98,6 @@
       "published": "Mon, 09 Nov 2026 13:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
       "title": "Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems",
       "link": "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/",
@@ -98,28 +110,16 @@
       "published": "Fri, 06 Nov 2026 17:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 06 Nov 2026 17:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/",
       "title": "Zero-shot predictions in Pandas using the new BigQuery Accessor",
       "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/",
       "published": "Fri, 06 Nov 2026 08:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/",
-      "title": "Bringing conversational analytics to Gemini with Agentic Data Cloud connectors",
-      "link": "https://cloud.google.com/blog/products/data-analytics/query-enterprise-data-in-gemini-with-data-cloud-connectors/",
-      "published": "Thu, 05 Nov 2026 23:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
-      "title": "Semantic aggregation over millions of rows in BigQuery with AI.AGG",
-      "link": "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/",
-      "published": "Thu, 05 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
-      "title": "Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/",
-      "published": "Thu, 05 Nov 2026 17:00:00 +0000"
     }
   ]
 }
