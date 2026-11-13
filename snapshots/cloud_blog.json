@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-11-13T14:02:57.492925+00:00",
+  "fetched_at": "2026-11-13T23:04:56.277045+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
+      "title": "New AI agent observability and governance across BigQuery and Looker",
+      "link": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
+      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/",
+      "title": "Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26",
+      "link": "https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/",
+      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
+      "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
+      "link": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
+      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/",
       "title": "Chrome Enterprise brings more protections to healthcare technologies",
@@ -14,12 +38,6 @@
       "published": "Thu, 12 Nov 2026 17:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
-      "title": "Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect",
-      "link": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
-      "published": "Thu, 12 Nov 2026 17:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
       "title": "What’s new with Google Data Cloud",
       "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
@@ -29,6 +47,12 @@
       "id": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
       "title": "Autonomous defense at cloud speed with SentinelOne and Google Security Operations",
       "link": "https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/",
+      "published": "Thu, 12 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
+      "title": "Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect",
+      "link": "https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/",
       "published": "Thu, 12 Nov 2026 17:00:00 +0000"
     },
     {
@@ -74,12 +98,6 @@
       "published": "Tue, 10 Nov 2026 17:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
-      "title": "Experimenting with ClusterNetworkPolicy in GKE",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
-      "published": "Tue, 10 Nov 2026 16:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
       "title": "Introducing Gemini for healthcare",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
@@ -92,34 +110,16 @@
       "published": "Tue, 10 Nov 2026 12:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
+      "title": "Experimenting with ClusterNetworkPolicy in GKE",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
+      "published": "Tue, 10 Nov 2026 07:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
       "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents",
       "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
       "published": "Tue, 10 Nov 2026 01:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
-      "title": "New survey finds enterprises trapped between legacy software and AI modernization",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization/",
-      "published": "Mon, 09 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
-      "title": "Cloud CISO Perspectives: Our security forecast for 2027",
-      "link": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-security-forecast-2027/",
-      "published": "Mon, 09 Nov 2026 16:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/",
-      "title": "Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/",
-      "published": "Mon, 09 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
-      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-      "link": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/",
-      "published": "Mon, 09 Nov 2026 13:00:00 +0000"
     }
   ]
 }

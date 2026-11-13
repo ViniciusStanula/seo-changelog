@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-13T14:02:50.533126+00:00",
+  "fetched_at": "2026-11-13T23:04:49.795191+00:00",
   "entries": [
+    {
+      "id": "2026-11-12-Added-documentation-on-identifying-traffic-from-Google-Search",
+      "title": "Added documentation on identifying traffic from Google Search",
+      "link": "https://developers.google.com/search/updates#november-2026",
+      "published": "Thu, 12 Nov 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-11-09-Added-\"things-to-do\"-query-support-to-the-aggregator-and-supplier-units",
       "title": "Added \"things to do\" query support to the aggregator and supplier units",
