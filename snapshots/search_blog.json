@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-15T22:20:05.283488+00:00",
+  "fetched_at": "2026-11-16T15:01:10.687320+00:00",
   "entries": [
+    {
+      "id": "2026-11-16-New-filtering-and-reporting-capabilities-in-the-Search-Analytics-API",
+      "title": "New filtering and reporting capabilities in the Search Analytics API",
+      "link": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
+      "published": "Mon, 16 Nov 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-11-11-Moving-to-a-CDN-without-overwhelming-your-origin-(or-blocking-Googlebot)",
       "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
@@ -54,12 +60,6 @@
       "title": "Update to the Site Reputation Policy",
       "link": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
       "published": "Fri, 28 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "id": "2026-07-29-Platform-properties-roll-out-globally,-plus-a-new-social-and-video-performance-guide",
-      "title": "Platform properties roll out globally, plus a new social and video performance guide",
-      "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
-      "published": "Wed, 29 Jul 2026 00:00:00 +0000"
     }
   ]
 }

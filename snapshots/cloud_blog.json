@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-11-15T22:20:19.137335+00:00",
+  "fetched_at": "2026-11-16T15:01:20.274242+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
+      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
+      "published": "Mon, 16 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/how-isvs-are-unlocking-european-workloads-on-google-cloud-dedicated/",
+      "title": "How ISVs are unlocking European workloads using Google Cloud Dedicated technology",
+      "link": "https://cloud.google.com/blog/products/identity-security/how-isvs-are-unlocking-european-workloads-on-google-cloud-dedicated/",
+      "published": "Mon, 16 Nov 2026 08:05:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/inside-the-new-data-boundary-experience/",
+      "title": "Inside the new Google Cloud Data Boundary experience",
+      "link": "https://cloud.google.com/blog/products/identity-security/inside-the-new-data-boundary-experience/",
+      "published": "Mon, 16 Nov 2026 08:05:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
       "title": "New AI agent observability and governance across BigQuery and Looker",
@@ -102,24 +120,6 @@
       "title": "Introducing Gemini for healthcare",
       "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
       "published": "Tue, 10 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
-      "title": "The Blueprint: How Authentic Brands Group expands creativity with AuthOS",
-      "link": "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos/",
-      "published": "Tue, 10 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
-      "title": "Experimenting with ClusterNetworkPolicy in GKE",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke/",
-      "published": "Tue, 10 Nov 2026 07:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
-      "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents/",
-      "published": "Tue, 10 Nov 2026 01:00:00 +0000"
     }
   ]
 }
