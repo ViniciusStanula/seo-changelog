@@ -1,11 +1,23 @@
 {
-  "fetched_at": "2026-11-16T15:01:20.274242+00:00",
+  "fetched_at": "2026-11-17T01:22:06.723152+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/storage-data-transfer/maximizing-ai-accelerator-roi-with-purpose-built-storage/",
+      "title": "Beyond the compute bottleneck: Maximizing the ROI of AI accelerators with purpose-built storage",
+      "link": "https://cloud.google.com/blog/products/storage-data-transfer/maximizing-ai-accelerator-roi-with-purpose-built-storage/",
+      "published": "Mon, 16 Nov 2026 17:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
       "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
       "published": "Mon, 16 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/2026-gartner-mq-cloud-operational-databases-management-systems/",
+      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud Operational Database Management Systems",
+      "link": "https://cloud.google.com/blog/products/databases/2026-gartner-mq-cloud-operational-databases-management-systems/",
+      "published": "Mon, 16 Nov 2026 08:30:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/identity-security/how-isvs-are-unlocking-european-workloads-on-google-cloud-dedicated/",
@@ -18,6 +30,12 @@
       "title": "Inside the new Google Cloud Data Boundary experience",
       "link": "https://cloud.google.com/blog/products/identity-security/inside-the-new-data-boundary-experience/",
       "published": "Mon, 16 Nov 2026 08:05:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
     },
     {
       "id": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
@@ -35,12 +53,6 @@
       "id": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
       "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
       "link": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
-      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 13 Nov 2026 17:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
       "link": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
       "published": "Tue, 10 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
-      "title": "BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy",
-      "link": "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/",
-      "published": "Tue, 10 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
-      "title": "Introducing Gemini for healthcare",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare/",
-      "published": "Tue, 10 Nov 2026 12:00:00 +0000"
     }
   ]
 }
