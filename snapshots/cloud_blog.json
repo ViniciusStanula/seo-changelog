@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-17T01:22:06.723152+00:00",
+  "fetched_at": "2026-11-17T15:37:05.230560+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/",
+      "title": "Building Sovereign AI in Europe, With Europe: Our New Startup Accelerator",
+      "link": "https://cloud.google.com/blog/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/",
+      "published": "Tue, 17 Nov 2026 08:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/sovereign-ai-on-your-terms-made-with-europe/",
+      "title": "Sovereign AI in Europe: New ways to control your AI stack",
+      "link": "https://cloud.google.com/blog/products/identity-security/sovereign-ai-on-your-terms-made-with-europe/",
+      "published": "Tue, 17 Nov 2026 08:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/storage-data-transfer/maximizing-ai-accelerator-roi-with-purpose-built-storage/",
       "title": "Beyond the compute bottleneck: Maximizing the ROI of AI accelerators with purpose-built storage",
@@ -32,12 +44,6 @@
       "published": "Mon, 16 Nov 2026 08:05:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
       "title": "New AI agent observability and governance across BigQuery and Looker",
       "link": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
@@ -53,6 +59,12 @@
       "id": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
       "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
       "link": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
+      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+      "title": "What’s new with Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
       "published": "Fri, 13 Nov 2026 17:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "How lemonflow built real-time agents for EV charging using Gemma and TPUs",
       "link": "https://cloud.google.com/blog/topics/startups/building-real-time-agents-for-ev-charging-using-gemma-and-tpus/",
       "published": "Wed, 11 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
-      "title": "Inside the Gemini factory: Accelerating partner solutions",
-      "link": "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/",
-      "published": "Tue, 10 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
-      "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
-      "link": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/",
-      "published": "Tue, 10 Nov 2026 17:00:00 +0000"
     }
   ]
 }
