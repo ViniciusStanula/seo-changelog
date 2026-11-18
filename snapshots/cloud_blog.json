@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-11-18T15:14:06.091178+00:00",
+  "fetched_at": "2026-11-18T23:44:50.734596+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/",
+      "title": "A bridge to modernization: What IDC’s Market Note says about Cameyo by Google",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/",
+      "published": "Wed, 18 Nov 2026 21:36:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/",
+      "title": "EMEA startups building the next-generation of agents on Google Cloud",
+      "link": "https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/",
+      "published": "Wed, 18 Nov 2026 17:30:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/",
+      "title": "What’s new in OKF v0.3: enterprise-ready knowledge, use cases, and skills",
+      "link": "https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/",
+      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/",
+      "title": "Testing changes, fast: Introducing agentic assessments in Database Center",
+      "link": "https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/",
+      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/networking/run-aiml-workloads-on-ipv6-only-gke-clusters/",
+      "title": "Scaling massive AI/ML workloads with IPv6 on Google Kubernetes Engine clusters",
+      "link": "https://cloud.google.com/blog/products/networking/run-aiml-workloads-on-ipv6-only-gke-clusters/",
+      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system/",
+      "title": "Sashiko: Lessons from building an agentic code review system for Linux",
+      "link": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system/",
+      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/networking/the-envoy-agentic-stack-routing-models-tokens-and-mcp/",
+      "title": "Building an agentic stack in Envoy: routing models, tokens, and MCP",
+      "link": "https://cloud.google.com/blog/products/networking/the-envoy-agentic-stack-routing-models-tokens-and-mcp/",
+      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-durable-agentic-systems-with-google-antigravity-from-instructions-to-loops/",
       "title": "How to Build Durable Agentic Systems with Google Antigravity: From Instructions to Loops",
@@ -78,48 +120,6 @@
       "title": "Inside the new Google Cloud Data Boundary experience",
       "link": "https://cloud.google.com/blog/products/identity-security/inside-the-new-data-boundary-experience/",
       "published": "Mon, 16 Nov 2026 08:05:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
-      "title": "New AI agent observability and governance across BigQuery and Looker",
-      "link": "https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/",
-      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/",
-      "title": "Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26",
-      "link": "https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/",
-      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
-      "title": "From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB",
-      "link": "https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/",
-      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published": "Fri, 13 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/",
-      "title": "Chrome Enterprise brings more protections to healthcare technologies",
-      "link": "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/",
-      "published": "Thu, 12 Nov 2026 18:55:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
-      "title": "Powering agentic cloud governance: What's new in Organization Policy",
-      "link": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/",
-      "published": "Thu, 12 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "title": "What’s new with Google Data Cloud",
-      "link": "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/",
-      "published": "Thu, 12 Nov 2026 17:00:00 +0000"
     }
   ]
 }
