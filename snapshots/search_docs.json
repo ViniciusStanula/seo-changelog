@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-19T15:21:37.569688+00:00",
+  "fetched_at": "2026-11-20T00:04:58.970815+00:00",
   "entries": [
+    {
+      "id": "2026-11-18-Removed-the-Data-Feed-validation-tool-from-the-book-actions-documentation",
+      "title": "Removed the Data Feed validation tool from the book actions documentation",
+      "link": "https://developers.google.com/search/updates#november-2026",
+      "published": "Wed, 18 Nov 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-11-12-Added-documentation-on-identifying-traffic-from-Google-Search",
       "title": "Added documentation on identifying traffic from Google Search",
