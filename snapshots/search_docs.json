@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-11-22T23:01:44.876492+00:00",
+  "fetched_at": "2026-11-23T17:33:27.272170+00:00",
   "entries": [
+    {
+      "id": "2026-11-23-Added-an-FAQ-to-the-back-button-hijacking-spam-policy",
+      "title": "Added an FAQ to the back button hijacking spam policy",
+      "link": "https://developers.google.com/search/updates#november-2026",
+      "published": "Mon, 23 Nov 2026 00:00:00 +0000"
+    },
     {
       "id": "2026-11-18-Removed-the-Data-Feed-validation-tool-from-the-book-actions-documentation",
       "title": "Removed the Data Feed validation tool from the book actions documentation",

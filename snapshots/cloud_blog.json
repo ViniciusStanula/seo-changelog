@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-22T23:01:51.991797+00:00",
+  "fetched_at": "2026-11-23T17:33:34.006232+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+      "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+      "link": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+      "published": "Mon, 23 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+      "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+      "link": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+      "published": "Mon, 23 Nov 2026 17:00:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/",
       "title": "Ultimate guide for fixing your team’s API keys",
@@ -98,28 +110,16 @@
       "published": "Thu, 19 Nov 2026 14:00:00 +0000"
     },
     {
+      "id": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-mongodb-integration-for-googles-adk/",
+      "title": "Introducing the MongoDB Integration for Google's ADK",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-mongodb-integration-for-googles-adk/",
+      "published": "Thu, 19 Nov 2026 11:00:00 +0000"
+    },
+    {
       "id": "https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/",
       "title": "A bridge to modernization: What IDC’s Market Note says about Cameyo by Google",
       "link": "https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/",
       "published": "Wed, 18 Nov 2026 21:36:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/",
-      "title": "EMEA startups building the next-generation of agents on Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/",
-      "published": "Wed, 18 Nov 2026 17:30:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/",
-      "title": "What’s new in OKF v0.3: enterprise-ready knowledge, use cases, and skills",
-      "link": "https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/",
-      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/",
-      "title": "Testing changes, fast: Introducing agentic assessments in Database Center",
-      "link": "https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/",
-      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
     }
   ]
 }
