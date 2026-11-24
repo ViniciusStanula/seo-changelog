@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-24T03:40:32.837114+00:00",
+  "fetched_at": "2026-11-24T17:04:18.070150+00:00",
   "entries": [
+    {
+      "id": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/",
+      "title": "Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud",
+      "link": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise/",
+      "published": "Tue, 24 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/",
+      "title": "Enabling zero trust: ALLEN’s move to Chrome Enterprise Premium",
+      "link": "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium/",
+      "published": "Tue, 24 Nov 2026 15:02:00 +0000"
+    },
     {
       "id": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
       "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
@@ -8,15 +20,15 @@
       "published": "Mon, 23 Nov 2026 17:00:00 +0000"
     },
     {
-      "id": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
-      "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
-      "link": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
-      "published": "Mon, 23 Nov 2026 17:00:00 +0000"
-    },
-    {
       "id": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
       "title": "Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
       "link": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+      "published": "Mon, 23 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "id": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+      "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+      "link": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
       "published": "Mon, 23 Nov 2026 17:00:00 +0000"
     },
     {
@@ -108,18 +120,6 @@
       "title": "Scaling workforce productivity and upskilling in the agentic era",
       "link": "https://cloud.google.com/blog/topics/public-sector/scaling-workforce-productivity-and-upskilling-in-the-agentic-era/",
       "published": "Thu, 19 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/",
-      "title": "ARMORY CASTLE Exploits vSphere",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/",
-      "published": "Thu, 19 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "id": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-mongodb-integration-for-googles-adk/",
-      "title": "Introducing the MongoDB Integration for Google's ADK",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-mongodb-integration-for-googles-adk/",
-      "published": "Thu, 19 Nov 2026 11:00:00 +0000"
     }
   ]
 }
