@@ -1508,7 +1508,7 @@ These attributes can be used together with the account shipping settings and ret
 
 ### Return`[return]`
 
-**Optional** (Strongly recommended for each product) Used to configure your return policy at the product level. Learn more about the [Return `[return]`](https://support.google.com/merchants/answer/17081382)attribute. **Example** `US:90:IN_STORE:BY_MAIL:REFUND:EXCHANGE` **Syntax** This attribute uses the following sub-attributes:
+**Optional** Used to configure your return policy at the product level. Learn more about the [Return `[return]`](https://support.google.com/merchants/answer/17081382)attribute. **Example** `US:90:IN_STORE:BY_MAIL:REFUND:EXCHANGE` **Syntax** This attribute uses the following sub-attributes:
 
 * **Country**`**[country]**`**(Required)**
 * [ISO_3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country code
